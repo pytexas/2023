@@ -4,8 +4,6 @@ template: subpage.html
 ---
 
 # Our Sponsors
----
-
 We thank all of the following sponsors for making previous versions of PyTexas
 possible:
 
