@@ -4,14 +4,17 @@ template: subpage.html
 ---
 
 # Our Sponsors
-We thank all of the following sponsors for making previous versions of PyTexas
-possible:
+We thank all of the following sponsors for making this year's PyTexas possible:
 
-<br>
-<br>
-<br>
 <div class="container">
 
+  <h2>Keystone</h2>
+  <div class="row mb-4">
+    <div class="col-4 text-center">
+      <img src="/assets/img/old-sponsors/DO_Logo_Horizontal_Blue.png">
+    </div>
+  </div>
+<!--  <h3>Diamond</h3>
   <div class="row mb-4">
     <div class="col-4 text-center">
       <img src="/assets/img/old-sponsors/DO_Logo_Horizontal_Blue.png">
@@ -19,6 +22,37 @@ possible:
     <div class="col-4 text-center">
       <img src="/assets/img/old-sponsors/2000px-Oracle_logo.svg.png">
     </div>
+    <div class="col-4 text-center">
+      <img src="/assets/img/old-sponsors/tealslogo.png">
+    </div>
+  </div> 
+  <h3>T-Shirt Sponsor</h3>
+  <div class="row mb-4">
+    <div class="col-4 text-center">
+      <img src="/assets/img/old-sponsors/DO_Logo_Horizontal_Blue.png">
+    </div>
+    <div class="col-4 text-center">
+      <img src="/assets/img/old-sponsors/2000px-Oracle_logo.svg.png">
+    </div>
+    <div class="col-4 text-center">
+      <img src="/assets/img/old-sponsors/tealslogo.png">
+    </div>
+  </div> -->
+  <h3>EBook Sponsor</h3>
+  <div class="row mb-4">
+    <div class="col-4 text-center">
+      <img src="/assets/img/old-sponsors/bighorizontal_transparent2.png">
+    </div>
+  </div>
+
+  <h4>Gold</h4>
+  <div class="row mb-4">
+    <div class="col-4 text-center">
+      <img src="/assets/img/old-sponsors/2000px-Oracle_logo.svg.png">
+    </div>
+  </div>
+  <h5>Silver & Bronze</h5>
+  <div class="row mb-4">
     <div class="col-4 text-center">
       <img src="/assets/img/old-sponsors/tealslogo.png">
     </div>
