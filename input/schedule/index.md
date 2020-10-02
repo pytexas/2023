@@ -153,7 +153,7 @@ Directly integrating dependencies into business logic couples our code to someth
 Aly Sivji
     </h5>
     <small>
-Aly Sivji is a Canadian expat living in Chicago. By day, he builds backend systems at Numerator. By night, he is a co-organizer of the Chicago Python Users Group (ChiPy). Aly is an active participant in ChiPy’s Mentorship Program and he loves helping intermediate developers become experts. Outside of Python, Aly enjoys cycling, reading, and rewatching old TV shows.
+Aly Sivji is a Canadian expat living in Chicago. By day, he builds backend systems. By night, he is a co-organizer of the Chicago Python Users Group (ChiPy). Aly is an active participant in ChiPy’s Mentorship Program and he loves helping intermediate developers become experts. Outside of Python, Aly enjoys cycling, reading, and rewatching old TV shows.
     </small>
   </div>
 </div>
