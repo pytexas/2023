@@ -145,7 +145,7 @@ Directly integrating dependencies into business logic couples our code to someth
 </p>
 <div class="media">
   <div class="col-2">
-    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/name.png"/>
+    <img class="align-self-start mr-3 img-thumbnail" src="/assets/img/speakers/aly.jpg"/>
   </div>
   <div class="media-body">
     <h5 class="mt-0">
