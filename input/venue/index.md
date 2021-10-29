@@ -11,6 +11,10 @@ PyTexas 2022 is being held at the [Austin Central Public Library](http://library
 ![Austin Public Library](/assets/img/apl.jpg)
 </center>
 
+# Covid-19 Safety Precautions
+The PyTexas Staff are working closely with APL Staff to ensure the safety of our attendees. We
+will adhere to all guidelines required by venue and health officials.
+
 ## Map
 <center>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6892.120089668219!2d-97.75042138681353!3d30.263870329979657!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8644b50fdcb160bd%3A0x6a1f19008170521c!2sAustin%20Central%20Library%2C%20Austin%20Public%20Library!5e0!3m2!1sen!2sus!4v1634825715772!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
