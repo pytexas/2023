@@ -47,7 +47,7 @@ As a sponsor, your funding assistance will serve three critical purposes:
     - Drive adoption of your product
     - Simply show your support for the Texas Python community
 1. Build a better PyTexas by enabling organizers to attract attendees with standard conference perks such as printed t-shirts, catering, professional A/V, and more.
-1. Help keep the cost of PyTexas low. PyTexas 2022 attendees will pay a modest registration fee of $25. Your sponsorship helps us keep this price reasonable for everyone involved.
+1. Help keep the cost of PyTexas low. PyTexas 2022 attendees will pay a modest registration fee. Your sponsorship helps us keep this price reasonable for everyone involved.
 
 ## Sponsorship Opportunities
 
