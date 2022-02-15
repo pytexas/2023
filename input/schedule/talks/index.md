@@ -3,7 +3,7 @@ title: Talk Schedule
 template: subpage.html
 ---
 
-# Accetped Talks
+# Accepted Talks
 ---
 
 These are the talks accepted to PyTexas. They are listed alphabetically. A
