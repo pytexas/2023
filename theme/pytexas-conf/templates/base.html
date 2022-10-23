@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>PyTexas 2022</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description"
+    content="The largest community-run Python event in Texas. Returning in person March 26 - 27, 2022 at the Austin Public Library">
+  <meta name="twitter:image:src" content="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/img/brand2022.png" />
+  <meta name="twitter:site" content="@pytexas" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="PyTexas 2022" />
+  <meta name="twitter:description"
+    content="The largest community-run Python event in Texas. Returning in person March 26 - 27, 2022 at the Austin Public Library" />
+  <meta property="og:image" content="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/img/brand2022.png" />
+  <meta property="og:site_name" content="PyTexas 2022" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="PyTexas 2022" />
+  <meta property="og:description"
+    content="The largest community-run Python event in Texas. Returning in person March 26 - 27, 2022 at the Austin Public Library" />
+  <script type="text/javascript">
+    window.addEventListener("load", function () { document.querySelector('body').classList.add('loaded'); });
+  </script>
+  <link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/theme.min.css" rel="stylesheet" type="text/css" media="all" />
+  <link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/2022.css" rel="stylesheet" type="text/css" media="all" />
+
+  {% if FEED_RSS %}
+    <link href="{{ FEED_DOMAIN }}/{{ FEED_RSS }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }}-Feed" />
+  {% endif %}
+
+  {% block head %}
+  <title>{% block title %}{{ SITENAME }} {{ TAGLINE }}{% endblock title %}</title>
+      <meta charset="utf-8" />
+      <meta name="viewport" content="width=device-width">
+  {% endblock head %}
+</head>
+
+<body>
+  <div class="loader">
+    <div class="loading-animation"></div>
+  </div>
+  <div class="navbar-container ">
+    <nav class="navbar navbar-expand-lg navbar-dark" data-overlay data-sticky="top">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse"
+        aria-expanded="false" aria-label="Toggle navigation">
+        <img class="icon navbar-toggler-open" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/img/icons/interface/menu.svg" alt="menu interface icon"
+          data-inject-svg />
+        <img class="icon navbar-toggler-close" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/img/icons/interface/cross.svg" alt="cross interface icon"
+          data-inject-svg />
+      </button>
+      <div class="collapse navbar-collapse">
+        <a class="navbar-brand" href="/">
+          <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/img/brand.svg" width="150" height="50" alt="">
+        </a>
+        <div class="py-2 py-lg-0">
+          <ul class="navbar-nav">
+            {% for title, items in MENUITEMS.items() %}
+              {% if items.Dropdown %}
+              <li class="nav-item dropdown">
+                <a href="{{ items.Index }}" class="nav-link dropdown-toggle" data-toggle="dropdown-grid" aria-expanded="false"
+                  aria-haspopup="true">{{ title}}</a>
+                <div class="dropdown-menu row">
+                  <div class="col-auto" data-dropdown-content>
+                    <div class="dropdown-grid-menu">
+                      {% for pgtitle, link in items.Pages.items() %}
+                      <a href="{{ link }}" class="dropdown-item">{{ pgtitle }}</a>
+                      {% endfor %}
+                    </div>
+                  </div>
+                </div>
+              </li>
+              {% else %}
+              <li class="nav-item dropdown">
+                <a href="{{ items.Index }}" class="nav-link">{{ title }}</a>
+              </li>
+              {% endif %}
+              
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      <a href="https://ti.to/pytexas/pytexas-2022" class="btn btn-2022-orange bg-2022-purple mx-lg-3">Buy a PyTexas 2022 Shirt</a>
+    </nav>
+  </div>
+
+  {% block content %}{% endblock %}
+
+  {% include 'footer.html' %}
+  <!-- Required vendor scripts (Do not remove) -->
+  <script type="text/javascript" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/jquery.min.js"></script>
+  <script type="text/javascript" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/popper.min.js"></script>
+  <script type="text/javascript" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/bootstrap.js"></script>
+
+  <!-- SVGInjector (replaces img tags with SVG code to allow easy inclusion of SVGs with the benefit of inheriting colors and styles)-->
+  <script type="text/javascript" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/svg-injector.umd.production.js"></script>
+  <!-- ScrollMonitor (manages events for elements scrolling in and out of view) -->
+  <script type="text/javascript" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/scrollMonitor.js"></script>
+
+  <!-- Required theme scripts (Do not remove) -->
+  <script type="text/javascript" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/theme.js"></script>
+</body>
+
+</html>
