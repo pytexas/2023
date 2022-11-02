@@ -1,7 +1,7 @@
 Title: Sponsor PyTexas
 slug: sponsors/prospectus
 date: 2022-10-23
-# Sponsor Prospectus - Online Conference
+# Sponsor Prospectus
 ---
 
 Presenting PyTexas 2022, the 12th Python Community Conference for the Texas Region. The purpose of PyTexas is to share Python-related knowledge and enthusiasm in the form of presentations, coding sprints, "teach me" sessions, and general networking among developers. It is run every year by volunteers from around the region.
