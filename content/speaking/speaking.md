@@ -10,10 +10,10 @@ date: 2022-10-23
 PyTexas is a single-track conference with a total attendence of ~250 people.
 
 ## Call for proposals
-The PyTexas call for proposals is here: <https://www.papercall.io/pytexas-2022>
+The PyTexas call for proposals is here: <FIX-ME> <https://www.papercall.io/pytexas-2022>
 
-* The Call For Proposals (CFP) opens November 12th, 2021
-* The Call For Proposals (CFP) closes on January 12th, 2022, 23:59 CST.
+* The Call For Proposals (CFP) opens November 15th, 2022
+* The Call For Proposals (CFP) closes on January 15th, 2023, 23:59 CST.
 
 ## Talks
 Talks must be 25 minutes long, including any optional Q&A.

@@ -4,10 +4,10 @@ date: 2022-10-23
 
 # Venue
 ---
-PyTexas 2022 is being held at the [Austin Central Public Library](http://library.austintexas.gov/central-library) in Austin, TX:
+PyTexas 2023 is being held at the [Austin Central Public Library](http://library.austintexas.gov/central-library) in Austin, TX:
 
 <center>
-![Austin Public Library](/assets/img/apl.jpg)
+![Austin Public Library](/theme/img/apl.jpg)
 </center>
 
 # Covid-19 Safety Precautions

@@ -2,7 +2,7 @@ Title: Health and Safety Guidelines
 slug: attend/health
 date: 2022-10-23
 
-# 2022 Health and Safety Guidelines
+# 2023 Health and Safety Guidelines
 ---
 
 <i>This page was last updated on December 31, 2021.</i>

@@ -64,9 +64,9 @@ MENUITEMS = {
             "About PyTexas": "/about",
             "Code of Conduct": "/about/code-of-conduct",
             "Diversity Statement": "/about/diversity-statement",
-            "FAQ": "/about/faq",
-            "Volunteering": "/about/volunteering",
             "Privacy Statement": "/about/privacy-statement",
+            "Volunteering": "/about/volunteering",
+            "FAQ": "/about/faq",
         },
         "Dropdown": True,
     },
@@ -81,25 +81,25 @@ MENUITEMS = {
         },
         "Dropdown": True,
     },
-    "Schedule": {
-        "Index": "/schedule",
-        "Pages": {
-            "Keynotes": "/schedule/keynotes",
-            "Talks": "/schedule/talks",
-            "Full Schedule": "/schedule",
-            "Lightning Talks": "/schedule/lightning-talks",
-        },
-        "Dropdown": True,
-    },
+    #"Schedule": {
+    #    "Index": "/schedule",
+    #    "Pages": {
+    #        "Keynotes": "/schedule/keynotes",
+    #        "Talks": "/schedule/talks",
+    #        "Full Schedule": "/schedule",
+    #        "Lightning Talks": "/schedule/lightning-talks",
+    #    },
+    #    "Dropdown": True,
+    #},
     "Sponsors": {
         "Index": "/sponsors",
         "Pages": {
-            "Current Sponsors": "/sponsors/current-sponsors",
+            #"Current Sponsors": "/sponsors/current-sponsors",
             "Sponsor PyTexas": "/sponsors/prospectus",
         },
         "Dropdown": True,
     },
-    "Job Board": {"Index": "/job-board", "Dropdown": False},
+    #"Job Board": {"Index": "/job-board", "Dropdown": False},
     "Speaking": {"Index": "/speaking", "Dropdown": False},
 }
 
