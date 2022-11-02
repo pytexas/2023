@@ -9,7 +9,7 @@ While at PyTexas you may park in the Austin Public Library parking garage while 
 The event will be starting before the library is open. **Be sure to use the South Elevator or stais to Cesar Chavez to access the venue.** See the map below for 
 directions.
 
-![Parking map of APL](/assets/img/library-parking.PNG)
+![Parking map of APL](/theme/img/library-parking.PNG)
 
 ## Other Parking Options
 If the parking garage is full, there are other parking options nearby.
