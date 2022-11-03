@@ -54,27 +54,202 @@ most of your investment in the Python community.
 
 ### Standard Packages
 
-|                                                                     | Keystone   $50,000 | Platinum   $25,000 | Diamond   $10,000 | Gold   $5,000 | Silver   $2,500 | Bronze   $1,125 | Bronze-Personal   $500 |
-|---------------------------------------------------------------------|--------------------|--------------------|-------------------|---------------|-----------------|-----------------|------------------------|
-| Number Limit                                                        | 1                  | 2                  | 4                 | ∞             | ∞               | ∞               | ∞                      |
-| Free sponsor tickets                                                | 10                 | 5                  | 2                 | 1             |                 |                 | 1                      |
-| 10% discount conference tickets  (Corporate rate)                   | 20                 | 10                 | 4                 | 2             | 2               | 1               |                        |
-| Sponsor name, logo, link, and description on website                | ✓                  | ✓                  | ✓                 | ✓             | ✓               |                 |                        |
-| Plain text acknowlegement on Website                                |                    |                    |                   |               |                 | ✓               | ✓                      |
-| Optional “Is Hiring” indicator with link on website                 | ✓                  | ✓                  | ✓                 | ✓             |                 |                 |                        |
-| Logo in break video rotation                                        | ✓                  | ✓                  | ✓                 |               |                 |                 |                        |
-| Social media: Thanked in Twitter post                               | ✓                  | ✓                  | ✓                 | ✓             | ✓               | ✓               | ✓ [Optional]           |
-| Logo on conference T-SHIRT! Rear, small.                            | ✓                  | ✓                  | ✓                 |               |                 |                 |                        |
-| Exhibit Table                                                       | 2                  | 1                  | 1                 |               |                 |                 |                        |
-| Sponsor Banner stands  (2; provided by sponsor, more negotiable)    | ✓                  | ✓                  | ✓                 | 1             |                 |                 |                        |
-| Promotional items placed on seating tables in venue                 | ✓                  | ✓                  | ✓                 | ✓             | ✓               | ✓               |                        |
-| Logo featured on Speaker backdrop                                   | ✓                  | ✓                  |                   |               |                 |                 |                        |
-| Logo on ALL conference talk videos available forever                | ✓                  | ✓                  | $1,000            | $1,000        | $1,000          | $1,000          |                        |
-| Featured in wrap-up video with special thanks                       | Preeminent         | Preeminent         | Preeminent        | $1,000        | $1,000          | $1,000          |                        |
-| Optional ten minute speaking slot prior to Day 1 Keynote            | ✓                  | ✓                  |                   |               |                 |                 |                        |
-| Optional five minute speaking slot after a keynote (max 3 sponsors) | ✓                  | ✓                  |                   |               |                 |                 |                        |
-| 1 notification to attendees during the conference                   | ✓                  |                    |                   |               |                 |                 |                        |
-
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col"></t>
+            <th scope="col">Keystone   $50,000</th>
+            <th scope="col">Platinum   $25,000</th>
+            <th scope="col">Diamond   $10,000</th>
+            <th scope="col">Gold   $5,000</th>
+            <th scope="col">Silver   $2,500</th>
+            <th scope="col">Bronze   $1,125</th>
+            <th scope="col">Personal   $500</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row">Number Limit</td>
+            <td>1</td>
+            <td>2</td>
+            <td>4</td>
+            <td>∞</td>
+            <td>∞</td>
+            <td>∞</td>
+            <td>∞</td>
+        </tr>
+        <tr>
+            <th scope="row">Free sponsor tickets</td>
+            <td>10</td>
+            <td>5</td>
+            <td>2</td>
+            <td>1</td>
+            <td></td>
+            <td></td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <th scope="row">10% discount conference tickets  (Corporate rate)</td>
+            <td>20</td>
+            <td>10</td>
+            <td>4</td>
+            <td>2</td>
+            <td>2</td>
+            <td>1</td>
+            <td></td>
+        </tr>
+        <tr>
+            <th scope="row">Sponsor name, logo, link, and description on website</td>
+            <td>✓</td>
+            <td>✓</td>
+            <td>✓</td>
+            <td>✓</td>
+            <td>✓</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <th scope="row">Plain text acknowlegement on Website</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>✓</td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <th scope="row">Optional “Is Hiring” indicator with link on website</td>
+            <td>✓</td>
+            <td>✓</td>
+            <td>✓</td>
+            <td>✓</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <th scope="row">Logo in break video rotation</td>
+            <td>✓</td>
+            <td>✓</td>
+            <td>✓</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <th scope="row">Social media: Thanked in Twitter post</td>
+            <td>✓</td>
+            <td>✓</td>
+            <td>✓</td>
+            <td>✓</td>
+            <td>✓</td>
+            <td>✓</td>
+            <td>✓ [Optional]</td>
+        </tr>
+        <tr>
+            <th scope="row">Logo on conference T-SHIRT! Rear, small.</td>
+            <td>✓</td>
+            <td>✓</td>
+            <td>✓</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <th scope="row">Exhibit Table</td>
+            <td>2</td>
+            <td>1</td>
+            <td>1</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <th scope="row">Sponsor Banner stands  (2; provided by sponsor, more negotiable)</td>
+            <td>✓</td>
+            <td>✓</td>
+            <td>✓</td>
+            <td>1</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <th scope="row">Promotional items placed on seating tables in venue</td>
+            <td>✓</td>
+            <td>✓</td>
+            <td>✓</td>
+            <td>✓</td>
+            <td>✓</td>
+            <td>✓</td>
+            <td></td>
+        </tr>
+        <tr>
+            <th scope="row">Logo featured on Speaker backdrop</td>
+            <td>✓</td>
+            <td>✓</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <th scope="row">Logo on ALL conference talk videos available forever</td>
+            <td>✓</td>
+            <td>✓</td>
+            <td>$1,000</td>
+            <td>$1,000</td>
+            <td>$1,000</td>
+            <td>$1,000</td>
+            <td></td>
+        </tr>
+        <tr>
+            <th scope="row">Featured in wrap-up video with special thanks</td>
+            <td>Preeminent</td>
+            <td>Preeminent</td>
+            <td>Preeminent</td>
+            <td>$1,000</td>
+            <td>$1,000</td>
+            <td>$1,000</td>
+            <td></td>
+        </tr>
+        <tr>
+            <th scope="row">Optional ten minute speaking slot prior to Day 1 Keynote</td>
+            <td>✓</td>
+            <td>✓</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <th scope="row">Optional five minute speaking slot after a keynote (max 3 sponsors)</td>
+            <td>✓</td>
+            <td>✓</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <th scope="row">1 notification to attendees during the conference</td>
+            <td>✓</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Exclusive Benefits
 
