@@ -58,13 +58,13 @@ most of your investment in the Python community.
     <thead style="position: sticky; top: 90px" class="thead-dark">
         <tr>
             <th scope="col"></t>
-            <th scope="col">Keystone   $50,000</th>
+            <th scope="col">The Lone Star Package   $50,000</th>
             <th scope="col">Platinum   $25,000</th>
             <th scope="col">Diamond   $10,000</th>
             <th scope="col">Gold   $5,000</th>
             <th scope="col">Silver   $2,500</th>
             <th scope="col">Bronze   $1,125</th>
-            <th scope="col">Personal   $500</th>
+            <th scope="col">Personal/Community   $500</th>
         </tr>
     </thead>
     <tbody>
@@ -121,19 +121,9 @@ most of your investment in the Python community.
         <tr>
             <th scope="row">Optional “Is Hiring” indicator with link on website</td>
             <td>✓</td>
+            <td>✓</td>f
             <td>✓</td>
             <td>✓</td>
-            <td>✓</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <th scope="row">Logo in break video rotation</td>
-            <td>✓</td>
-            <td>✓</td>
-            <td>✓</td>
-            <td></td>
             <td></td>
             <td></td>
             <td></td>
@@ -151,8 +141,8 @@ most of your investment in the Python community.
         <tr>
             <th scope="row">Logo on conference T-SHIRT! Rear, small.</td>
             <td>✓</td>
-            <td>✓</td>
-            <td>✓</td>
+            <td>Add-on</td>
+            <td>Add-on</td>
             <td></td>
             <td></td>
             <td></td>
@@ -173,7 +163,7 @@ most of your investment in the Python community.
             <td>✓</td>
             <td>✓</td>
             <td>✓</td>
-            <td>1</td>
+            <td>✓</td>
             <td></td>
             <td></td>
             <td></td>
@@ -219,9 +209,9 @@ most of your investment in the Python community.
             <td></td>
         </tr>
         <tr>
-            <th scope="row">Optional ten minute speaking slot prior to Day 1 Keynote</td>
+            <th scope="row">Optional 25 minute speaking slot directly after to Day 1 Keynote</td>
             <td>✓</td>
-            <td>✓</td>
+            <td></td>
             <td></td>
             <td></td>
             <td></td>
@@ -239,7 +229,7 @@ most of your investment in the Python community.
             <td></td>
         </tr>
         <tr>
-            <th scope="row">1 notification to attendees during the conference</td>
+            <th scope="row">1 Exclusive email sharing your message with the PyTexas mailing list</td>
             <td>✓</td>
             <td></td>
             <td></td>
@@ -255,35 +245,33 @@ most of your investment in the Python community.
 
 PyTexas also offers several exclusive sponsor benefits on a first-come, first-served basis (add-ons available to sponsors at Gold tier or above):
 
-- **T-Shirt Sponsor ($5000)**
+- **T-Shirt Sponsor ($10,000)**
     - Two sponsorships available
     - Company logo on sleeve of official conference tshirt
     - 10 free t-shirts
-- **Video Sponsor ($5000)**
+- **Video Sponsor ($5,000)**
     - Five sponsorships available
     - Company logo featured prominently at the beginning and end of every talk recording ([example](https://www.youtube.com/watch?v=68z91dRJCOU))
     - Official promotion via website, schedule, and announcements
     - 1 free ticket to PyTexas
-- **Afterparty Sponsor ($10000)**
+- **Afterparty Sponsor ($10,000)**
     - One sponsorship available
     - Promote your organization by speaking at the afterparty
     - Official promotion via website, schedule, and announcements
     - 2 free tickets to PyTexas
-- **Lanyard Sponsor ($3500)**
+- **Lanyard Sponsor ($3,500)**
     - One sponsorship available
     - Company logo featured on the conference badge lanyards
     - 1 free tickets to PyTexas
-- **Coffee Sponsor ($1000)**
+- **Coffee Sponsor ($1,000)**
     - Two sponsorships available
     - Sponsor one day of coffee
     - Company logo on coffee table for the day
     - Add-on: Sponsor coffee cups with sponsor's logo
-- **Diversity & Inclusion Sponsor ($1000)**
+- **Diversity & Inclusion Sponsor ($1,000)**
     - Unlimited sponsorships available
     - Contribute directly to financial aid
     - 2 free tickets to PyTexas
-- **Invitation Sponsor $Negotiable**
-    - Sponsor logo/link/brief message in email communications to attendees.
 
 Contact the Sponsor Chair for more details.
 ### Have an Idea?
