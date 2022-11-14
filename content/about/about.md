@@ -33,7 +33,7 @@ postings are also welcome on the list.
 ## About This Site
 
 This site acts as the primary public facing website to the PyTexas Conference.
-It is built using Python and Django.
+It is built using Python and Pelican.
 
 ## Thanks
 Finally, thanks go to atomic forces and electrons for providing the medium through which this site and the internet is built upon.

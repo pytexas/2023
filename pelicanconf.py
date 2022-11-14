@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+from pelican.readers import HTMLReader
+from pelican.settings import DEFAULT_CONFIG
 from utils.filters import sidebar
 from markdown.extensions.tables import TableExtension
 
@@ -14,6 +16,9 @@ SITEURL = "http://localhost:8000"
 SITESRC = "https://github.com/pytexas/conference.pytexas.org"
 SITELOGO = SITEURL + "/static/favicon.png"
 FAVICON = SITEURL + "/static/favicon.ico"
+
+CONFERENCE_YEAR = 2023
+CONFERENCE_DATES = "April 1 & 2, 2023"
 
 PATH = "content/"
 
@@ -39,16 +44,25 @@ PAGE_SAVE_AS = "{slug}/index.html"
 # Theme
 THEME = "theme/pytexas-conf"
 
-MARKDOWN = {"extensions": [TableExtension()]}
+MARKDOWN = {
+    "extensions": [TableExtension()]
+}
 
 # Plugins
 # PLUGIN_PATHS = ['pelican-plugins']
 # PLUGINS = ['neighbors']
 
 # static files
-STATIC_PATHS = ["static", "favicon.ico"]
+STATIC_PATHS = [
+    "static",
+    "favicon.ico"
+]
 
-JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.do"]}
+JINJA_ENVIRONMENT = {
+    "extensions": [
+        "jinja2.ext.do"
+    ]
+}
 
 COPYRIGHT_YEAR = 2022
 COPYRIGHT_NAME = "PyTexas Foundation"
@@ -73,51 +87,42 @@ MENUITEMS = {
     "Attend": {
         "Index": "/attend",
         "Pages": {
+            "Health and Safety Guidelines": "/attend/health",
             "Venue": "/attend/venue",
             "Parking": "/attend/parking",
             "Food": "/attend/food",
-            "Health": "/attend/health",
             "Grants": "/attend/grants",
         },
         "Dropdown": True,
     },
-    #"Schedule": {
-    #    "Index": "/schedule",
-    #    "Pages": {
-    #        "Keynotes": "/schedule/keynotes",
-    #        "Talks": "/schedule/talks",
-    #        "Full Schedule": "/schedule",
-    #        "Lightning Talks": "/schedule/lightning-talks",
-    #    },
-    #    "Dropdown": True,
-    #},
     "Sponsors": {
         "Index": "/sponsors",
         "Pages": {
-            #"Current Sponsors": "/sponsors/current-sponsors",
             "Sponsor PyTexas": "/sponsors/prospectus",
         },
         "Dropdown": True,
     },
-    #"Job Board": {"Index": "/job-board", "Dropdown": False},
-    "Speaking": {"Index": "/speaking", "Dropdown": False},
+    "Speaking": {
+        "Index": "/speaking",
+        "Dropdown": False
+    },
 }
 
-JINJA_FILTERS = {"sidebar": sidebar}
+JINJA_FILTERS = {
+    "sidebar": sidebar
+}
 
 # Blogroll
-LINKS = {"PyCon": "https://pycon.org/", "Python.org": "https://www.python.org/"}
+LINKS = {
+    "PyCon": "https://pycon.org/",
+    "Python.org": "https://www.python.org/"
+}
 
 # Social widget
-
 SOCIAL = {
     "Twitter": "https://twitter.com/pytexas",
-    #'LinkedIn': '#',
     "Discord": "https://discord.gg/jNPAbcNukj",
     "YouTube": "https://www.youtube.com/channel/UCkn0L-L6auy9YAmlSy9Kv1Q/playlists",
 }
 
 DEFAULT_PAGINATION = False
-
-# Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True

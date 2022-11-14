@@ -4,7 +4,9 @@ Website for the Annual PyTexas Conference
 ## Local Dev
 
 * Install [Poetry](https://python-poetry.org/docs/#installing-with-the-official-installer)
-* Run `poetry install` to install the development packages
-* Run `poetry shell` to activate the virtual environment
-* Run `make devserver` to run the live development server
-    * This doesn't hot reload, so you'll need to hard refesh the page to see your updates
+* Use the following two commands to start the devserver:
+    ```bash
+    poetry install
+    poetry run make devserver
+    ```
+* Navigate to `http://localhost:8000` to find your site. Do *not* use `http://127.0.0.1:8000` as it will result in a broken pipe error and will not hot-reload.
