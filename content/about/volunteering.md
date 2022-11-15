@@ -17,11 +17,8 @@ unable to attend.
 
 # Sign up
 
-If you're interested in volunteering, please take a moment to read the brief
-descriptions below and fill out the [volunteer sign up
-form](https://goo.gl/forms/AJ9WanqzHn3BXZwT2). Reach out to
-[volunteers@pytexas.org](mailto:volunteers@pytexas.org) if you have any
-questions or concerns.
+If you're interested in volunteering, please reach out to
+[volunteers@pytexas.org](mailto:volunteers@pytexas.org) and let us know you're interested.
 
 Here’s a few things we’ll need help with:
 

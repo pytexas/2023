@@ -11,8 +11,8 @@ In addition to already subsidized rates for individuals, students and those unde
 
 If your company is interested in contributing to our grants budget, consider becoming a [Diversity & Inclusion Sponsor](/sponsors/prospectus).
 
-Currently we have a $1K total grant budget and each individual will be reimbursed a maximum of $250. Reimbursements will be made at the conclusion of the conference.
+Currently we have a limited budget and are evaluating what we can provide. Tickets are generally the easiest thing to grant, and we are aiming to have some cash to help reimburse travel/lodging.
 
-If you are facing a financial hardship, or would not be able to attend without assistance, please fill out the application below. Applications will be approved by March 13<sup>th</sup>.
+If you are facing a financial hardship, or would not be able to attend without assistance, please fill out the application below. Applications will be approved by Feb. 20<sup>th</sup> 2023.
 
 **[Grant Application](https://goo.gl/forms/WXcF0xFzBfOHPLU43)**
