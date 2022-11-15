@@ -31,6 +31,8 @@ Masks must be worn over the nose and mouth and must be made of a tight-knit, non
 
 PyTexas 2023 will require vaccination of all attendees, but we will not be requiring specific boosters since the availability and timing of boosters has varied so much from place to place. COVID-19 vaccines are effective at protecting people from getting seriously ill, being hospitalized, and dying. As with other diseases, you are protected best from COVID-19 when you stay up to date with the recommended vaccines, including locally available boosters.
 
+Attendees will be required to self-certify that they are vaccinated at registration before receiving their badge.
+
 ### Rapid Testing
 
 We encourage attendees to do a rapid test before traveling and consider testing during the event, especially if you will be eating indoors with people. We did look into providing free, rapid onsite testing for participants but it is not feasible (logistically or financially) for an event like ours.
