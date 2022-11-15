@@ -34,22 +34,27 @@ It is built using Python and Pelican.&lt;/p&gt;
 everyone, regardless of gender, sexual orientation, disability, physical
 appearance, body size, race, or religion. We do not tolerate harassment of
 conference participants in any form.&lt;/p&gt;
-&lt;p&gt;All communication should be appropriate for a professional audience including
-people of …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Code of Conduct&lt;/h1&gt;
+&lt;h2&gt;Abridged Version&lt;/h2&gt;
+&lt;p&gt;All communication should be appropriate for a professional audience including …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Code of Conduct&lt;/h1&gt;
 &lt;hr /&gt;
 &lt;p&gt;PyTexas is dedicated to providing a harassment-free conference experience for
 everyone, regardless of gender, sexual orientation, disability, physical
 appearance, body size, race, or religion. We do not tolerate harassment of
 conference participants in any form.&lt;/p&gt;
+&lt;h2&gt;Abridged Version&lt;/h2&gt;
 &lt;p&gt;All communication should be appropriate for a professional audience including
 people of many different backgrounds. Sexual language and imagery is not
 appropriate for any conference venue, including talks.&lt;/p&gt;
 &lt;p&gt;Be kind to others. Do not insult or put down other attendees. Behave
 professionally. Remember that harassment and sexist, racist, or exclusionary
 jokes are not appropriate for PyTexas.&lt;/p&gt;
-&lt;p&gt;Attendees violating these rules may be asked to leave the conference without a
-refund at the sole discretion of the conference organizers. We prioritize
-marginalized people's safety over privileged people's comfort.&lt;/p&gt;
+&lt;h2&gt;Full Versions&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;You are subject to our full Code of Conducts, both our Community Code of Conduct
+and our Physical Spaces Code of Conduct. You can find those below:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/pytexas/code-of-conduct/blob/main/CODE_OF_CONDUCT.md"&gt;Community Code of Conduct&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/pytexas/code-of-conduct/blob/main/physical-spaces-code-of-conduct.md"&gt;Physical Spaces of Conduct&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;If you believe an individual has violated this Code of Conduct, please contact
 us via any of the methods below:&lt;/p&gt;
 &lt;ul&gt;
@@ -215,11 +220,8 @@ offer free admittance or other compensation to our volunteers, however, we are
 committed to providing financial assistance to people who might otherwise be
 unable to attend.&lt;/p&gt;
 &lt;h1&gt;Sign up&lt;/h1&gt;
-&lt;p&gt;If you're interested in volunteering, please take a moment to read the brief
-descriptions below and fill out the &lt;a href="https://goo.gl/forms/AJ9WanqzHn3BXZwT2"&gt;volunteer sign up
-form&lt;/a&gt;. Reach out to
-&lt;a href="mailto:volunteers@pytexas.org"&gt;volunteers@pytexas.org&lt;/a&gt; if you have any
-questions or concerns.&lt;/p&gt;
+&lt;p&gt;If you're interested in volunteering, please reach out to
+&lt;a href="mailto:volunteers@pytexas.org"&gt;volunteers@pytexas.org&lt;/a&gt; and let us know you're interested.&lt;/p&gt;
 &lt;p&gt;Here’s a few things we’ll need help with:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Registration Desk:&lt;/strong&gt; You will be responsible for checking in attendees,
 distributing badges/lanyards, and serving as a first point of contact for
@@ -271,8 +273,8 @@ has to offer. You'll have 2 hours for lunch, so be sure to factor in wait times 
 &lt;p&gt;Our goal is to ensure that everyone who wants to attend PyTexas can do so, regardless of age, race, gender, ethnicity, ability or sexual orientation. One way we make this possible is by providing financial assistance to community members that are otherwise unable to attend.&lt;/p&gt;
 &lt;p&gt;In addition to already subsidized rates for individuals, students and those under the age of eighteen, this grant can be used by those in need to cover registration fees, hotels, and travel. These opportunity grants come directly from the PyTexas budget on a case-by-case basis.&lt;/p&gt;
 &lt;p&gt;If your company is interested in contributing to our grants budget, consider becoming a &lt;a href="/sponsors/prospectus"&gt;Diversity &amp;amp; Inclusion Sponsor&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Currently we have a $1K total grant budget and each individual will be reimbursed a maximum of $250. Reimbursements will be made at the conclusion of the conference.&lt;/p&gt;
-&lt;p&gt;If you are facing a financial hardship, or would not be able to attend without assistance, please fill out the application below. Applications will be approved by March 13&lt;sup&gt;th&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Currently we have a limited budget and are evaluating what we can provide. Tickets are generally the easiest thing to grant, and we are aiming to have some cash to help reimburse travel/lodging.&lt;/p&gt;
+&lt;p&gt;If you are facing a financial hardship, or would not be able to attend without assistance, please fill out the application below. Applications will be approved by Feb. 20&lt;sup&gt;th&lt;/sup&gt; 2023.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="https://goo.gl/forms/WXcF0xFzBfOHPLU43"&gt;Grant Application&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</content><category term="attend"></category></entry><entry><title>Health and Safety Guidelines</title><link href="https://www.pytexas.org/attend/health.html" rel="alternate"></link><published>2022-10-23T00:00:00-05:00</published><updated>2022-10-23T00:00:00-05:00</updated><author><name>PyTexas Devs</name></author><id>tag:www.pytexas.org,2022-10-23:/attend/health.html</id><summary type="html">&lt;h1&gt;2023 Health and Safety Guidelines&lt;/h1&gt;
 &lt;hr /&gt;
 &lt;p&gt;*&lt;em&gt;These guidelines are up to date as of 15 November 2022&lt;/em&gt;&lt;/p&gt;
@@ -754,15 +756,15 @@ Expressions of opinion do not necessarily reflect the views of his employer.
 &lt;h2&gt;Conference format&lt;/h2&gt;
 &lt;p&gt;PyTexas is a single-track conference with a total attendence of ~250 people.&lt;/p&gt;
 &lt;h2&gt;Call for proposals&lt;/h2&gt;
-&lt;p&gt;The PyTexas call for proposals is here: &lt;FIX-ME&gt; &lt;a href="https://www.papercall.io/pytexas-2022"&gt;https://www.papercall.io/pytexas-2022&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The PyTexas call for proposals is open. &lt;a href="https://pretalx.com/pytexas-2023/"&gt;Submit your talk now&lt;/a&gt;:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The Call For Proposals (CFP) opens November 15th, 2022&lt;/li&gt;
-&lt;li&gt;The Call For Proposals (CFP) closes on January 15th …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;Speaking at PyTexas&lt;/h1&gt;
+&lt;li&gt;The Call For Proposals (CFP) closes on January 15th, 2023 …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;Speaking at PyTexas&lt;/h1&gt;
 &lt;hr /&gt;
 &lt;h2&gt;Conference format&lt;/h2&gt;
 &lt;p&gt;PyTexas is a single-track conference with a total attendence of ~250 people.&lt;/p&gt;
 &lt;h2&gt;Call for proposals&lt;/h2&gt;
-&lt;p&gt;The PyTexas call for proposals is here: &lt;FIX-ME&gt; &lt;a href="https://www.papercall.io/pytexas-2022"&gt;https://www.papercall.io/pytexas-2022&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The PyTexas call for proposals is open. &lt;a href="https://pretalx.com/pytexas-2023/"&gt;Submit your talk now&lt;/a&gt;:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The Call For Proposals (CFP) opens November 15th, 2022&lt;/li&gt;
 &lt;li&gt;The Call For Proposals (CFP) closes on January 15th, 2023, 23:59 CST.&lt;/li&gt;
@@ -779,7 +781,6 @@ Expressions of opinion do not necessarily reflect the views of his employer.
 &lt;li&gt;Web Applications&lt;/li&gt;
 &lt;li&gt;Python Game Development&lt;/li&gt;
 &lt;li&gt;DevOps&lt;/li&gt;
-&lt;li&gt;GIS&lt;/li&gt;
 &lt;li&gt;Scientific Computing&lt;/li&gt;
 &lt;li&gt;AI/Machine Learning&lt;/li&gt;
 &lt;li&gt;Software Testing&lt;/li&gt;
@@ -909,7 +910,7 @@ please feel free to contact the Sponsor Chair (above). We want to help you make 
 most of your investment in the Python community.&lt;/p&gt;
 &lt;h3&gt;Standard Packages&lt;/h3&gt;
 &lt;table class="table"&gt;
-    &lt;thead style="position: sticky; top: 90px;" class="thead-dark"&gt;
+    &lt;thead style="position: sticky; top: 0;" class="thead-dark"&gt;
         &lt;tr&gt;
             &lt;th scope="col"&gt;&lt;/th&gt;
             &lt;th scope="col"&gt;Lone Star   $50,000&lt;/th&gt;
