@@ -47,4 +47,4 @@ Some other ideas might be:
 - etc.
 
 ## Does PyTexas offer any financial support for speakers?
-PyTexas is a community driven, volunteer-supported, not-for-profit conference with an “everybody pays” policy. This means that we ask everyone to purchase a ticket, and [offer financial support](/about/grants) to anyone that needs it, regardless of whether they are a speaker or not. If you have a talk accepted, and do not need financial aid in order to attend, you will need to purchase a ticket and provide your own accommodations.
+PyTexas is a community driven, volunteer-supported, not-for-profit conference with an “everybody pays” policy. This means that we ask everyone to purchase a ticket, and [offer financial support](/attend/grants) to anyone that needs it, regardless of whether they are a speaker or not. If you have a talk accepted, and do not need financial aid in order to attend, you will need to purchase a ticket and provide your own accommodations.
