@@ -43,8 +43,8 @@ As a sponsor, your funding assistance will serve three critical purposes:
     - Recruit your next engineer
     - Drive adoption of your product
     - Simply show your support for the Texas Python community
-1. Build a better PyTexas by enabling organizers to attract attendees with standard conference perks such as printed t-shirts, catering, professional A/V, and more.
-1. Help keep the cost of PyTexas low. PyTexas 2023 attendees will pay a modest registration fee. Your sponsorship helps us keep this price reasonable for everyone involved.
+2. Build a better PyTexas by enabling organizers to attract attendees with standard conference perks such as printed t-shirts, catering, professional A/V, and more.
+3. Help keep the cost of PyTexas low. PyTexas 2023 attendees will pay a modest registration fee. Your sponsorship helps us keep this price reasonable for everyone involved.
 
 ## Sponsorship Opportunities
 
@@ -55,10 +55,10 @@ most of your investment in the Python community.
 ### Standard Packages
 
 <table class="table">
-    <thead style="position: sticky; top: 90px" class="thead-dark">
+    <thead style="position: sticky; top: 90px;" class="thead-dark">
         <tr>
-            <th scope="col"></t>
-            <th scope="col">The Lone Star Package   $50,000</th>
+            <th scope="col"></th>
+            <th scope="col">Lone Star   $50,000</th>
             <th scope="col">Platinum   $25,000</th>
             <th scope="col">Diamond   $10,000</th>
             <th scope="col">Gold   $5,000</th>
@@ -69,17 +69,17 @@ most of your investment in the Python community.
     </thead>
     <tbody>
         <tr>
-            <th scope="row">Number Limit</td>
+            <th scope="row">Number Limit</th>
             <td>1</td>
             <td>2</td>
             <td>4</td>
-            <td>∞</td>
+            <td>4</td>
             <td>∞</td>
             <td>∞</td>
             <td>∞</td>
         </tr>
         <tr>
-            <th scope="row">Free sponsor tickets</td>
+            <th scope="row">Free sponsor tickets</th>
             <td>10</td>
             <td>5</td>
             <td>2</td>
@@ -89,7 +89,7 @@ most of your investment in the Python community.
             <td>1</td>
         </tr>
         <tr>
-            <th scope="row">10% discount conference tickets  (Corporate rate)</td>
+            <th scope="row">10% discount conference tickets  (Corporate rate)</th>
             <td>20</td>
             <td>10</td>
             <td>4</td>
@@ -99,7 +99,7 @@ most of your investment in the Python community.
             <td></td>
         </tr>
         <tr>
-            <th scope="row">Sponsor name, logo, link, and description on website</td>
+            <th scope="row">Sponsor name, logo, link, and description on website</th>
             <td>✓</td>
             <td>✓</td>
             <td>✓</td>
@@ -109,7 +109,7 @@ most of your investment in the Python community.
             <td></td>
         </tr>
         <tr>
-            <th scope="row">Plain text acknowlegement on Website</td>
+            <th scope="row">Plain text acknowledgement on Website</th>
             <td></td>
             <td></td>
             <td></td>
@@ -119,9 +119,9 @@ most of your investment in the Python community.
             <td>✓</td>
         </tr>
         <tr>
-            <th scope="row">Optional “Is Hiring” indicator with link on website</td>
+            <th scope="row">Optional “Is Hiring” indicator with link on website</th>
             <td>✓</td>
-            <td>✓</td>f
+            <td>✓</td>
             <td>✓</td>
             <td>✓</td>
             <td></td>
@@ -129,7 +129,7 @@ most of your investment in the Python community.
             <td></td>
         </tr>
         <tr>
-            <th scope="row">Social media: Thanked in Twitter post</td>
+            <th scope="row">Social media: Thanked in Twitter post</th>
             <td>✓</td>
             <td>✓</td>
             <td>✓</td>
@@ -139,7 +139,7 @@ most of your investment in the Python community.
             <td>✓ [Optional]</td>
         </tr>
         <tr>
-            <th scope="row">Logo on conference T-SHIRT! Rear, small.</td>
+            <th scope="row">Logo on conference t-shirt</th>
             <td>✓</td>
             <td>Add-on</td>
             <td>Add-on</td>
@@ -149,47 +149,47 @@ most of your investment in the Python community.
             <td></td>
         </tr>
         <tr>
-            <th scope="row">Exhibit Table</td>
+            <th scope="row">Exhibit Table</th>
             <td>2</td>
             <td>1</td>
             <td>1</td>
+            <td>1/2</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <th scope="row">Sponsor Banner stands  (2; provided by sponsor, more negotiable)</th>
+            <td>✓</td>
+            <td>✓</td>
+            <td>✓</td>
+            <td>✓</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <th scope="row">Promotional items placed on seating tables in venue</th>
+            <td>✓</td>
+            <td>✓</td>
+            <td>✓</td>
+            <td>✓</td>
+            <td>✓</td>
+            <td>✓</td>
+            <td></td>
+        </tr>
+        <tr>
+            <th scope="row">Logo featured on Speaker backdrop</th>
+            <td>✓</td>
+            <td>✓</td>
+            <td></td>
             <td></td>
             <td></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <th scope="row">Sponsor Banner stands  (2; provided by sponsor, more negotiable)</td>
-            <td>✓</td>
-            <td>✓</td>
-            <td>✓</td>
-            <td>✓</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <th scope="row">Promotional items placed on seating tables in venue</td>
-            <td>✓</td>
-            <td>✓</td>
-            <td>✓</td>
-            <td>✓</td>
-            <td>✓</td>
-            <td>✓</td>
-            <td></td>
-        </tr>
-        <tr>
-            <th scope="row">Logo featured on Speaker backdrop</td>
-            <td>✓</td>
-            <td>✓</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <th scope="row">Logo on ALL conference talk videos available forever</td>
+            <th scope="row">Logo on ALL conference talk videos available forever</th>
             <td>✓</td>
             <td>✓</td>
             <td>$1,000</td>
@@ -199,7 +199,7 @@ most of your investment in the Python community.
             <td></td>
         </tr>
         <tr>
-            <th scope="row">Featured in wrap-up video with special thanks</td>
+            <th scope="row">Featured in wrap-up video with special thanks</th>
             <td>Preeminent</td>
             <td>Preeminent</td>
             <td>Preeminent</td>
@@ -209,7 +209,7 @@ most of your investment in the Python community.
             <td></td>
         </tr>
         <tr>
-            <th scope="row">Optional 25 minute speaking slot directly after to Day 1 Keynote</td>
+            <th scope="row">Optional 25 minute speaking slot directly after to Day 1 Keynote</th>
             <td>✓</td>
             <td></td>
             <td></td>
@@ -219,7 +219,7 @@ most of your investment in the Python community.
             <td></td>
         </tr>
         <tr>
-            <th scope="row">Optional five minute speaking slot after a keynote (max 3 sponsors)</td>
+            <th scope="row">Optional five minute speaking slot after a keynote (max 3 sponsors)</th>
             <td>✓</td>
             <td>✓</td>
             <td></td>
@@ -229,7 +229,7 @@ most of your investment in the Python community.
             <td></td>
         </tr>
         <tr>
-            <th scope="row">1 Exclusive email sharing your message with the PyTexas mailing list</td>
+            <th scope="row">1 Exclusive email sharing your message with the PyTexas mailing list</th>
             <td>✓</td>
             <td></td>
             <td></td>
@@ -246,7 +246,7 @@ most of your investment in the Python community.
 PyTexas also offers several exclusive sponsor benefits on a first-come, first-served basis (add-ons available to sponsors at Gold tier or above):
 
 - **T-Shirt Sponsor ($10,000)**
-    - Two sponsorships available
+    - Add-on, included in Lone Star package.
     - Company logo on sleeve of official conference tshirt
     - 10 free t-shirts
 - **Video Sponsor ($5,000)**
