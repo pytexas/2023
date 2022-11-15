@@ -87,6 +87,7 @@ MENUITEMS = {
     "Attend": {
         "Index": "/attend",
         "Pages": {
+            "Buy Tickets": "https://ti.to/pytexas/2023",
             "Health and Safety Guidelines": "/attend/health",
             "Venue": "/attend/venue",
             "Parking": "/attend/parking",
@@ -96,11 +97,8 @@ MENUITEMS = {
         "Dropdown": True,
     },
     "Sponsors": {
-        "Index": "/sponsors",
-        "Pages": {
-            "Sponsor PyTexas": "/sponsors/prospectus",
-        },
-        "Dropdown": True,
+        "Index": "/sponsors/prospectus",
+        "Dropdown": False,
     },
     "Speaking": {
         "Index": "/speaking",

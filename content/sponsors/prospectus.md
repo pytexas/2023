@@ -55,7 +55,7 @@ most of your investment in the Python community.
 ### Standard Packages
 
 <table class="table">
-    <thead style="position: sticky; top: 90px;" class="thead-dark">
+    <thead style="position: sticky; top: 0;" class="thead-dark">
         <tr>
             <th scope="col"></th>
             <th scope="col">Lone Star   $50,000</th>

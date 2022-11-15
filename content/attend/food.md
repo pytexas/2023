@@ -2,7 +2,6 @@ Title: Food
 slug: attend/food
 date: 2022-10-23
 
-
 ## Food
 This year we are hoping you'll explore the exquisite dining options that Austin
 has to offer. You'll have 2 hours for lunch, so be sure to factor in wait times and walking distances into your plans. **Be weary of wait times, especially with BBQ restaurants.**
