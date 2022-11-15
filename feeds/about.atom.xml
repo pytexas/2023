@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyTexas 2023 - about</title><link href="https://www.pytexas.org/" rel="alternate"></link><link href="https://www.pytexas.org/feeds/about.atom.xml" rel="self"></link><id>https://www.pytexas.org/</id><updated>2022-10-23T00:00:00-05:00</updated><subtitle>Home of Python in Texas</subtitle><entry><title>About PyTexas</title><link href="https://www.pytexas.org/about.html" rel="alternate"></link><published>2022-10-23T00:00:00-05:00</published><updated>2022-10-23T00:00:00-05:00</updated><author><name>PyTexas Devs</name></author><id>tag:www.pytexas.org,2022-10-23:/about.html</id><summary type="html">&lt;h1&gt;About PyTexas&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;h2&gt;What is PyTexas?&lt;/h2&gt;
+&lt;p&gt;PyTexas is the annual, regional gathering for the Python community in Texas.
+PyTexas is organized and run by community volunteers. PyTexas, like most of the
+Python community, is focused on providing a &lt;a href="/about/diversity-statement"&gt;diverse&lt;/a&gt; and enjoyable experience
+for everyone interested in Python. Please help us do …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;About PyTexas&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;h2&gt;What is PyTexas?&lt;/h2&gt;
+&lt;p&gt;PyTexas is the annual, regional gathering for the Python community in Texas.
+PyTexas is organized and run by community volunteers. PyTexas, like most of the
+Python community, is focused on providing a &lt;a href="/about/diversity-statement"&gt;diverse&lt;/a&gt; and enjoyable experience
+for everyone interested in Python. Please help us do that by following the
+&lt;a href="/about/code-of-conduct"&gt;code of conduct&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Volunteers&lt;/h2&gt;
+&lt;p&gt;PyTexas is organized and run by volunteers from the Python community. We
+generally assign tasks beginning the Thursday night before the conference and
+going through the conclusion of the conference on Sunday. If you would like to
+help, please send an e-mail to &lt;a href="mailto:volunteers@pytexas.org"&gt;volunteers@pytexas.org&lt;/a&gt;. We'll contact you as
+conference time approaches.&lt;/p&gt;
+&lt;h2&gt;Contact Us&lt;/h2&gt;
+&lt;p&gt;Please feel free to email &lt;a href="mailto:conference@pytexas.org"&gt;conference@pytexas.org&lt;/a&gt; with any questions.&lt;/p&gt;
+&lt;p&gt;You may also reach the larger Texas Python community by joining the mailing
+list, which is used for general community discussions. Python-oriented job
+postings are also welcome on the list.&lt;/p&gt;
+&lt;h2&gt;About This Site&lt;/h2&gt;
+&lt;p&gt;This site acts as the primary public facing website to the PyTexas Conference.
+It is built using Python and Pelican.&lt;/p&gt;
+&lt;h2&gt;Thanks&lt;/h2&gt;
+&lt;p&gt;Finally, thanks go to atomic forces and electrons for providing the medium through which this site and the internet is built upon.&lt;/p&gt;</content><category term="about"></category></entry><entry><title>Code of Conduct</title><link href="https://www.pytexas.org/about/code-of-conduct.html" rel="alternate"></link><published>2022-10-23T00:00:00-05:00</published><updated>2022-10-23T00:00:00-05:00</updated><author><name>PyTexas Devs</name></author><id>tag:www.pytexas.org,2022-10-23:/about/code-of-conduct.html</id><summary type="html">&lt;h1&gt;Code of Conduct&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;p&gt;PyTexas is dedicated to providing a harassment-free conference experience for
+everyone, regardless of gender, sexual orientation, disability, physical
+appearance, body size, race, or religion. We do not tolerate harassment of
+conference participants in any form.&lt;/p&gt;
+&lt;p&gt;All communication should be appropriate for a professional audience including
+people of …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Code of Conduct&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;p&gt;PyTexas is dedicated to providing a harassment-free conference experience for
+everyone, regardless of gender, sexual orientation, disability, physical
+appearance, body size, race, or religion. We do not tolerate harassment of
+conference participants in any form.&lt;/p&gt;
+&lt;p&gt;All communication should be appropriate for a professional audience including
+people of many different backgrounds. Sexual language and imagery is not
+appropriate for any conference venue, including talks.&lt;/p&gt;
+&lt;p&gt;Be kind to others. Do not insult or put down other attendees. Behave
+professionally. Remember that harassment and sexist, racist, or exclusionary
+jokes are not appropriate for PyTexas.&lt;/p&gt;
+&lt;p&gt;Attendees violating these rules may be asked to leave the conference without a
+refund at the sole discretion of the conference organizers. We prioritize
+marginalized people's safety over privileged people's comfort.&lt;/p&gt;
+&lt;p&gt;If you believe an individual has violated this Code of Conduct, please contact
+us via any of the methods below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Call or text:&lt;/strong&gt; &lt;a href="tel:512-387-0297"&gt;512-387-0297&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Note: Calls and texts are anonymized&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Thank you for helping make this a welcoming, friendly event for all.&lt;/p&gt;</content><category term="about"></category></entry><entry><title>Diversity Statement</title><link href="https://www.pytexas.org/about/diversity-statement.html" rel="alternate"></link><published>2022-10-23T00:00:00-05:00</published><updated>2022-10-23T00:00:00-05:00</updated><author><name>PyTexas Devs</name></author><id>tag:www.pytexas.org,2022-10-23:/about/diversity-statement.html</id><summary type="html">&lt;h1&gt;Diversity Statement&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;p&gt;Our goal is to create an inclusive, respectful conference environment that
+invites participation from people of all races, ethnicities, genders, ages,
+abilities, religions, and sexual orientation. PyTexas and its organizers
+support and endorse the Python Software Foundation's
+&lt;a href="http://www.python.org/psf/diversity/"&gt;diversity statement&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;"The Python Software Foundation and the global Python community …&lt;/em&gt;&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Diversity Statement&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;p&gt;Our goal is to create an inclusive, respectful conference environment that
+invites participation from people of all races, ethnicities, genders, ages,
+abilities, religions, and sexual orientation. PyTexas and its organizers
+support and endorse the Python Software Foundation's
+&lt;a href="http://www.python.org/psf/diversity/"&gt;diversity statement&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;"The Python Software Foundation and the global Python community welcome and
+encourage participation by everyone. Our community is based on mutual respect,
+tolerance, and encouragement, and we are working to help each other live up to
+these principles. We want our community to be more diverse: whoever you are,
+and whatever your background, we welcome you."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We're actively seeking to increase the diversity of our attendees, speakers,
+and sponsors through our calls for proposals, other open submission processes,
+and through dialogue with the larger communities we serve.&lt;/p&gt;
+&lt;p&gt;Here are some ways you can help us build a more diverse conference experience:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Recommend appropriate speakers and/or program committee members to the
+    conference organizers&lt;/li&gt;
+&lt;li&gt;Forward our call for proposals to relevant affinity groups with the message
+    that we are looking for a diverse speaker roster&lt;/li&gt;
+&lt;li&gt;Suggest to potential speakers that they submit a proposal during our
+    Call for Proposals conference phase&lt;/li&gt;
+&lt;li&gt;Organize community-based public speaking trainings and practice events
+    (Ignite is one popular format)&lt;/li&gt;
+&lt;li&gt;Suggest ways that the onsite conference experience can be more welcoming and
+    supportive, free from intimidation and marginalization
+    (send an email to PyTexas organizers)&lt;/li&gt;
+&lt;li&gt;Share your ideas and best practices for how we can realize our vision
+    (send an email to &lt;a href="mailto:conference@pytexas.org"&gt;PyTexas organizers&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;We value diversity in the communities we bring together, and we welcome your
+    contributions to bringing balanced representation of the richness of our
+    collective human experience. Help us do this by following our
+    &lt;a href="/about/code-of-conduct"&gt;code of conduct&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Credit for the original version of this document goes to
+&lt;a href="http://assets.en.oreilly.com/1/eventprovider/1/ConfDiversity.pdf"&gt;O'Reilly Media&lt;/a&gt;&lt;/p&gt;</content><category term="about"></category></entry><entry><title>Frequently Asked Questions</title><link href="https://www.pytexas.org/about/faq.html" rel="alternate"></link><published>2022-10-23T00:00:00-05:00</published><updated>2022-10-23T00:00:00-05:00</updated><author><name>PyTexas Devs</name></author><id>tag:www.pytexas.org,2022-10-23:/about/faq.html</id><summary type="html">&lt;h1&gt;Frequently Asked Questions&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;h2&gt;What can I do if I can't afford to attend?&lt;/h2&gt;
+&lt;p&gt;PyTexas offers a limited number of opportunity grants for community members that
+would be otherwise unable to attend: &lt;a href="/about/grants"&gt;see here for more details&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Can I get a discount for volunteering or speaking?&lt;/h2&gt;
+&lt;p&gt;We do not currently have …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Frequently Asked Questions&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;h2&gt;What can I do if I can't afford to attend?&lt;/h2&gt;
+&lt;p&gt;PyTexas offers a limited number of opportunity grants for community members that
+would be otherwise unable to attend: &lt;a href="/about/grants"&gt;see here for more details&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Can I get a discount for volunteering or speaking?&lt;/h2&gt;
+&lt;p&gt;We do not currently have the funds to provide discounted or free attendance to volunteers or
+speakers. Even our organizing team purchases tickets, because all funds are eventually used to
+better the Texas Python community. For the same reasons, we do not generally pay speakers.&lt;/p&gt;
+&lt;h2&gt;How much of my sponsorship or ticket price goes to the conference?&lt;/h2&gt;
+&lt;p&gt;The short answer is: as much as is needed. Our goal each year is to put on the best
+conference we can muster. In the event that we gather more funds from sponsorship or ticket
+sales than we need for the conference, we simply roll the remainder over to the next year.
+This helps us build a sustainable offering that Texas Python developers can rely on year
+after year.&lt;/p&gt;
+&lt;p&gt;We aspire eventually to use excess funds to support outreach programs, day care for conference
+attendees who are parents, scholarships for underprivileged attendees, and other worthy expenses
+that further the goals of the PyTexas Foundation. We welcome your input on how we can best
+assist the Texas Python community!&lt;/p&gt;
+&lt;h2&gt;My organization doesn't use Python. Why should I sponsor PyTexas?&lt;/h2&gt;
+&lt;p&gt;There are several reasons to consider sponsoring the PyTexas conference even if your
+organization doesn't currently use Python. First, you should consider using Python!
+It's a remarkably flexible language that has established libraries for and applications
+in web development, data science, science at large, and more.&lt;/p&gt;
+&lt;p&gt;Second, the trend in modern software development is toward &lt;strong&gt;polyglot programming&lt;/strong&gt;. That is,
+the best developers are competent in multiple languages and prefer to "pick the right tool for
+the job." Polyglot programmers can bring to the table idioms and architectures that aren't
+apparent to developers steeped in only one technology. Even if your organization primarily uses
+&lt;a href="http://golang.org/"&gt;Go&lt;/a&gt; or &lt;a href="https://www.ruby-lang.org/en/"&gt;Ruby&lt;/a&gt;, you can increase your
+recruiting reach and encourage internal innovation by hiring smart developers -- regardless
+of what language they work in today. You can even make this part of your presence at the conference!
+Feel free to submit a "X for Pythonistas" talk; we promise it will get due consideration.&lt;/p&gt;
+&lt;h2&gt;Is my contribution to PyTexas tax-deductible?&lt;/h2&gt;
+&lt;p&gt;The PyTexas Foundation was organized as a Texas non-profit corporation in 2014 and received its
+501(c)(3) recognition in early 2015. Although we cannot guarantee that your contribution to
+PyTexas will be tax-deductible (we aren’t tax attorneys and just don’t know), you can rest
+assured that any contributions to the organization will always be used to further the common
+goals of the Texas Python community, and never for personal benefit.&lt;/p&gt;
+&lt;h2&gt;What is your refund policy?&lt;/h2&gt;
+&lt;p&gt;In the event of cancellation, registration fees will be fully refunded. For any
+pre-order items (e.g. t-shirts), orders will be refunded if cancellation happens before
+the order is made, otherwise items will be shipped.&lt;/p&gt;</content><category term="about"></category></entry><entry><title>Privacy Statement</title><link href="https://www.pytexas.org/about/privacy-statement.html" rel="alternate"></link><published>2022-10-23T00:00:00-05:00</published><updated>2022-10-23T00:00:00-05:00</updated><author><name>PyTexas Devs</name></author><id>tag:www.pytexas.org,2022-10-23:/about/privacy-statement.html</id><summary type="html">&lt;h1&gt;Privacy Statement&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;h2&gt;What information do we collect?&lt;/h2&gt;
+&lt;p&gt;We collect information from you when you register on our site, place an order
+or respond to a survey.&lt;/p&gt;
+&lt;p&gt;When ordering or registering on our site, as appropriate, you may be asked to
+enter your: name, e-mail address, mailing address or credit card …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Privacy Statement&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;h2&gt;What information do we collect?&lt;/h2&gt;
+&lt;p&gt;We collect information from you when you register on our site, place an order
+or respond to a survey.&lt;/p&gt;
+&lt;p&gt;When ordering or registering on our site, as appropriate, you may be asked to
+enter your: name, e-mail address, mailing address or credit card information.
+You may, however, visit our site anonymously.&lt;/p&gt;
+&lt;h2&gt;What do we use your information for?&lt;/h2&gt;
+&lt;p&gt;Any of the information we collect from you may be used in one of the following
+ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;To personalize your experience (your information helps us to better respond
+    to your individual needs)&lt;/li&gt;
+&lt;li&gt;To improve our website (we continually strive to improve our website
+    offerings based on the information and feedback we receive from you)&lt;/li&gt;
+&lt;li&gt;To process transactions: Your information, whether public or private, will
+    not be sold, exchanged, transferred, or given to any other company for any
+    reason whatsoever, without your consent, other than for the express purpose
+    of delivering the purchased product or service requested.&lt;/li&gt;
+&lt;li&gt;To administer a contest, promotion, survey or other site feature&lt;/li&gt;
+&lt;li&gt;To send periodic emails: The email address you provide for order processing,
+    may be used to send you information and updates pertaining to your order,
+    in addition to receiving occasional company news, updates, related product
+    or service information, etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email that is not transaction specific.&lt;/p&gt;
+&lt;h2&gt;How do we protect your information?&lt;/h2&gt;
+&lt;p&gt;We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.&lt;/p&gt;
+&lt;p&gt;We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.&lt;/p&gt;
+&lt;p&gt;After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.&lt;/p&gt;
+&lt;h2&gt;Do we use cookies?&lt;/h2&gt;
+&lt;p&gt;Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information&lt;/p&gt;
+&lt;p&gt;We use cookies to help us remember and process the items in your shopping cart and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.&lt;/p&gt;
+&lt;h2&gt;Do we disclose any information to outside parties?&lt;/h2&gt;
+&lt;p&gt;We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.&lt;/p&gt;
+&lt;h2&gt;Third party links&lt;/h2&gt;
+&lt;p&gt;Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.&lt;/p&gt;
+&lt;h2&gt;Childrens Online Privacy Protection Act Compliance&lt;/h2&gt;
+&lt;p&gt;We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.&lt;/p&gt;
+&lt;h2&gt;Your Consent&lt;/h2&gt;
+&lt;p&gt;By using our site, you consent to our privacy policy.&lt;/p&gt;
+&lt;h2&gt;Changes to our Privacy Policy&lt;/h2&gt;
+&lt;p&gt;If we decide to change our privacy policy, we will post those changes on this page, and update the Privacy Policy modification date below.&lt;/p&gt;
+&lt;p&gt;This policy was last modified on 2012/07/03&lt;/p&gt;
+&lt;h2&gt;Contacting Us&lt;/h2&gt;
+&lt;p&gt;If there are any questions regarding this privacy policy you may contact us by email &lt;a href="mailto:conference@pytexas.org"&gt;conference@pytexas.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This policy is powered by Free Privacy Policy and Rhino Support help desk software.&lt;/p&gt;</content><category term="about"></category></entry><entry><title>Volunteering</title><link href="https://www.pytexas.org/about/volunteering.html" rel="alternate"></link><published>2022-10-23T00:00:00-05:00</published><updated>2022-10-23T00:00:00-05:00</updated><author><name>PyTexas Devs</name></author><id>tag:www.pytexas.org,2022-10-23:/about/volunteering.html</id><summary type="html">&lt;h1&gt;Volunteering&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;p&gt;PyTexas is entirely run by volunteer effort, and we can never have too much
+help! If you’d like to lend a hand, please let us know, and help us make
+PyTexas a great experience for everyone.&lt;/p&gt;
+&lt;p&gt;Each year we ask our attendees to get involved and help us …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Volunteering&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;p&gt;PyTexas is entirely run by volunteer effort, and we can never have too much
+help! If you’d like to lend a hand, please let us know, and help us make
+PyTexas a great experience for everyone.&lt;/p&gt;
+&lt;p&gt;Each year we ask our attendees to get involved and help us make this event
+successful. These positions are purely volunteer - we unfortunately can not
+offer free admittance or other compensation to our volunteers, however, we are
+committed to providing financial assistance to people who might otherwise be
+unable to attend.&lt;/p&gt;
+&lt;h1&gt;Sign up&lt;/h1&gt;
+&lt;p&gt;If you're interested in volunteering, please take a moment to read the brief
+descriptions below and fill out the &lt;a href="https://goo.gl/forms/AJ9WanqzHn3BXZwT2"&gt;volunteer sign up
+form&lt;/a&gt;. Reach out to
+&lt;a href="mailto:volunteers@pytexas.org"&gt;volunteers@pytexas.org&lt;/a&gt; if you have any
+questions or concerns.&lt;/p&gt;
+&lt;p&gt;Here’s a few things we’ll need help with:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Registration Desk:&lt;/strong&gt; You will be responsible for checking in attendees,
+distributing badges/lanyards, and serving as a first point of contact for
+attendees seeking information on...whatever they want to know about. Will need
+to be available starting at 7:30AM each day.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Set up:&lt;/strong&gt; Help set up whatever needs setting up each morning, including
+possibly helping sponsors set up their tables/booths. Will need to be available
+starting at 7:30AM each day.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tear Down:&lt;/strong&gt; Help clean up and clear up each day , including possibly helping
+sponsors tear down their tables/booths. Will need to be available until 6:30PM
+each day.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Green Room&lt;/strong&gt;: responsible for tending to the green room, making sure it stays a
+quiet space for speakers to prepare for their talks, and making sure it is
+stocked with snacks and beverages.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Stage Runner&lt;/strong&gt;: responsible for making sure speakers find their way to the
+green room, escorting speakers to the stage, and assisting with A/V setup for
+speakers.&lt;/p&gt;</content><category term="about"></category></entry></feed>
