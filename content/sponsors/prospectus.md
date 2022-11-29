@@ -92,8 +92,8 @@ most of your investment in the Python community.
             <th scope="row">10% discount conference tickets  (Corporate rate)</th>
             <td>20</td>
             <td>10</td>
+            <td>8</td>
             <td>4</td>
-            <td>2</td>
             <td>2</td>
             <td>1</td>
             <td></td>
@@ -219,7 +219,7 @@ most of your investment in the Python community.
             <td></td>
         </tr>
         <tr>
-            <th scope="row">Optional five minute speaking slot after a keynote (max 3 sponsors)</th>
+            <th scope="row">Optional five minute speaking slot Day 1 of the conference (max 3 sponsors)</th>
             <td>✓</td>
             <td>✓</td>
             <td></td>
