@@ -22,7 +22,7 @@ information is available immediately below if you have any questions.
 ## Conference Profile
 
 **Estimated attendance:**
-We expect more than 200 in-person attendees for PyTexas 2023.
+We expect around 200 - 250 in-person attendees for PyTexas 2023.
 
 **[Code of Conduct](/about/code-of-conduct)**
 
@@ -149,11 +149,11 @@ most of your investment in the Python community.
             <td></td>
         </tr>
         <tr>
-            <th scope="row">Exhibit Table</th>
-            <td>2</td>
-            <td>1</td>
-            <td>1</td>
-            <td>1/2</td>
+            <th scope="row">Exhibit Table*</th>
+            <td>Large</td>
+            <td>Medium</td>
+            <td>Medium</td>
+            <td>Small</td>
             <td></td>
             <td></td>
             <td></td>
@@ -240,6 +240,12 @@ most of your investment in the Python community.
         </tr>
     </tbody>
 </table>
+
+\* **Exhibit Table Booth Size**
+
+* Large - 2 five foot tables, directly in front of speaking area entrance.
+* Medium - 1 eight foot table
+* Small - 1 five foot table
 
 ### Exclusive Benefits
 
