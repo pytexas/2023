@@ -97,12 +97,16 @@ MENUITEMS = {
         "Dropdown": True,
     },
     "Sponsors": {
-        "Index": "/sponsors/prospectus",
-        "Dropdown": False,
+        "Index": "/sponsors",
+        "Pages": {
+            "Prospectus": "/sponsors/prospectus",
+            "Why Sponsor": "/sponsors/why-sponsor",
+        },
+        "Dropdown": True,
     },
     "Speaking": {
         "Index": "/speaking",
-        "Dropdown": False
+        "Dropdown": False,
     },
 }
 
