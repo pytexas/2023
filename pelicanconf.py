@@ -99,8 +99,10 @@ MENUITEMS = {
     "Sponsors": {
         "Index": "/sponsors",
         "Pages": {
-            "Prospectus": "/sponsors/prospectus",
+            "Sponsors": "/sponsors/sponsors",
             "Why Sponsor": "/sponsors/why-sponsor",
+            "Prospectus": "/sponsors/prospectus",
+            
         },
         "Dropdown": True,
     },
@@ -111,7 +113,8 @@ MENUITEMS = {
 }
 
 JINJA_FILTERS = {
-    "sidebar": sidebar
+    "sidebar": sidebar,
+    "md": md,
 }
 
 # Blogroll

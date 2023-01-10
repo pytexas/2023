@@ -1,5 +1,5 @@
-Title: Current Sponsors
-slug: sponsors/current-sponsors
+Title: Sponsors
+slug: sponsors/sponsors
 date: 2022-10-23
 
 
@@ -7,6 +7,7 @@ date: 2022-10-23
 We thank all of the following sponsors for making this year's PyTexas possible:
 
 <br>
+<!-- 
 <div class="container">
   <h3>Platinum</h3>
     <div class="row mb-4">
@@ -38,38 +39,28 @@ We thank all of the following sponsors for making this year's PyTexas possible:
       </div>
 
     </div>
+-->
 
 
+#### Door Prize Sponsors
+<div class="row mb-4">
+  <div class="col-3">
+    <a href="https://nostarch.com/">
+    <img src="/theme/img/sponsors/no-starch.png" alt="No Starch Press logo">
+    </a>
+  </div>
 
-    <h4>Door Prize Sponsors</h4>
-      <div class="row mb-4">
-        <div class="col-2">
-          <a href="https://jetbrains.com/jetbrains/">
-          <img src="/assets/img/sponsors/jetbrains.png">
-          </a>
-        </div>
-        <div class="col-2">
-          <a href="https://jetbrains.com/pycharm/">
-          <img src="/assets/img/sponsors/pycharm.png">
-          </a>
-        </div>
-        <div class="col-2">
-          <a href=""https://nostarchpress.com/>
-          <img src="/assets/img/sponsors/no-starch.png">
-          </a>
-        </div>
+</div>
 
-      </div>
+#### Community Sponsors
 
-  <h5>Silver</h5>
-    <div class="row mb-4">
-        <div class="col-2">
-          <a href="https://includedhealth.com/">
-          <img src="/assets/img/sponsors/includedhealth.png">
-          </a>
-        </div>
-
+<div class="row mb-4">
+    <div class="col-3">
+      <a href="https://2023.pythonwebconf.com/">
+      <img src="/theme/img/sponsors/pwc23.png" alt="Python Web Conf Logo">
+      </a>
     </div>
+</div>
 
 </div>
 
