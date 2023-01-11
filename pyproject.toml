@@ -2,7 +2,7 @@
 name = "pytexas-conference-site"
 version = "0.1.0"
 description = ""
-authors = ["Mason Egger <mason@pytexas.org>"]
+authors = ["Mason Egger <mason@pytexas.org>", "Laura Santamaria <laura@nimbinatus.com>"]
 packages = [
     { include = "utils" }
 ]

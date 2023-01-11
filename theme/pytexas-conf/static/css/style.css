@@ -2,8 +2,10 @@
 :root {
     --blue: #29ABE2;
     --yellow: #FFFF00;
+    --pale-yellow: #ffffcc;
     --black: #000000;
     --white: #FFFFFF;
+    --gray: #32383e;
 }
 
 .btn-nav-bar {
@@ -259,14 +261,43 @@ img.icon {
 }
 
 /* Tables */
-.table td {
+
+table {
+    width: 100%;
+}
+
+table td {
     text-align: center;
 }
 
-.table th {
+table th {
+    background-color: var(--black);
+    border-color: var(--gray);
+    color: var(--white);
+    padding: 1rem;
     text-align: center;
 }
 
+table thead {
+    position: sticky;
+    top: 0;
+}
+
+table td.table-span {
+    background: var(--pale-yellow);
+    font-weight: 500;
+    border: var(--white);
+}
+
+table .row-head {
+    font-weight: 600;
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+}
+
+table tr {
+    border-bottom: var(--black) 1px solid;
+}
 
 /* weird generated stuff */
 
