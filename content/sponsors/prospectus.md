@@ -254,7 +254,7 @@ PyTexas also offers several exclusive sponsor benefits on a first-come, first-se
 
 - **T-Shirt Sponsor ($10,000)**
     - Add-on, included in Lone Star package.
-    - Company logo on sleeve of official conference tshirt
+    - Company logo on sleeve of official conference t-shirt
     - 10 free t-shirts
 - **Video Sponsor ($5,000)**
     - Five sponsorships available
