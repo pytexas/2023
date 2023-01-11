@@ -8,13 +8,12 @@ We thank all of the following sponsors for making this year's PyTexas possible:
 
 
 #### Door Prize Sponsors
-<div class="row mb-4">
-  <div class="col-3">
-    <a href="https://nostarch.com/">
-    <img src="/theme/img/sponsors/no-starch.png" alt="No Starch Press logo">
-    </a>
-  </div>
+<div class="row mb-4" markdown="1">
+<div class="col-3" markdown="1">
 
+[![No Starch Press logo](/theme/img/sponsors/no-starch.png)](https://nostarch.com/)
+
+</div>
 </div>
 
 #### Community Sponsors
