@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>PyTexas 2023</title><link href="https://www.pytexas.org/" rel="alternate"></link><link href="https://www.pytexas.org/feeds/all.atom.xml" rel="self"></link><id>https://www.pytexas.org/</id><updated>2023-01-03T00:00:00-06:00</updated><subtitle>Home of Python in Texas</subtitle><entry><title>Keynote Speakers</title><link href="https://www.pytexas.org/speaking/keynotes.html" rel="alternate"></link><published>2023-01-03T00:00:00-06:00</published><updated>2023-01-03T00:00:00-06:00</updated><author><name>PyTexas Devs</name></author><id>tag:www.pytexas.org,2023-01-03:/speaking/keynotes.html</id><summary type="html">&lt;h1&gt;Keynote Speakers&lt;/h1&gt;
 &lt;hr /&gt;
-&lt;h2&gt;Andy (Pandy) Knight&lt;/h2&gt;
-&lt;p&gt;&lt;center&gt;
-&lt;img alt="Pandy Knight" src="/theme/img/andy-knight.png" /&gt;
-&lt;/center&gt;&lt;/p&gt;
+&lt;h2&gt;Andrew (Pandy) Knight&lt;/h2&gt;
+&lt;div class="row mb-4"&gt;
+&lt;div class="col-3"&gt;
+&lt;p&gt;&lt;img alt="Pandy Knight" src="/theme/img/andy-knight.png" /&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 &lt;p&gt;Andrew Knight, also known as “Pandy,” is the Automation Panda.
 He’s a software quality champion who loves to help people build better quality software.
 In the past, he’s built large-scale test automation projects that run continuously and reliably.
-Currently, as a Developer Advocate …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Keynote Speakers&lt;/h1&gt;
+Currently, as a Developer Advocate …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;h1&gt;Keynote Speakers&lt;/h1&gt;
 &lt;hr /&gt;
-&lt;h2&gt;Andy (Pandy) Knight&lt;/h2&gt;
-&lt;p&gt;&lt;center&gt;
-&lt;img alt="Pandy Knight" src="/theme/img/andy-knight.png" /&gt;
-&lt;/center&gt;&lt;/p&gt;
+&lt;h2&gt;Andrew (Pandy) Knight&lt;/h2&gt;
+&lt;div class="row mb-4"&gt;
+&lt;div class="col-3"&gt;
+&lt;p&gt;&lt;img alt="Pandy Knight" src="/theme/img/andy-knight.png" /&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 &lt;p&gt;Andrew Knight, also known as “Pandy,” is the Automation Panda.
 He’s a software quality champion who loves to help people build better quality software.
 In the past, he’s built large-scale test automation projects that run continuously and reliably.
@@ -26,10 +30,12 @@ the .NET Screenplay Pattern.
 On the side, he is writing a book on software testing with Manning Publications.
 Check out his tech blog at &lt;a href="https://automationpanda.com"&gt;AutomationPanda.com&lt;/a&gt;,
 and follow him on Twitter at &lt;a href="https://twitter.com/automationpanda"&gt;@AutomationPanda&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
 &lt;h2&gt;Brandon Rhodes&lt;/h2&gt;
-&lt;p&gt;&lt;center&gt;
-&lt;img alt="Brandon Rhodes" src="/theme/img/brandon-rhodes.jpeg" /&gt;
-&lt;/center&gt;&lt;/p&gt;
+&lt;div class="row mb-4"&gt;
+&lt;div class="col-3 d-flex justify-content-center"&gt;
+&lt;p&gt;&lt;img alt="Brandon Rhodes" src="/theme/img/brandon-rhodes.jpeg" /&gt;&lt;/p&gt;
+&lt;/div&gt;
 &lt;p&gt;Brandon Rhodes draws on more than 20 years of experience with Python
 and 30 years with Unix to offer effective patterns
 and practices to the audiences of his talks, writing, and training.
@@ -40,7 +46,8 @@ astronomy library as well its modern alternative &lt;a href="https://rhodesmill.
 along with smaller projects like the elegant little &lt;a href="https://pypi.org/project/logging_tree/"&gt;logging_tree&lt;/a&gt;
 module that’s compatible with every Python back to Python 2.3.
 He is a Fellow of the Python Software Foundation,
-on whose behalf he served as the volunteer chair of PyCon 2016–2017 in Portland.&lt;/p&gt;</content><category term="speaking"></category></entry><entry><title>Why Sponsor PyTexas</title><link href="https://www.pytexas.org/sponsors/why-sponsor.html" rel="alternate"></link><published>2023-01-03T00:00:00-06:00</published><updated>2023-01-03T00:00:00-06:00</updated><author><name>PyTexas Devs</name></author><id>tag:www.pytexas.org,2023-01-03:/sponsors/why-sponsor.html</id><summary type="html">&lt;h1&gt;Why Sponsor&lt;/h1&gt;
+on whose behalf he served as the volunteer chair of PyCon 2016–2017 in Portland.&lt;/p&gt;
+&lt;/div&gt;</content><category term="speaking"></category></entry><entry><title>Why Sponsor PyTexas</title><link href="https://www.pytexas.org/sponsors/why-sponsor.html" rel="alternate"></link><published>2023-01-03T00:00:00-06:00</published><updated>2023-01-03T00:00:00-06:00</updated><author><name>PyTexas Devs</name></author><id>tag:www.pytexas.org,2023-01-03:/sponsors/why-sponsor.html</id><summary type="html">&lt;h1&gt;Why Sponsor&lt;/h1&gt;
 &lt;hr /&gt;
 &lt;p&gt;The PyTexas Conference is an annual gathering of Pythonistas put on by the PyTexas Foundation. We’re excited to announce that we will be returning on April 1 &amp;amp; 2, 2023 to the Austin Central Public Library in Austin, TX. This event is 100% community organized and is funded …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Why Sponsor&lt;/h1&gt;
 &lt;hr /&gt;
