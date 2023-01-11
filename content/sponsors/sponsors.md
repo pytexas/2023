@@ -19,14 +19,11 @@ We thank all of the following sponsors for making this year's PyTexas possible:
 
 #### Community Sponsors
 
-<div class="row mb-4">
-    <div class="col-3">
-      <a href="https://2023.pythonwebconf.com/">
-      <img src="/theme/img/sponsors/pwc23.png" alt="Python Web Conf Logo">
-      </a>
-    </div>
-</div>
+<div class="row mb-4" markdown="1">
+<div class="col-3" markdown="1">
+
+[![Python Web Conf Logo](/theme/img/sponsors/pwc23.png)](https://2023.pythonwebconf.com/)
 
 </div>
-
+</div>
 
