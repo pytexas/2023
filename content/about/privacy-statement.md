@@ -59,7 +59,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 ## Childrens Online Privacy Protection Act Compliance
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
 ## Your Consent
 

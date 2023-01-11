@@ -72,10 +72,6 @@ Python jobs you should apply to!
         <br>
       </div>
     </div>
-
-
-
-
 </div>
 
 
