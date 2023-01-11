@@ -1,5 +1,5 @@
-Title: Speaking
-slug: speaking
+Title: Give A Talk
+slug: speaking/talks
 date: 2022-10-23
 
 
