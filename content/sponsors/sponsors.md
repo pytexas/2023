@@ -6,19 +6,6 @@ date: 2022-10-23
 # Our Sponsors
 We thank all of the following sponsors for making this year's PyTexas possible:
 
-<br>
-<!-- 
-<div class="container">
-  <h3>Platinum</h3>
-    <div class="row mb-4">
-      <div class="col-4">
-        <a href="">
-        <img src="">
-        </a>
-      </div>
-    </div>
--->
-
 
 #### Door Prize Sponsors
 <div class="row mb-4">
