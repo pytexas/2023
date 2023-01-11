@@ -224,7 +224,7 @@ ways:&lt;/p&gt;
 &lt;h2&gt;Third party links&lt;/h2&gt;
 &lt;p&gt;Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.&lt;/p&gt;
 &lt;h2&gt;Childrens Online Privacy Protection Act Compliance&lt;/h2&gt;
-&lt;p&gt;We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.&lt;/p&gt;
+&lt;p&gt;We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.&lt;/p&gt;
 &lt;h2&gt;Your Consent&lt;/h2&gt;
 &lt;p&gt;By using our site, you consent to our privacy policy.&lt;/p&gt;
 &lt;h2&gt;Changes to our Privacy Policy&lt;/h2&gt;
@@ -343,8 +343,7 @@ has to offer. You'll have 2 hours for lunch, so be sure to factor in wait times 
 &lt;p&gt;The event …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Parking&lt;/h1&gt;
 &lt;hr /&gt;
 &lt;p&gt;While at PyTexas you may park in the Austin Public Library parking garage while space is available. &lt;strong&gt;This is a public parking garage and you will have to pay. You can find the rates &lt;a href="https://library.austintexas.gov/central/parking"&gt;here&lt;/a&gt;.&lt;/strong&gt; Just tell the parking attendant that you are here for the event.&lt;/p&gt;
-&lt;p&gt;The event will be starting before the library is open. &lt;strong&gt;Be sure to use the South Elevator or stais to Cesar Chavez to access the venue.&lt;/strong&gt; See the map below for 
-directions.&lt;/p&gt;
+&lt;p&gt;The event will be starting before the library is open. &lt;strong&gt;Be sure to use the South Elevator or stairs to Cesar Chavez to access the venue.&lt;/strong&gt; See the map below for directions.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="Parking map of APL" src="/theme/img/library-parking.PNG" /&gt;&lt;/p&gt;
 &lt;h2&gt;Other Parking Options&lt;/h2&gt;
 &lt;p&gt;If the parking garage is full, there are other parking options nearby.&lt;/p&gt;
@@ -491,10 +490,6 @@ will adhere to all guidelines required by venue and health officials.&lt;/p&gt;
         &lt;br&gt;
       &lt;/div&gt;
     &lt;/div&gt;
-
-
-
-
 &lt;/div&gt;</content><category term="job-board"></category></entry><entry><title>Full Schedule</title><link href="https://www.pytexas.org/schedule.html" rel="alternate"></link><published>2022-10-23T00:00:00-05:00</published><updated>2022-10-23T00:00:00-05:00</updated><author><name>PyTexas Devs</name></author><id>tag:www.pytexas.org,2022-10-23:/schedule.html</id><summary type="html">&lt;h1&gt;Talk Schedule&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;This schedule may change at any time before now and the start of the conference.&lt;/em&gt;&lt;/p&gt;
 &lt;table class="table"&gt;
@@ -852,17 +847,12 @@ Expressions of opinion do not necessarily reflect the views of his employer.
         &lt;img src="/assets/img/sponsors/scout-apm.png"&gt;
         &lt;/a&gt;
       &lt;/div&gt;
-
       &lt;div class="col-4"&gt;
         &lt;a href="https://devrelate.io/"&gt;
         &lt;img src="/assets/img/sponsors/dev-relate.jpg"&gt;
         &lt;/a&gt;
       &lt;/div&gt;
-
     &lt;/div&gt;
-
-
-
     &lt;h4&gt;Door Prize Sponsors&lt;/h4&gt;
       &lt;div class="row mb-4"&gt;
         &lt;div class="col-2"&gt;
@@ -880,9 +870,7 @@ Expressions of opinion do not necessarily reflect the views of his employer.
           &lt;img src="/assets/img/sponsors/no-starch.png"&gt;
           &lt;/a&gt;
         &lt;/div&gt;
-
       &lt;/div&gt;
-
   &lt;h5&gt;Silver&lt;/h5&gt;
     &lt;div class="row mb-4"&gt;
         &lt;div class="col-2"&gt;
@@ -890,9 +878,7 @@ Expressions of opinion do not necessarily reflect the views of his employer.
           &lt;img src="/assets/img/sponsors/includedhealth.png"&gt;
           &lt;/a&gt;
         &lt;/div&gt;
-
     &lt;/div&gt;
-
 &lt;/div&gt;</content><category term="sponsors"></category></entry><entry><title>Sponsor PyTexas</title><link href="https://www.pytexas.org/sponsors/prospectus.html" rel="alternate"></link><published>2022-10-23T00:00:00-05:00</published><updated>2022-10-23T00:00:00-05:00</updated><author><name>PyTexas Devs</name></author><id>tag:www.pytexas.org,2022-10-23:/sponsors/prospectus.html</id><summary type="html">&lt;h1&gt;Sponsor Prospectus&lt;/h1&gt;
 &lt;hr /&gt;
 &lt;p&gt;Presenting PyTexas 2023, the 13th Python Community Conference for the Texas Region. The purpose of PyTexas is to share Python-related knowledge and enthusiasm in the form of presentations, coding sprints, "teach me" sessions, and general networking among developers. It is run every year by volunteers from around the …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Sponsor Prospectus&lt;/h1&gt;
@@ -1135,7 +1121,7 @@ most of your investment in the Python community.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;T-Shirt Sponsor ($10,000)&lt;/strong&gt;&lt;ul&gt;
 &lt;li&gt;Add-on, included in Lone Star package.&lt;/li&gt;
-&lt;li&gt;Company logo on sleeve of official conference tshirt&lt;/li&gt;
+&lt;li&gt;Company logo on sleeve of official conference t-shirt&lt;/li&gt;
 &lt;li&gt;10 free t-shirts&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
