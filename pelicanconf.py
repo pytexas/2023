@@ -6,7 +6,10 @@ from pelican.readers import HTMLReader
 from pelican.settings import DEFAULT_CONFIG
 from utils.filters import sidebar
 from markdown.extensions.tables import TableExtension
+
+from markdown.extensions.md_in_html import MarkdownInHtmlExtension
 from markdown.extensions.attr_list import AttrListExtension
+
 
 AUTHOR = "PyTexas Devs"
 SITETITLE = "PyTexas 2023"
@@ -48,7 +51,8 @@ THEME = "theme/pytexas-conf"
 MARKDOWN = {
     "extensions": [
         TableExtension(),
-        AttrListExtension()
+        AttrListExtension(),
+        MarkdownInHtmlExtension()
     ]
 }
 
@@ -103,8 +107,10 @@ MENUITEMS = {
     "Sponsors": {
         "Index": "/sponsors",
         "Pages": {
-            "Prospectus": "/sponsors/prospectus",
+            "Sponsors": "/sponsors/sponsors",
             "Why Sponsor": "/sponsors/why-sponsor",
+            "Prospectus": "/sponsors/prospectus",
+            
         },
         "Dropdown": True,
     },
