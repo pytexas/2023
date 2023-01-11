@@ -113,8 +113,7 @@ MENUITEMS = {
 }
 
 JINJA_FILTERS = {
-    "sidebar": sidebar,
-    "md": md,
+    "sidebar": sidebar
 }
 
 # Blogroll
