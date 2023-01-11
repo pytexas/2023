@@ -84,7 +84,7 @@ most of your investment in the Python community.
 |:---------------------------------------------------------------------------------------|:---------------------------------------------:|:--------------------:|
 | Number Limit {: .row-head }                                                            |                       1                       |          2           |
 | <tr><td class="table-span" colspan="3">Tickets</td></tr>                               |
-| Free sponsor tickets {: .row-head }                                                    |                      10                       |          5           |
+| Free sponsor tickets {: .row-head }                                                    |                       4                       |          3           |
 | 10% discount conference tickets (Corporate rate) {: .row-head }                        |                      20                       |          10          |
 | <tr><td class="table-span" colspan="3">Speaking Slots</td></tr>                        |
 | Optional 25-minute speaking slot after Day 1 Keynote {: .row-head }                    |                       ✓                       |                      |
