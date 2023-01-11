@@ -6,7 +6,9 @@ from pelican.readers import HTMLReader
 from pelican.settings import DEFAULT_CONFIG
 from utils.filters import sidebar
 from markdown.extensions.tables import TableExtension
+
 from markdown.extensions.md_in_html import MarkdownInHtmlExtension
+from markdown.extensions.attr_list import AttrListExtension
 
 
 AUTHOR = "PyTexas Devs"
@@ -47,8 +49,9 @@ PAGE_SAVE_AS = "{slug}/index.html"
 THEME = "theme/pytexas-conf"
 
 MARKDOWN = {
-    [
+    "extensions": [
         TableExtension(),
+        AttrListExtension(),
         MarkdownInHtmlExtension()
     ]
 }
