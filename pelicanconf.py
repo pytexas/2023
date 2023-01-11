@@ -116,7 +116,11 @@ MENUITEMS = {
     },
     "Speaking": {
         "Index": "/speaking",
-        "Dropdown": False,
+        "Pages": {
+            "Keynote Speakers": "/speaking/keynotes",
+            "Give A Talk": "/speaking/talks",
+        },
+        "Dropdown": True,
     },
 }
 
