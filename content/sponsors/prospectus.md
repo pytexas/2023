@@ -11,14 +11,12 @@ In 2012, PyTexas received national recognition from former Python Software Found
 
 Please consider sponsoring PyTexas 2023 through a financial contribution to the non-profit PyTexas Foundation. Your contribution helps the Texas-area Python community build a better conference, while also providing a targeted marketing and community outreach opportunity.
 
-We have provided this prospectus for potential sponsors to find out more about
-the conference itself and available sponsorship opportunities. Our contact
-information is available immediately below if you have any questions.
+We have provided this prospectus for potential sponsors to find out more about the conference itself and available sponsorship opportunities. Our contact information is available immediately below if you have any questions.
 
 ### Contact Details
 
 * Sponsor Chair: Mason Egger
-* E-Mail: [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org)
+* Email: [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org)
 
 ## Conference Profile
 
@@ -28,8 +26,7 @@ We expect around 200 - 250 in-person attendees for PyTexas 2023.
 **[Code of Conduct](/about/code-of-conduct)**
 
 **Audience Profile:**<br>
-Professional Python developers, data scientists, amateurs, students, software
-architects, managers, inventors, entrepreneurs, geographers, meteorologists.
+Professional Python developers, data scientists, infrastructure engineers, amateurs, students, software architects, managers, inventors, entrepreneurs, geographers, meteorologists.
 
 **Schedule:**
 
@@ -53,209 +50,94 @@ We offer several standard packages. However, if none of these seem to fit,
 please feel free to contact the Sponsor Chair (above). We want to help you make the
 most of your investment in the Python community.
 
-### Standard Packages
+* [Standard Packages](#standard-packages)
+* [Premium Packages](#premium-packages)
+* [Special Packages and Add-Ons](#special-packages-and-add-ons)
 
-<table class="table">
-    <thead style="position: sticky; top: 0;" class="thead-dark">
-        <tr>
-            <th scope="col"></th>
-            <th scope="col">Lone Star   $50,000</th>
-            <th scope="col">Platinum   $25,000</th>
-            <th scope="col">Diamond   $10,000</th>
-            <th scope="col">Gold   $5,000</th>
-            <th scope="col">Silver   $2,500</th>
-            <th scope="col">Bronze   $1,125</th>
-            <th scope="col">Personal/Community   $500</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <th scope="row">Number Limit</th>
-            <td>1</td>
-            <td>2</td>
-            <td>4</td>
-            <td>4</td>
-            <td>∞</td>
-            <td>∞</td>
-            <td>∞</td>
-        </tr>
-        <tr>
-            <th scope="row">Free sponsor tickets</th>
-            <td>10</td>
-            <td>5</td>
-            <td>2</td>
-            <td>1</td>
-            <td></td>
-            <td></td>
-            <td>1</td>
-        </tr>
-        <tr>
-            <th scope="row">10% discount conference tickets  (Corporate rate)</th>
-            <td>20</td>
-            <td>10</td>
-            <td>8</td>
-            <td>4</td>
-            <td>2</td>
-            <td>1</td>
-            <td></td>
-        </tr>
-        <tr>
-            <th scope="row">Sponsor name, logo, link, and description on website</th>
-            <td>✓</td>
-            <td>✓</td>
-            <td>✓</td>
-            <td>✓</td>
-            <td>✓</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <th scope="row">Plain text acknowledgement on Website</th>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>✓</td>
-            <td>✓</td>
-        </tr>
-        <tr>
-            <th scope="row">Optional “Is Hiring” indicator with link on website</th>
-            <td>✓</td>
-            <td>✓</td>
-            <td>✓</td>
-            <td>✓</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <th scope="row">Social media: Thanked in Twitter post</th>
-            <td>✓</td>
-            <td>✓</td>
-            <td>✓</td>
-            <td>✓</td>
-            <td>✓</td>
-            <td>✓</td>
-            <td>✓ [Optional]</td>
-        </tr>
-        <tr>
-            <th scope="row">Logo on conference t-shirt</th>
-            <td>✓</td>
-            <td>Add-on</td>
-            <td>Add-on</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <th scope="row">Exhibit Table*</th>
-            <td>Large</td>
-            <td>Medium</td>
-            <td>Medium</td>
-            <td>Small</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <th scope="row">Sponsor Banner stands  (2; provided by sponsor, more negotiable)</th>
-            <td>✓</td>
-            <td>✓</td>
-            <td>✓</td>
-            <td>✓</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <th scope="row">Promotional items placed on seating tables in venue</th>
-            <td>✓</td>
-            <td>✓</td>
-            <td>✓</td>
-            <td>✓</td>
-            <td>✓</td>
-            <td>✓</td>
-            <td></td>
-        </tr>
-        <tr>
-            <th scope="row">Logo featured on Speaker backdrop</th>
-            <td>✓</td>
-            <td>✓</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <th scope="row">Logo on ALL conference talk videos available forever</th>
-            <td>✓</td>
-            <td>✓</td>
-            <td>$1,000</td>
-            <td>$1,000</td>
-            <td>$1,000</td>
-            <td>$1,000</td>
-            <td></td>
-        </tr>
-        <tr>
-            <th scope="row">Featured in wrap-up video with special thanks</th>
-            <td>Preeminent</td>
-            <td>Preeminent</td>
-            <td>Preeminent</td>
-            <td>$1,000</td>
-            <td>$1,000</td>
-            <td>$1,000</td>
-            <td></td>
-        </tr>
-        <tr>
-            <th scope="row">Optional 25 minute speaking slot directly after to Day 1 Keynote</th>
-            <td>✓</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <th scope="row">Optional five minute speaking slot Day 1 of the conference (max 3 sponsors)</th>
-            <td>✓</td>
-            <td>✓</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <th scope="row">1 Exclusive email sharing your message with the PyTexas mailing list</th>
-            <td>✓</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
+### Standard Packages {: #standard-packages}
 
-\* **Exhibit Table Booth Size**
+| Package                                                                        | Diamond<br/>$9,000 | Gold<br/>$5,000 | Silver<br/>$2,500 | Bronze<br/>$1,125 |
+|:-------------------------------------------------------------------------------|:------------------:|:---------------:|:-----------------:|:-----------------:|
+| Number Limit {: .row-head }                                                    |         4          |        4        |         ∞         |         ∞         |
+| <tr><td class="table-span" colspan="5">Tickets</td></tr>                       | 
+| Free sponsor tickets {: .row-head }                                            |         2          |        1        |                   |                   |
+| 10% discount conference tickets (Corporate rate) {: .row-head }                |         8          |        4        |         2         |         1         |
+| <tr><td class="table-span" colspan="5">Website</td></tr>                       |
+| Sponsor name, logo, link, and description on website {: .row-head }            |         ✓          |        ✓        |         ✓         |                   |
+| Plain text acknowledgement on Website {: .row-head }                           |                    |                 |                   |         ✓         |
+| Optional “Is Hiring” indicator with link on website {: .row-head }             |         ✓          |        ✓        |                   |                   |
+| <tr><td class="table-span" colspan="5">Social Media</td></tr>                  |
+| Thanked in a Twitter post {: .row-head }                                       |         ✓          |        ✓        |         ✓         |         ✓         |
+| <tr><td class="table-span" colspan="5">In-Person</td></tr>                     |
+| Exhibit Table {: .row-head }                                                   |      One 8-ft      |    One 5-ft     |                   |                   |
+| Sponsor Banner stands (2; provided by sponsor, more negotiable) {: .row-head } |         ✓          |        ✓        |                   |                   |
+| Promotional items placed on seating tables in venue {: .row-head }             |         ✓          |        ✓        |         ✓         |         ✓         |
+| <tr><td class="table-span" colspan="5">Video</td></tr>                         |
+| Featured in wrap-up video with special thanks {: .row-head }                   |         ✓          |                 |                   |                   |
 
-* Large - 2 five foot tables, directly in front of speaking area entrance.
-* Medium - 1 eight foot table
-* Small - 1 five foot table
+<br/>
+<br/>
 
-### Exclusive Benefits
+### Premium Packages {: #premium-packages}
+
+| Package                                                                                |             Lone Star<br/>$20,000             | Platinum<br/>$14,000 |
+|:---------------------------------------------------------------------------------------|:---------------------------------------------:|:--------------------:|
+| Number Limit {: .row-head }                                                            |                       1                       |          2           |
+| <tr><td class="table-span" colspan="3">Tickets</td></tr>                               |
+| Free sponsor tickets {: .row-head }                                                    |                       4                       |          3           |
+| 10% discount conference tickets (Corporate rate) {: .row-head }                        |                      20                       |          10          |
+| <tr><td class="table-span" colspan="3">Speaking Slots</td></tr>                        |
+| Optional 25-minute speaking slot after Day 1 Keynote {: .row-head }                    |                       ✓                       |                      |
+| Optional 5-minute speaking slot Day 1 of the conference {: .row-head }                 |                       ✓                       |          ✓           |
+| <tr><td class="table-span" colspan="3">Communication</td></tr>                         |
+| 1 exclusive email sharing your message with the conference mailing list {: .row-head } |                                               |                      |
+| <tr><td class="table-span" colspan="3">Website</td></tr>                               |
+| Sponsor name, logo, link, and description on website {: .row-head }                    |                       ✓                       |          ✓           |
+| Optional “Is Hiring” indicator with link on website {: .row-head }                     |                       ✓                       |          ✓           |
+| <tr><td class="table-span" colspan="3">Social Media</td></tr>                          |
+| Thanked in a Twitter post {: .row-head }                                               |                       ✓                       |          ✓           |
+| <tr><td class="table-span" colspan="3">Shirts</td></tr>                                |
+| Logo on conference t-shirt {: .row-head }                                              |                       ✓                       |                      |
+| <tr><td class="table-span" colspan="3">In-Person</td></tr>                             |
+| Exhibit Table {: .row-head }                                                           | Two 5-ft, in front of main<br/>stage entrance |       One 8-ft       |
+| Sponsor Banner stands (2; provided by sponsor, more negotiable) {: .row-head }         |                       ✓                       |          ✓           | 
+| Promotional items placed on seating tables in venue {: .row-head }                     |                       ✓                       |          ✓           |
+| Logo featured on speaker backdrop {: .row-head }                                       |                       ✓                       |          ✓           |
+| <tr><td class="table-span" colspan="3">Video</td></tr>                                 |
+| Logo on ALL conference talk videos available forever {: .row-head }                    |                       ✓                       |          ✓           |
+| Featured in wrap-up video with special thanks {: .row-head }                           |                       ✓                       |          ✓           |
+
+<br/>
+<br/>
+
+### Special Packages and Add-Ons {: #special-packages-and-add-ons}
 
 PyTexas also offers several exclusive sponsor benefits on a first-come, first-served basis (add-ons available to sponsors at Gold tier or above):
 
-- **T-Shirt Sponsor ($10,000)**
-    - Add-on, included in Lone Star package.
-    - Company logo on sleeve of official conference t-shirt
+#### Add-Ons (must sponsor another package)
+
+- **T-Shirt Sponsor ($5,000)**
+    - Add-on for _Diamond and above_, included in Lone Star.
+    - Company logo on sleeve of official conference tshirt
     - 10 free t-shirts
+- **Video Logo Forever ($1,000)**
+    - Add-on for _Bronze and above_, included in Lone Star and Platinum.
+    - Have your logo forever on all videos from this year's PyTexas.
+- **Wrap-Up Feature ($1,000)**
+    - Add-on for _Bronze and above_, included in Lone Star and Platinum.
+    - Get featured in the wrap-up video that goes onto YouTube, along with a special thank you call out.
+
+#### Special Packages
+
+- **Commercial Sponsor ($2,500 per ad run)**
+    - Commercial breaks between talks will air video ads.
+    - **If you can't make it out to PyTexas this year but want to get a message out to our attendees**,<br/>this package is for you.
+    - Ads are 3 minutes or less and shown to the entire audience of 200-250 attendees.
+    - You can buy as many spots as you'd like.
+    - Spots are sold on a first-come, first-serve basis.
+    - Includes the addition of a digital slide in the foyer.
+    - Examples include demos, programs, hiring pitches, and more.
+    - _All ads will need to be reviewed and approved by the PyTexas organizing staff._
 - **Video Sponsor ($5,000)**
     - Five sponsorships available
     - Company logo featured prominently at the beginning and end of every talk recording ([example](https://www.youtube.com/watch?v=68z91dRJCOU))
@@ -280,10 +162,11 @@ PyTexas also offers several exclusive sponsor benefits on a first-come, first-se
     - Contribute directly to financial aid
     - 2 free tickets to PyTexas
 
-Contact the Sponsor Chair for more details.
+Contact the Sponsor Chair for more details on any package or add-on: [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org)
+
 ### Have an Idea?
 
-Do you have an idea for a package or exclusive benefit you’d like to see at PyTexas? We’re open to them! Contact the Sponsor Chair to discuss what you’d like to do.
+Do you have an idea for a package or exclusive benefit you’d like to see at PyTexas? We’re open to them! Contact the Sponsor Chair to discuss what you’d like to do: [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org)
 
 ## About the Python Language
 
@@ -297,4 +180,4 @@ See [http://www.python.org/about/quotes/](http://www.python.org/about/quotes/) t
 
 ## Questions or Comments
 
-The PyTexas 2023 staff appreciate your time in considering this prospectus. If you have any questions or comments, please contact the Sponsor Chair (Above).
+The PyTexas 2023 staff appreciate your time in considering this prospectus. If you have any questions or comments, please contact the Sponsor Chair: [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org)
