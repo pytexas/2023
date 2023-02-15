@@ -1,28 +1,47 @@
-Title: Keynotes
+Title: Keynote Speakers
 slug: schedule/keynotes
-date: 2022-10-23
+date: 2023-01-03
 
 # Keynote Speakers
+
 ---
 
-We are excited to announce our Keynote Speakers for PyTexas 2022, _Lorena Mesa_ 
-and _Kojo Idrissa_!
+## Andrew (Pandy) Knight
 
-## Lorena Mesa - _Saturday Keynote_
-<a id="lorena"></a>
-<div class="col-md-7 offset-md-2">
-    <img src="/assets/img/speakers/lorena.jpg" class="rounded img-fluid" alt="Lorena Mesa working at a computer">
+<div class="row mb-4" markdown="1">
+  <div class="col-3" markdown="1">
+![Pandy Knight](/theme/img/andy-knight.png)
+  </div>
+  Andrew Knight, also known as “Pandy,” is the Automation Panda.
+He’s a software quality champion who loves to help people build better quality software.
+In the past, he’s built large-scale test automation projects that run continuously and reliably.
+Currently, as a Developer Advocate at Applitools, Pandy helps folks make their apps visually perfect.
+He serves as Director of Test Automation University,
+which offers a multitude of free courses on software testing from the world’s leading instructors.
+An avid supporter of open source software,
+Pandy is a Playwright Ambassador as well as the lead developer for Boa Constrictor,
+the .NET Screenplay Pattern.
+On the side, he is writing a book on software testing with Manning Publications.
+Check out his tech blog at [AutomationPanda.com](https://automationpanda.com),
+and follow him on Twitter at [@AutomationPanda](https://twitter.com/automationpanda).
 </div>
-Political scientist turned coder, Lorena Mesa is a GitHub data engineer, Director & Chair of the Python Software Foundation, [JOSS](https://joss.theoj.org/about) editor, and PyLadies Chicago co-organizer. Lorena's time at Obama for America and her subsequent graduate research required her to learn how to transform messy, incomplete data into intelligible analysis on topics like predicting Latinx voter behavior. It's this unique background in research and applied mathematics that drove Lorena to pursue a career in engineering and data science. One part activist, one part Star Wars fanatic, and another part [Trekkie](https://www.greggpollack.com/wp-content/uploads/2017/03/lorena_for_twitter.jpg), Lorena abides by the motto to "live long and prosper"
 
 
-## Kojo Idrissa - _Sunday Keynote_
-<a id="kojo"></a>
-<div class="col-md-6 offset-md-2">
-    <img src="/assets/img/speakers/kojo.JPG" class="rounded img-fluid" alt="Kojo Idrissa Headshot">
+## Brandon Rhodes
+
+<div class="row mb-4" markdown="1">
+  <div class="col-3 d-flex justify-content-center" markdown="1">
+![Brandon Rhodes](/theme/img/brandon-rhodes.jpeg)
 </div>
-Kojo Idrissa **was** an accountant who got an MBA and taught at university in two different countries. He's now a parent, software engineer, intercontinental keynote speaker, DjangoCon US organizer and the [DEFNA](https://www.defna.org/) North American Ambassador [#NorAmGT](https://twitter.com/search?q=%23NorAmGT&src=tyah). He's spoken at tech conferences about software engineering practices, spreadsheets, contributing to tech communities, Dungeons & Dragons, inclusion, and privilege.
-
-He’s made a few small FLOSS contributions to CPython & Jinja, as well as Drupal (a LONG time ago). He’s also made contributions to Codecombat, where he helped others make their first OSS contributions, and PyVideo, where he updated the Tags section of the Contribution guide for their Data repo.
-
-He is quite proud to have been awarded the 2018 Malcolm Tredinnick Memorial Prize and continues to try to be worthy of it. You can find him online at http://kojoidrissa.com/ or as [@transitionswpz](https://twitter.com/transitionswpz) on Twitter. His Twitter handle makes NO sense because his account was hacked on 2019-12-09. While he REMAINS bitter about this, KPop and Overwatch help him feel better.
+Brandon Rhodes draws on more than 20 years of experience with Python
+and 30 years with Unix to offer effective patterns
+and practices to the audiences of his talks, writing, and training.
+His [Python Patterns](https://python-patterns.guide)
+website offers Pythonic alternatives to the design patterns that are necessary in less flexible languages.
+He’s the author of both the old [PyEphem](https://rhodesmill.org/pyephem/)
+astronomy library as well its modern alternative [Skyfield](https://rhodesmill.org/skyfield/),
+along with smaller projects like the elegant little [logging_tree](https://pypi.org/project/logging_tree/)
+module that’s compatible with every Python back to Python 2.3.
+He is a Fellow of the Python Software Foundation,
+on whose behalf he served as the volunteer chair of PyCon 2016–2017 in Portland.
+</div>
