@@ -122,6 +122,11 @@ MENUITEMS = {
         },
         "Dropdown": True,
     },
+    "Schedule": {
+        "Index": "/schedule/talks",
+        "Pages": {"Talks": "/schedule/talks"},
+        "Dropdown": False,
+    },
 }
 
 JINJA_FILTERS = {
