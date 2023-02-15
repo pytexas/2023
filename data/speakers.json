@@ -1,0 +1,226 @@
+[
+  {
+    "ID": "33QZFU",
+    "Name": "Amy Arambulo Negrette",
+    "Biography": "With fifteen years industry experience, Amy Arambulo Negrette has built web applications for a variety of industries including Yahoo! Fantasy Sports and NASA Ames Research Center. One of her projects modernized two legacy systems impacting the entire research center and won her a Certificate of Excellence from the Ames Contractor Council. More recently, she built APIs for enterprise clients for a cloud consulting firms and led a team of Cloud Software Engineers. Amy has survived acquisitions, layoffs, and balancing life with two children.",
+    "Picture": "https://pretalx.com/media/avatars/amy-n_RhQx1xC.jpg",
+    "Proposal IDs": [
+      "MGKFTY"
+    ],
+    "Proposal titles": [
+      "Automating your Cloud Cost Analysis"
+    ]
+  },
+  {
+    "ID": "AJYLRJ",
+    "Name": "Aly Sivji",
+    "Biography": "Aly Sivji is a Canadian ex-pat living in Chicago. By day, he works as a Team Lead at Jasper Health building a digital health platform to improve the management and delivery of cancer care. By night, he co-organizes the Chicago Python Users Group (ChiPy). Aly is an active participant in the ChiPy Mentorship Program and he loves helping intermediate developers become experts. Outside of Python, Aly enjoys cycling, reading, and rewatching old TV shows.",
+    "Picture": "https://www.gravatar.com/avatar/bda59cfe1d182d477357b206420e4118",
+    "Proposal IDs": [
+      "JASMQM"
+    ],
+    "Proposal titles": [
+      "Unlocking the Power of Health Data: An Introduction to FHIR and Python"
+    ]
+  },
+  {
+    "ID": "AMVMET",
+    "Name": "Joseph Nix",
+    "Biography": "Joseph Nix is the CEO and a founder of Terminal Labs, a seasoned Python developer, and a scientist at heart with a background in astrophysics. He has created and maintained several open source projects. He has consulted on many DevOps, Data Science, and Python WebDev projects, and enjoys training other consultants and engineers. He is eager to make an impact in every project he\u2019s involved in and in his community.",
+    "Picture": "https://pretalx.com/media/avatars/joe2_TpWdFZG.jpg",
+    "Proposal IDs": [
+      "KQYC8Z"
+    ],
+    "Proposal titles": [
+      "Duck Typing, Metaclasses, & Recursion: Building a Generalized Deep Collection Type"
+    ]
+  },
+  {
+    "ID": "DBNFV8",
+    "Name": "Natalya Buga",
+    "Biography": "Natalya is a senior software developer at Bloomberg. She is passionate about designing elegant and intuitive applications that solve her users\u2019 needs, while offering developers a pleasant support experience. During her career, Natalya has supported various business areas, while using different languages and technologies. Natalya is new to Python but has enjoyed using it from the outset. Currently, Natalya works in the field of RegTech, supporting Bloomberg's Compliance teams in their goal of adhering to regulatory requirements and best compliance practices to protect the reputation and privacy of clients' firms and their customers.",
+    "Picture": "https://pretalx.com/media/avatars/Natalya_jDvw7Av.jpg",
+    "Proposal IDs": [
+      "PCNK9D"
+    ],
+    "Proposal titles": [
+      "Having fun with application design"
+    ]
+  },
+  {
+    "ID": "FHJBQF",
+    "Name": "Dave Klein",
+    "Biography": "After 29 years as a developer, architect, project manager (recovered), author, trainer, conference organizer, and homeschooling dad, Dave Klein landed his dream job as a developer advocate at Confluent. Dave is marveling in and eager to help others explore the amazing world of event streaming with Apache Kafka.",
+    "Picture": "https://pretalx.com/media/avatars/daveklein_ogDny9Q.jpg",
+    "Proposal IDs": [
+      "W3BBAK",
+      "NDWZGE"
+    ],
+    "Proposal titles": [
+      "Smart Data Pipelines with Kafka and Python",
+      "Real-time Event Streaming with Python"
+    ]
+  },
+  {
+    "ID": "HT7E9F",
+    "Name": "Krishi Sharma",
+    "Biography": "Krishi is a software developer at KUNGFU.AI and has been developing with Python for 5 years. She has leveraged Python for machine learning and data science, and hopes to help other developers using the knowledge she has gained by trial and error while working on consulting projects for clients across several different industries.",
+    "Picture": "https://pretalx.com/media/avatars/F39B481E-7476-4198-B343-2F825441F75E_oqTRU45.jpg",
+    "Proposal IDs": [
+      "HXXUYK"
+    ],
+    "Proposal titles": [
+      "Trust Fall: Hidden Gems in MLFlow that Improve Model Credibility"
+    ]
+  },
+  {
+    "ID": "HVAES8",
+    "Name": "Al Sweigart",
+    "Biography": "Al Sweigart is a software developer, fellow of the Python Software Foundation, and author of several programming books with No Starch Press, including the worldwide bestseller Automate the Boring Stuff with Python. His Creative Commons licensed works are available at https://inventwithpython.com.",
+    "Picture": "https://pretalx.com/media/avatars/me-backyard-twitter-profile_RcV01uQ.jpg",
+    "Proposal IDs": [
+      "CV9CUV",
+      "LHAA3B",
+      "EYELAN"
+    ],
+    "Proposal titles": [
+      "Recursion for Beginners: A Beginner's Guide to Recursion",
+      "A Comparison of Browser Automation Libraries: Playwright and Selenium",
+      "Using GUI Automation to Create APIs for API-less Desktop Apps"
+    ]
+  },
+  {
+    "ID": "HZJWNB",
+    "Name": "Chris May",
+    "Biography": "Chris May is a co-founder of the Python user group in Richmond, Virginia, PyRVA, and had a great career in web and python development, most recently as a Senior Full-Stack Engineer at Markel.\r\n\r\nSeeing his impact on his coworkers and PyRVA members, Chris decided to step away from his full-time job to teach python to others through group training, coaching, and authoring resources.\r\n\r\nWith his infectious zest for life and Python, Chris is excited to help you become a better Python developer.",
+    "Picture": "https://pretalx.com/media/avatars/Chris_May_DSC_0081_Qoh4ZhM.jpg",
+    "Proposal IDs": [
+      "USAA9W"
+    ],
+    "Proposal titles": [
+      "Improving code without losing your mind"
+    ]
+  },
+  {
+    "ID": "LAFT9K",
+    "Name": "Sophia Yang",
+    "Biography": "Sophia Yang is a Senior Data Scientist and a Developer Advocate at Anaconda. She is passionate about the data science community and the Python open-source community. She is the author of multiple Python open-source libraries such as condastats, cranlogs, PyPowerUp, intake-stripe, and intake-salesforce. She serves on the Steering Committee and the Code of Conduct Committee of the Python open-source visualization system HoloViz. She also volunteers at NumFOCUS, PyData, and SciPy conferences. She holds an M.S. in Computer Science, an M.S. in Statistics, and a Ph.D. in Educational Psychology from The University of Texas at Austin.",
+    "Picture": "https://pretalx.com/media/avatars/sophia_hTd036E.jpeg",
+    "Proposal IDs": [
+      "U9QBCR"
+    ],
+    "Proposal titles": [
+      "HoloViz: Visualization and Interactive Dashboards in Python"
+    ]
+  },
+  {
+    "ID": "LALTGL",
+    "Name": "Tristan Lee",
+    "Biography": "Tristan Lee is a Data Scientist & Developer at Bellingcat, a non-profit independent research collective that uses open source data to investigate human rights abuses, environmental issues, wrongdoings by the powerful, the radical fringes of society, and everything in between. His work focuses on far-right and conspiracy theory networks online, as well as tool development and open-source software community outreach.",
+    "Picture": "https://pretalx.com/media/avatars/Tristan_3_D5N6pLn.jpg",
+    "Proposal IDs": [
+      "F7HAMC"
+    ],
+    "Proposal titles": [
+      "Using Python for Digital Investigations"
+    ]
+  },
+  {
+    "ID": "MUP7LQ",
+    "Name": "Lisa Tagliaferri",
+    "Biography": "Lisa Tagliaferri builds teams, technical resources, and open source software in the tech startup space. Lisa is currently Head of Developer Education at Chainguard and an adjunct professor at Rutgers University. Lisa previously led the Developer Education teams at Sourcegraph and at DigitalOcean. Lisa has written popular open access books and tutorials on Python, machine learning, Linux, and cloud infrastructure, drawing over 45 million global readers.",
+    "Picture": "https://pretalx.com/media/avatars/lisa-tagliaferri_iuOTudH.jpg",
+    "Proposal IDs": [
+      "MNXLDQ"
+    ],
+    "Proposal titles": [
+      "How to Build and Ship More Secure Python Apps with Sigstore"
+    ]
+  },
+  {
+    "ID": "RHBVUJ",
+    "Name": "Pranav Sastry",
+    "Biography": "Deep learner",
+    "Picture": "https://pretalx.com/media/avatars/Photo_ZG4Ar0K.jpg",
+    "Proposal IDs": [
+      "TSREV8"
+    ],
+    "Proposal titles": [
+      "Building a Deep Learning Framework from scratch with Python and NumPy"
+    ]
+  },
+  {
+    "ID": "TB9ZPX",
+    "Name": "Aurelien Didier",
+    "Biography": "Data Engineer who loves to experiment with Python.",
+    "Picture": "https://pretalx.com/media/avatars/Screenshot_2022-03-25_at_15.12.31_0CLKoUi.png",
+    "Proposal IDs": [
+      "C3PBVR"
+    ],
+    "Proposal titles": [
+      "Put your Pants on and lint all your Python code!"
+    ]
+  },
+  {
+    "ID": "UKGFFX",
+    "Name": "Josh Schneider",
+    "Biography": "Test Automation architect at Dell Technologies. Geeky dad with 1+ years in Improv comedy training and performing.",
+    "Picture": "https://www.gravatar.com/avatar/4fd8d11f5cc00e1fa20dc9a596b16088",
+    "Proposal IDs": [
+      "TQVW83",
+      "FCDFLQ"
+    ],
+    "Proposal titles": [
+      "Practical Decorators",
+      "Building Team Culture with a Style Guide"
+    ]
+  },
+  {
+    "ID": "UUX7CF",
+    "Name": "Lizzie Siegle",
+    "Biography": "Lizzie is an international speaker, engineer, and Twilio developer evangelist known for rickrolling developers with code, Python sea shanty Tiktoks, and developing trending apps like Wordle via SMS or blog posts relating code to Taylor Swift.\r\nShe previously studied Computer Science at Bryn Mawr College",
+    "Picture": "https://pretalx.com/media/avatars/finalheadshot_r0LX66f.jpeg",
+    "Proposal IDs": [
+      "7X79PK"
+    ],
+    "Proposal titles": [
+      "Build your own ChatGPT"
+    ]
+  },
+  {
+    "ID": "W8C73X",
+    "Name": "Thomas Stephens",
+    "Biography": null,
+    "Picture": null,
+    "Proposal IDs": [
+      "NT7ZVM"
+    ],
+    "Proposal titles": [
+      "A Tale of Two Typings"
+    ]
+  },
+  {
+    "ID": "YB8CFR",
+    "Name": "Joshua Cannon",
+    "Biography": "Howdy!\r\n\r\nI'm a Build Engineer at IBM Watson Orders, and a maintainer of the Pantsbuild project. I love Python and DevX. Feel free to say hi!",
+    "Picture": "https://pretalx.com/media/avatars/avatar_U2cIaMd.jpg",
+    "Proposal IDs": [
+      "MTLBLT"
+    ],
+    "Proposal titles": [
+      "A BuildEngineer in a buildless lang"
+    ]
+  },
+  {
+    "ID": "SVVEJU",
+    "Name": "Jessy Ayala",
+    "Biography": null,
+    "Picture": null,
+    "Proposal IDs": [
+      "VHQ8SD"
+    ],
+    "Proposal titles": [
+      "Exploring Socio-technical Security Concerns in Critical Open-source Python Repositories"
+    ]
+  }
+]
