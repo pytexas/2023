@@ -1,5 +1,8 @@
+import collections
+import datetime
 import json
 import pathlib
+import zoneinfo
 
 PROJECT_ROOT = pathlib.Path(__file__).parents[1]
 SCHEDULE_DIR = PROJECT_ROOT / "content" / "schedule"
@@ -42,15 +45,59 @@ SPEAKER_BIO_TEMPLATE = """<div class="media">
     </div>
 </div>"""
 
-SCHEDULE_ENTRY_TEMPLATE = """<tr>
+SCHEDULE_PAGE_TEMPLATE = """Title: Full Schedule
+slug: schedule
+date: 2023-02-16
+# Talk Schedule
+
+_This schedule may change at any time between now and the start of the conference._
+
+<table class="table">
+  <thead class="thead-dark">
+    <th width="20%" scope="col">Time</th>
+    <th style="text-align:center;" scope="col">Saturday</th>
+    <th style="text-align:center;" scope="col">Sunday</th>
+  </thead>
+  <tbody>
+  {rows}
+  </tbody>
+</table>
+"""
+
+SCHEDULE_ROW_TEMPLATE = """<tr>
     <th scope="row">{schedule_time}</th>
-    <td>
-        <p style="text-align:center;">
-            <a href="talks/#{talk_id}">{title}</a>
-        </p>
-        <p style="text-align:center;font-size:16px;">{speaker_names}</p>
-    </td>
+    {first_entry}
+    {second_entry}
 </tr>"""
+
+SCHEDULE_ENTRY_TEMPLATE = """<td>
+    <p style="text-align:center;">
+        <a href="{href}">{title}</a>
+    </p>
+    <p style="text-align:center;font-size:16px;">{speaker_names}</p>
+</td>"""
+
+SIMPLE_CELL = """<td style="text-align:center">{}</td>"""
+
+
+STATIC_EVENTS = {
+    datetime.time(9, 0): [
+        SIMPLE_CELL.format("Day 1 Opening Remarks"),
+        SIMPLE_CELL.format("Day 2 Opening Remarks"),
+    ],
+    datetime.time(9, 15): [
+        SCHEDULE_ENTRY_TEMPLATE.format(
+            href="schedule/keynotes/", title="Keynote", speaker_names="Brandon Rhodes"
+        ),
+        SCHEDULE_ENTRY_TEMPLATE.format(
+            href="schedule/keynotes/", title="Keynote", speaker_names="Andy Knight"
+        ),
+    ],
+    datetime.time(10, 0): [SIMPLE_CELL.format("15 Minute Break")] * 2,
+    datetime.time(12, 15): [SIMPLE_CELL.format("Lunch")] * 2,
+    datetime.time(15, 15): [SIMPLE_CELL.format("15 Minute Break")] * 2,
+    datetime.time(17, 0): [SIMPLE_CELL.format("Lighnting Talks")] * 2,
+}
 
 
 def _get_file(name: str):
@@ -100,8 +147,46 @@ def build_talk_entries(talks, speakers):
     return talk_entries
 
 
-def build_schedule_entries(talks, speakers):
-    pass
+def _format_schedule_entry(talk):
+    return SCHEDULE_ENTRY_TEMPLATE.format(
+        title=talk["Proposal title"],
+        href=f"schedule/talks/#{talk['ID']}",
+        speaker_names=", ".join(talk["Speaker names"]),
+    )
+
+
+def build_schedule_rows(talks, speakers):
+    scheduled_talks = sorted(
+        [t for t in talks if t["Start"]],
+        key=lambda t: datetime.datetime.fromisoformat(t["Start"]),
+    )
+    talks_by_date = collections.defaultdict(dict)
+    local_tz = zoneinfo.ZoneInfo("US/Central")
+    for talk in scheduled_talks:
+        start_dt = datetime.datetime.fromisoformat(talk["Start"]).astimezone(local_tz)
+        talks_by_date[start_dt.time()][start_dt.date()] = _format_schedule_entry(talk)
+
+    talks_by_time = {**STATIC_EVENTS}
+    for time_dt, talk_dict in talks_by_date.items():
+        time_talks = [talk_dict[k] for k in sorted(talk_dict)]
+        talks_by_time[time_dt] = time_talks
+
+    schedule_rows = []
+    for timeslot in sorted(talks_by_time):
+        time_str = timeslot.strftime("%I:%M %p")
+        timeslot_talks = talks_by_time[timeslot]
+        if len(talks_by_time[timeslot]) != 2:
+            # There is one special-case where a Saturday talk is not yet assigned
+            timeslot_talks = [SIMPLE_CELL.format("TBA"), timeslot_talks[0]]
+        first_entry, second_entry = timeslot_talks
+        schedule_rows.append(
+            SCHEDULE_ROW_TEMPLATE.format(
+                schedule_time=time_str,
+                first_entry=first_entry,
+                second_entry=second_entry,
+            )
+        )
+    return schedule_rows
 
 
 def write_talks(talk_entries):
@@ -111,14 +196,16 @@ def write_talks(talk_entries):
 
 
 def write_schedule(schedule_entries):
-    pass
+    rows = "\n".join(schedule_entries)
+    schedule_content = SCHEDULE_PAGE_TEMPLATE.format(rows=rows)
+    SCHEDULE_FILE.write_text(schedule_content)
 
 
 def write_pages():
     talks = get_talks()
     speakers = get_speakers()
     write_talks(build_talk_entries(talks, speakers))
-    write_schedule(build_schedule_entries(talks, speakers))
+    write_schedule(build_schedule_rows(talks, speakers))
 
 
 if __name__ == "__main__":
