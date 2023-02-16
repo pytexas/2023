@@ -121,9 +121,20 @@
                                     <li>Give A Talk</li>
                                 </a>
                         </ul>
-                    <a href="/schedule/talks">
-                        <li>Schedule</li>
-                    </a>
+                        <a>
+                            <li>Schedule</li>
+                        </a>
+                        <ul id="submenu">
+                                <a href="/schedule">
+                                    <li>Event Schedule</li>
+                                </a>
+                                <a href="/schedule/talks">
+                                    <li>Talks</li>
+                                </a>
+                                <a href="/schedule/keynotes">
+                                    <li>Keynote Speakers</li>
+                                </a>
+                        </ul>
             </ul>
         </div>
         <div class="collapse navbar-collapse">
@@ -174,9 +185,15 @@
                                         <a href="/speaking/talks">Give A Talk</a>
                                 </div>
                             </div>
-                            <li class="nav-item dropdown">
-                                <a href="/schedule/talks" class="nav-link">Schedule</a>
-                            </li>
+                            <div class="dropdown">
+                                <div class="dropdown-text">Schedule</div>
+                                <input type="checkbox">
+                                <div class="dropdown-container">
+                                        <a href="/schedule">Event Schedule</a>
+                                        <a href="/schedule/talks">Talks</a>
+                                        <a href="/schedule/keynotes">Keynote Speakers</a>
+                                </div>
+                            </div>
                 </ul>
             </div>
         </div>

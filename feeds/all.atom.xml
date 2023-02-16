@@ -1,5 +1,220 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>PyTexas 2023</title><link href="https://www.pytexas.org/" rel="alternate"></link><link href="https://www.pytexas.org/feeds/all.atom.xml" rel="self"></link><id>https://www.pytexas.org/</id><updated>2023-02-14T00:00:00-06:00</updated><subtitle>Home of Python in Texas</subtitle><entry><title>Talks</title><link href="https://www.pytexas.org/schedule/talks.html" rel="alternate"></link><published>2023-02-14T00:00:00-06:00</published><updated>2023-02-14T00:00:00-06:00</updated><author><name>PyTexas Devs</name></author><id>tag:www.pytexas.org,2023-02-14:/schedule/talks.html</id><summary type="html">&lt;h1&gt;Accepted Talks&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyTexas 2023</title><link href="https://www.pytexas.org/" rel="alternate"></link><link href="https://www.pytexas.org/feeds/all.atom.xml" rel="self"></link><id>https://www.pytexas.org/</id><updated>2023-02-16T00:00:00-06:00</updated><subtitle>Home of Python in Texas</subtitle><entry><title>Full Schedule</title><link href="https://www.pytexas.org/schedule.html" rel="alternate"></link><published>2023-02-16T00:00:00-06:00</published><updated>2023-02-16T00:00:00-06:00</updated><author><name>PyTexas Devs</name></author><id>tag:www.pytexas.org,2023-02-16:/schedule.html</id><summary type="html">&lt;h1&gt;Talk Schedule&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;This schedule may change at any time between now and the start of the conference.&lt;/em&gt;&lt;/p&gt;
+&lt;table class="table"&gt;
+  &lt;thead class="thead-dark"&gt;
+    &lt;th width="20%" scope="col"&gt;Time&lt;/th&gt;
+    &lt;th style="text-align:center;" scope="col"&gt;Saturday&lt;/th&gt;
+    &lt;th style="text-align:center;" scope="col"&gt;Sunday&lt;/th&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+  &lt;tr&gt;
+    &lt;th scope="row"&gt;09:00 AM&lt;/th&gt;
+    &lt;td style="text-align:center"&gt;Day 1 Opening Remarks&lt;/td&gt;
+    &lt;td style="text-align:center"&gt;Day 2 Opening Remarks&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;th scope="row"&gt;09:15 AM&lt;/th&gt;
+    &lt;td&gt;
+    &lt;p style="text-align:center;"&gt;
+        &lt;a href="schedule/keynotes/"&gt;Keynote&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p style="text-align:center;font-size:16px;"&gt;Brandon Rhodes&lt;/p&gt;
+&lt;/td&gt;
+    &lt;td&gt;
+    &lt;p style="text-align:center;"&gt;
+        &lt;a href="schedule/keynotes/"&gt;Keynote&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p style="text-align:center;font-size:16px;"&gt;Andy Knight&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;th scope="row"&gt;10:00 AM&lt;/th&gt;
+    &lt;td style="text-align:center"&gt;15 Minute Break&lt;/td&gt;
+    &lt;td style="text-align:center"&gt;15 Minute Break&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;th scope="row"&gt;10 …&lt;/th&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;h1&gt;Talk Schedule&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;This schedule may change at any time between now and the start of the conference.&lt;/em&gt;&lt;/p&gt;
+&lt;table class="table"&gt;
+  &lt;thead class="thead-dark"&gt;
+    &lt;th width="20%" scope="col"&gt;Time&lt;/th&gt;
+    &lt;th style="text-align:center;" scope="col"&gt;Saturday&lt;/th&gt;
+    &lt;th style="text-align:center;" scope="col"&gt;Sunday&lt;/th&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+  &lt;tr&gt;
+    &lt;th scope="row"&gt;09:00 AM&lt;/th&gt;
+    &lt;td style="text-align:center"&gt;Day 1 Opening Remarks&lt;/td&gt;
+    &lt;td style="text-align:center"&gt;Day 2 Opening Remarks&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;th scope="row"&gt;09:15 AM&lt;/th&gt;
+    &lt;td&gt;
+    &lt;p style="text-align:center;"&gt;
+        &lt;a href="schedule/keynotes/"&gt;Keynote&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p style="text-align:center;font-size:16px;"&gt;Brandon Rhodes&lt;/p&gt;
+&lt;/td&gt;
+    &lt;td&gt;
+    &lt;p style="text-align:center;"&gt;
+        &lt;a href="schedule/keynotes/"&gt;Keynote&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p style="text-align:center;font-size:16px;"&gt;Andy Knight&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;th scope="row"&gt;10:00 AM&lt;/th&gt;
+    &lt;td style="text-align:center"&gt;15 Minute Break&lt;/td&gt;
+    &lt;td style="text-align:center"&gt;15 Minute Break&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;th scope="row"&gt;10:15 AM&lt;/th&gt;
+    &lt;td&gt;
+    &lt;p style="text-align:center;"&gt;
+        &lt;a href="schedule/talks/#NT7ZVM"&gt;A Tale of Two Typings&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p style="text-align:center;font-size:16px;"&gt;Thomas Stephens&lt;/p&gt;
+&lt;/td&gt;
+    &lt;td&gt;
+    &lt;p style="text-align:center;"&gt;
+        &lt;a href="schedule/talks/#TQVW83"&gt;Practical Decorators&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p style="text-align:center;font-size:16px;"&gt;Josh Schneider&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;th scope="row"&gt;10:45 AM&lt;/th&gt;
+    &lt;td&gt;
+    &lt;p style="text-align:center;"&gt;
+        &lt;a href="schedule/talks/#HXXUYK"&gt;Trust Fall: Hidden Gems in MLFlow that Improve Model Credibility&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p style="text-align:center;font-size:16px;"&gt;Krishi Sharma&lt;/p&gt;
+&lt;/td&gt;
+    &lt;td&gt;
+    &lt;p style="text-align:center;"&gt;
+        &lt;a href="schedule/talks/#JASMQM"&gt;Unlocking the Power of Health Data: An Introduction to FHIR and Python&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p style="text-align:center;font-size:16px;"&gt;Aly Sivji&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;th scope="row"&gt;11:15 AM&lt;/th&gt;
+    &lt;td style="text-align:center"&gt;TBA&lt;/td&gt;
+    &lt;td&gt;
+    &lt;p style="text-align:center;"&gt;
+        &lt;a href="schedule/talks/#PCNK9D"&gt;Having fun with application design&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p style="text-align:center;font-size:16px;"&gt;Natalya Buga&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;th scope="row"&gt;11:45 AM&lt;/th&gt;
+    &lt;td&gt;
+    &lt;p style="text-align:center;"&gt;
+        &lt;a href="schedule/talks/#MTLBLT"&gt;A BuildEngineer in a buildless lang&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p style="text-align:center;font-size:16px;"&gt;Joshua Cannon&lt;/p&gt;
+&lt;/td&gt;
+    &lt;td&gt;
+    &lt;p style="text-align:center;"&gt;
+        &lt;a href="schedule/talks/#KQYC8Z"&gt;Duck Typing, Metaclasses, &amp; Recursion: Building a Generalized Deep Collection Type&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p style="text-align:center;font-size:16px;"&gt;Joseph Nix&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;th scope="row"&gt;12:15 PM&lt;/th&gt;
+    &lt;td style="text-align:center"&gt;Lunch&lt;/td&gt;
+    &lt;td style="text-align:center"&gt;Lunch&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;th scope="row"&gt;02:15 PM&lt;/th&gt;
+    &lt;td&gt;
+    &lt;p style="text-align:center;"&gt;
+        &lt;a href="schedule/talks/#CV9CUV"&gt;Recursion for Beginners: A Beginner's Guide to Recursion&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p style="text-align:center;font-size:16px;"&gt;Al Sweigart&lt;/p&gt;
+&lt;/td&gt;
+    &lt;td&gt;
+    &lt;p style="text-align:center;"&gt;
+        &lt;a href="schedule/talks/#MNXLDQ"&gt;How to Build and Ship More Secure Python Apps with Sigstore&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p style="text-align:center;font-size:16px;"&gt;Lisa Tagliaferri&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;th scope="row"&gt;02:45 PM&lt;/th&gt;
+    &lt;td&gt;
+    &lt;p style="text-align:center;"&gt;
+        &lt;a href="schedule/talks/#7X79PK"&gt;Build your own ChatGPT&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p style="text-align:center;font-size:16px;"&gt;Lizzie Siegle&lt;/p&gt;
+&lt;/td&gt;
+    &lt;td&gt;
+    &lt;p style="text-align:center;"&gt;
+        &lt;a href="schedule/talks/#U9QBCR"&gt;HoloViz: Visualization and Interactive Dashboards in Python&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p style="text-align:center;font-size:16px;"&gt;Sophia Yang&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;th scope="row"&gt;03:15 PM&lt;/th&gt;
+    &lt;td style="text-align:center"&gt;15 Minute Break&lt;/td&gt;
+    &lt;td style="text-align:center"&gt;15 Minute Break&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;th scope="row"&gt;03:30 PM&lt;/th&gt;
+    &lt;td&gt;
+    &lt;p style="text-align:center;"&gt;
+        &lt;a href="schedule/talks/#MGKFTY"&gt;Automating your Cloud Cost Analysis&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p style="text-align:center;font-size:16px;"&gt;Amy Arambulo Negrette&lt;/p&gt;
+&lt;/td&gt;
+    &lt;td&gt;
+    &lt;p style="text-align:center;"&gt;
+        &lt;a href="schedule/talks/#C3PBVR"&gt;Put your Pants on and lint all your Python code!&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p style="text-align:center;font-size:16px;"&gt;Aurelien Didier&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;th scope="row"&gt;04:00 PM&lt;/th&gt;
+    &lt;td&gt;
+    &lt;p style="text-align:center;"&gt;
+        &lt;a href="schedule/talks/#NDWZGE"&gt;Real-time Event Streaming with Python&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p style="text-align:center;font-size:16px;"&gt;Dave Klein&lt;/p&gt;
+&lt;/td&gt;
+    &lt;td&gt;
+    &lt;p style="text-align:center;"&gt;
+        &lt;a href="schedule/talks/#TSREV8"&gt;Building a Deep Learning Framework from scratch with Python and NumPy&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p style="text-align:center;font-size:16px;"&gt;Pranav Sastry&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;th scope="row"&gt;04:30 PM&lt;/th&gt;
+    &lt;td&gt;
+    &lt;p style="text-align:center;"&gt;
+        &lt;a href="schedule/talks/#USAA9W"&gt;Improving code without losing your mind&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p style="text-align:center;font-size:16px;"&gt;Chris May&lt;/p&gt;
+&lt;/td&gt;
+    &lt;td&gt;
+    &lt;p style="text-align:center;"&gt;
+        &lt;a href="schedule/talks/#F7HAMC"&gt;Using Python for Digital Investigations&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p style="text-align:center;font-size:16px;"&gt;Tristan Lee&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;th scope="row"&gt;05:00 PM&lt;/th&gt;
+    &lt;td style="text-align:center"&gt;Lighnting Talks&lt;/td&gt;
+    &lt;td style="text-align:center"&gt;Lighnting Talks&lt;/td&gt;
+&lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><category term="schedule"></category></entry><entry><title>Talks</title><link href="https://www.pytexas.org/schedule/talks.html" rel="alternate"></link><published>2023-02-14T00:00:00-06:00</published><updated>2023-02-14T00:00:00-06:00</updated><author><name>PyTexas Devs</name></author><id>tag:www.pytexas.org,2023-02-14:/schedule/talks.html</id><summary type="html">&lt;h1&gt;Accepted Talks&lt;/h1&gt;
 &lt;hr /&gt;
 &lt;p&gt;These are the talks accepted to PyTexas,
 listed in no particular order.
@@ -35,6 +250,7 @@ She previously studied Computer Science at Bryn Mawr College
     &lt;/div&gt;
 &lt;/div&gt;
 
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h2&gt;
     Talk:
     &lt;a id="C3PBVR"&gt;Put your Pants on and lint all your Python code!&lt;/a&gt;
@@ -54,6 +270,7 @@ She previously studied Computer Science at Bryn Mawr College
     &lt;/div&gt;
 &lt;/div&gt;
 
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h2&gt;
     Talk:
     &lt;a id="CV9CUV"&gt;Recursion for Beginners: A Beginner's Guide to Recursion&lt;/a&gt;
@@ -73,6 +290,7 @@ She previously studied Computer Science at Bryn Mawr College
     &lt;/div&gt;
 &lt;/div&gt;
 
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h2&gt;
     Talk:
     &lt;a id="F7HAMC"&gt;Using Python for Digital Investigations&lt;/a&gt;
@@ -92,6 +310,7 @@ She previously studied Computer Science at Bryn Mawr College
     &lt;/div&gt;
 &lt;/div&gt;
 
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h2&gt;
     Talk:
     &lt;a id="HXXUYK"&gt;Trust Fall: Hidden Gems in MLFlow that Improve Model Credibility&lt;/a&gt;
@@ -111,6 +330,7 @@ She previously studied Computer Science at Bryn Mawr College
     &lt;/div&gt;
 &lt;/div&gt;
 
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h2&gt;
     Talk:
     &lt;a id="JASMQM"&gt;Unlocking the Power of Health Data: An Introduction to FHIR and Python&lt;/a&gt;
@@ -130,6 +350,7 @@ She previously studied Computer Science at Bryn Mawr College
     &lt;/div&gt;
 &lt;/div&gt;
 
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h2&gt;
     Talk:
     &lt;a id="KQYC8Z"&gt;Duck Typing, Metaclasses, &amp; Recursion: Building a Generalized Deep Collection Type&lt;/a&gt;
@@ -149,6 +370,7 @@ She previously studied Computer Science at Bryn Mawr College
     &lt;/div&gt;
 &lt;/div&gt;
 
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h2&gt;
     Talk:
     &lt;a id="MGKFTY"&gt;Automating your Cloud Cost Analysis&lt;/a&gt;
@@ -175,6 +397,7 @@ Using Python, a SQL database, and FaaS, we can build a pipeline that automatical
     &lt;/div&gt;
 &lt;/div&gt;
 
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h2&gt;
     Talk:
     &lt;a id="MNXLDQ"&gt;How to Build and Ship More Secure Python Apps with Sigstore&lt;/a&gt;
@@ -198,6 +421,7 @@ The audience will walk away with an understanding of how they can navigate softw
     &lt;/div&gt;
 &lt;/div&gt;
 
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h2&gt;
     Talk:
     &lt;a id="MTLBLT"&gt;A BuildEngineer in a buildless lang&lt;/a&gt;
@@ -223,6 +447,7 @@ I'm a Build Engineer at IBM Watson Orders, and a maintainer of the Pantsbuild pr
     &lt;/div&gt;
 &lt;/div&gt;
 
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h2&gt;
     Talk:
     &lt;a id="NDWZGE"&gt;Real-time Event Streaming with Python&lt;/a&gt;
@@ -242,6 +467,7 @@ I'm a Build Engineer at IBM Watson Orders, and a maintainer of the Pantsbuild pr
     &lt;/div&gt;
 &lt;/div&gt;
 
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h2&gt;
     Talk:
     &lt;a id="NT7ZVM"&gt;A Tale of Two Typings&lt;/a&gt;
@@ -261,6 +487,7 @@ I'm a Build Engineer at IBM Watson Orders, and a maintainer of the Pantsbuild pr
     &lt;/div&gt;
 &lt;/div&gt;
 
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h2&gt;
     Talk:
     &lt;a id="PCNK9D"&gt;Having fun with application design&lt;/a&gt;
@@ -282,6 +509,7 @@ In this talk, I will explore a journey from supporting disjointed components and
     &lt;/div&gt;
 &lt;/div&gt;
 
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h2&gt;
     Talk:
     &lt;a id="TQVW83"&gt;Practical Decorators&lt;/a&gt;
@@ -301,6 +529,7 @@ In this talk, I will explore a journey from supporting disjointed components and
     &lt;/div&gt;
 &lt;/div&gt;
 
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h2&gt;
     Talk:
     &lt;a id="TSREV8"&gt;Building a Deep Learning Framework from scratch with Python and NumPy&lt;/a&gt;
@@ -320,6 +549,7 @@ In this talk, I will explore a journey from supporting disjointed components and
     &lt;/div&gt;
 &lt;/div&gt;
 
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h2&gt;
     Talk:
     &lt;a id="U9QBCR"&gt;HoloViz: Visualization and Interactive Dashboards in Python&lt;/a&gt;
@@ -339,6 +569,7 @@ In this talk, I will explore a journey from supporting disjointed components and
     &lt;/div&gt;
 &lt;/div&gt;
 
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h2&gt;
     Talk:
     &lt;a id="USAA9W"&gt;Improving code without losing your mind&lt;/a&gt;
@@ -366,6 +597,7 @@ With his infectious zest for life and Python, Chris is excited to help you becom
     &lt;/div&gt;
 &lt;/div&gt;
 
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h2&gt;
     Talk:
     &lt;a id="VHQ8SD"&gt;Exploring Socio-technical Security Concerns in Critical Open-source Python Repositories&lt;/a&gt;
@@ -970,178 +1202,7 @@ will adhere to all guidelines required by venue and health officials.&lt;/p&gt;
         &lt;br&gt;
       &lt;/div&gt;
     &lt;/div&gt;
-&lt;/div&gt;</content><category term="job-board"></category></entry><entry><title>Full Schedule</title><link href="https://www.pytexas.org/schedule.html" rel="alternate"></link><published>2022-10-23T00:00:00-05:00</published><updated>2022-10-23T00:00:00-05:00</updated><author><name>PyTexas Devs</name></author><id>tag:www.pytexas.org,2022-10-23:/schedule.html</id><summary type="html">&lt;h1&gt;Talk Schedule&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;This schedule may change at any time before now and the start of the conference.&lt;/em&gt;&lt;/p&gt;
-&lt;table class="table"&gt;
-  &lt;thead class="thead-dark"&gt;
-    &lt;tr&gt;
-      &lt;th width="20%" scope="col"&gt;Time&lt;/th&gt;
-      &lt;th style="text-align:center;" scope="col"&gt;Saturday&lt;/th&gt;
-      &lt;th style="text-align:center;" scope="col"&gt;Sunday&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;th scope="row"&gt;09:15 am&lt;/th&gt;
-      &lt;td&gt;
-        &lt;p style="text-align:center;"&gt;&lt;a href=""&gt;Day 1 Opening Remarks&lt;/a&gt;&lt;/p&gt;
-      &lt;/td&gt;
-      &lt;td&gt;
-        &lt;p style="text-align:center;"&gt;&lt;a href=""&gt;Day 2 Opening Remarks&lt;/a&gt;&lt;/p&gt;
-      &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;th scope="row"&gt;09:30 am&lt;/th&gt;
-      &lt;td&gt;
-        &lt;p style="text-align:center;"&gt;&lt;a href="keynote/#lorena"&gt;Keynote&lt;/a&gt;&lt;/p&gt;
-        &lt;p style="text-align:center;font-size:16px;"&gt;Kojo Idrissa&lt;/p&gt;
-      &lt;/td&gt;
-      &lt;td&gt;
-        &lt;p style="text-align:center;"&gt;&lt;a href="keynote/#kojo"&gt;PyTexas History and Sponsor Showcase&lt;/a&gt;&lt;/p&gt;
-      &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class="table-secondary"&gt;
-      &lt;th scope="row"&gt;10:30 am&lt;/th&gt;
-      &lt;td style="text-align:center;"&gt;Break&lt;/td&gt;
-      &lt;td style="text-align:center;"&gt;Break&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;th scope="row"&gt;10:45 am …&lt;/th&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;h1&gt;Talk Schedule&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;This schedule may change at any time before now and the start of the conference.&lt;/em&gt;&lt;/p&gt;
-&lt;table class="table"&gt;
-  &lt;thead class="thead-dark"&gt;
-    &lt;tr&gt;
-      &lt;th width="20%" scope="col"&gt;Time&lt;/th&gt;
-      &lt;th style="text-align:center;" scope="col"&gt;Saturday&lt;/th&gt;
-      &lt;th style="text-align:center;" scope="col"&gt;Sunday&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;th scope="row"&gt;09:15 am&lt;/th&gt;
-      &lt;td&gt;
-        &lt;p style="text-align:center;"&gt;&lt;a href=""&gt;Day 1 Opening Remarks&lt;/a&gt;&lt;/p&gt;
-      &lt;/td&gt;
-      &lt;td&gt;
-        &lt;p style="text-align:center;"&gt;&lt;a href=""&gt;Day 2 Opening Remarks&lt;/a&gt;&lt;/p&gt;
-      &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;th scope="row"&gt;09:30 am&lt;/th&gt;
-      &lt;td&gt;
-        &lt;p style="text-align:center;"&gt;&lt;a href="keynote/#lorena"&gt;Keynote&lt;/a&gt;&lt;/p&gt;
-        &lt;p style="text-align:center;font-size:16px;"&gt;Kojo Idrissa&lt;/p&gt;
-      &lt;/td&gt;
-      &lt;td&gt;
-        &lt;p style="text-align:center;"&gt;&lt;a href="keynote/#kojo"&gt;PyTexas History and Sponsor Showcase&lt;/a&gt;&lt;/p&gt;
-      &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class="table-secondary"&gt;
-      &lt;th scope="row"&gt;10:30 am&lt;/th&gt;
-      &lt;td style="text-align:center;"&gt;Break&lt;/td&gt;
-      &lt;td style="text-align:center;"&gt;Break&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;th scope="row"&gt;10:45 am&lt;/th&gt;
-      &lt;td&gt;
-        &lt;p style="text-align:center;"&gt;&lt;a href="talks/#test-data"&gt;Managing the Test Data Nightmare&lt;/a&gt;&lt;/p&gt;
-        &lt;p style="text-align:center;font-size:16px;"&gt;Andrew Knight&lt;/p&gt;
-      &lt;/td&gt;
-      &lt;td&gt;
-        &lt;p style="text-align:center;"&gt;&lt;a href="talks/#minimum-security"&gt;Minimum Viable Security for Python Applications&lt;/a&gt;&lt;/p&gt;
-        &lt;p style="text-align:center;font-size:16px;"&gt;David Melamed&lt;/p&gt;
-      &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;th scope="row"&gt;11:15 am&lt;/th&gt;
-      &lt;td&gt;
-        &lt;p style="text-align:center;"&gt;&lt;a href="talks/#microservices"&gt;Event Driven Microservices with Flask and Apache Kafka&lt;/a&gt;&lt;/p&gt;
-        &lt;p style="text-align:center;font-size:16px;"&gt;Dave Klein&lt;/p&gt;
-      &lt;/td&gt;
-      &lt;td&gt;
-        &lt;p style="text-align:center;"&gt;&lt;a href="talks/#mozart"&gt;Coding and the Mozart Effect&lt;/a&gt;&lt;/p&gt;
-        &lt;p style="text-align:center;font-size:16px;"&gt;PJ Hagerty&lt;/p&gt;
-      &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;th scope="row"&gt;11:45 am&lt;/th&gt;
-      &lt;td&gt;
-        &lt;p style="text-align:center;"&gt;&lt;a href="talks/#xfail"&gt;xfail and skip: What to Do with Tests You Know Will Fail&lt;/a&gt;&lt;/p&gt;
-        &lt;p style="text-align:center;font-size:16px;"&gt;Paul Ganssle&lt;/p&gt;
-      &lt;/td&gt;
-      &lt;td&gt;
-        &lt;p style="text-align:center;"&gt;&lt;a href="talks/#elasticsearch"&gt;Making Location Based Searches with Google Places API and Elasticsearch&lt;/a&gt;&lt;/p&gt;
-        &lt;p style="text-align:center;font-size:16px;"&gt;Jay Miller&lt;/p&gt;
-      &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class="table-secondary"&gt;
-      &lt;th scope="row"&gt;12:15 pm&lt;/th&gt;
-      &lt;td&gt;Lunch&lt;/td&gt;
-      &lt;td&gt;Lunch&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;th scope="row"&gt;02:15 pm&lt;/th&gt;
-      &lt;td&gt;
-            &lt;p style="text-align:center;"&gt;&lt;a href="talks/#optimizing"&gt;Optimizing Code Performance for Python Internalsh&lt;/a&gt;&lt;/p&gt;
-            &lt;p style="text-align:center;font-size:16px;"&gt;Yonatan Goldschmidt&lt;/p&gt;
-      &lt;/td&gt;
-      &lt;td class="table-info"&gt;Lightning Talks&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;th scope="row"&gt;02:45 pm&lt;/th&gt;
-      &lt;td&gt;
-        &lt;p style="text-align:center;"&gt;&lt;a href="talks/#chess"&gt;Great Snake Variation: Programming with python-chess&lt;/a&gt;&lt;/p&gt;
-        &lt;p style="text-align:center;font-size:16px;"&gt;William Horton&lt;/p&gt;
-      &lt;/td&gt;
-      &lt;td&gt;
-        &lt;p style="text-align:center;"&gt;&lt;a href="talks/#houseplant-pipelines"&gt;Practical Pipelines: A Houseplant Soil Alerting System with kslDB&lt;/a&gt;&lt;/p&gt;
-        &lt;p style="text-align:center;font-size:16px;"&gt;Danica Fine&lt;/p&gt;
-      &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr class="table-secondary"&gt;
-      &lt;th scope="row"&gt;03:15 pm&lt;/th&gt;
-      &lt;td&gt;Break&lt;/td&gt;
-      &lt;td&gt;Break&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;th scope="row"&gt;03:30 pm&lt;/th&gt;
-      &lt;td&gt;
-        &lt;p style="text-align:center;"&gt;&lt;a href="talks/#scientific-lab"&gt;Stand Back! Building a scientific computing lab on public clouds with Python&lt;/a&gt;&lt;/p&gt;
-        &lt;p style="text-align:center;font-size:16px;"&gt;Laura Santamaria&lt;/p&gt;
-      &lt;/td&gt;
-      &lt;td&gt;
-        &lt;p style="text-align:center;"&gt;&lt;a href="talks/#build-magic"&gt;Automating Build Tasks with Build-Magic&lt;/a&gt;&lt;/p&gt;
-        &lt;p style="text-align:center;font-size:16px;"&gt;Chris Morrow&lt;/p&gt;
-      &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;th scope="row"&gt;04:00 pm&lt;/th&gt;
-      &lt;td&gt;
-        &lt;p style="text-align:center;"&gt;&lt;a href="talks/#data-types"&gt;Choosing the Right Data Types&lt;/a&gt;&lt;/p&gt;
-        &lt;p style="text-align:center;font-size:16px;"&gt;Josh Schneider&lt;/p&gt;
-      &lt;/td&gt;
-      &lt;td&gt;
-        &lt;p style="text-align:center;"&gt;&lt;a href="talks/#playwright"&gt;Awesome Web Testing with Playwright&lt;/a&gt;&lt;/p&gt;
-        &lt;p style="text-align:center;font-size:16px;"&gt;Andrew Knight&lt;/p&gt;
-      &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;th scope="row"&gt;04:30 pm&lt;/th&gt;
-      &lt;td&gt;
-        &lt;p style="text-align:center;"&gt;&lt;a href="talks/#design-patterns"&gt;Everyday Design Patterns: Observer Pattern&lt;/a&gt;&lt;/p&gt;
-        &lt;p style="text-align:center;font-size:16px;"&gt;Aly Sivji&lt;/p&gt;
-      &lt;/td&gt;
-      &lt;td&gt;
-        &lt;p style="text-align:center;"&gt;&lt;a href="talks/#lint"&gt;Closing Remarks &amp; Raffle&lt;/a&gt;&lt;/p&gt;
-      &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;th scope="row"&gt;05:00 pm&lt;/th&gt;
-      &lt;td style="text-align:center;"&gt;End of Day 1&lt;/td&gt;
-      &lt;td style="text-align:center;"&gt;End of Day 2&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;</content><category term="schedule"></category></entry><entry><title>Lightning Talks</title><link href="https://www.pytexas.org/schedule/lightning-talks.html" rel="alternate"></link><published>2022-10-23T00:00:00-05:00</published><updated>2022-10-23T00:00:00-05:00</updated><author><name>PyTexas Devs</name></author><id>tag:www.pytexas.org,2022-10-23:/schedule/lightning-talks.html</id><content type="html">&lt;h1&gt;Lightning Talks&lt;/h1&gt;
+&lt;/div&gt;</content><category term="job-board"></category></entry><entry><title>Lightning Talks</title><link href="https://www.pytexas.org/schedule/lightning-talks.html" rel="alternate"></link><published>2022-10-23T00:00:00-05:00</published><updated>2022-10-23T00:00:00-05:00</updated><author><name>PyTexas Devs</name></author><id>tag:www.pytexas.org,2022-10-23:/schedule/lightning-talks.html</id><content type="html">&lt;h1&gt;Lightning Talks&lt;/h1&gt;
 &lt;hr /&gt;
 &lt;p&gt;&lt;strong&gt;Lightning Talk: A short, 5 minute talk about a random topic of interest to you.
 Hopefully about tech but not required.&lt;/strong&gt;&lt;/p&gt;
