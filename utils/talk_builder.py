@@ -105,7 +105,7 @@ def build_schedule_entries(talks, speakers):
 
 
 def write_talks(talk_entries):
-    talks = "\n\n".join(talk_entries)
+    talks = "\n<br><br>\n".join(talk_entries)
     talk_content = f"{TALKS_HEADER}\n\n{talks}"
     TALK_FILE.write_text(talk_content)
 
