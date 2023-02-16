@@ -31,7 +31,7 @@ She previously studied Computer Science at Bryn Mawr College
     </div>
 </div>
 
-
+<br><br>
 <h2>
     Talk:
     <a id="C3PBVR">Put your Pants on and lint all your Python code!</a>
@@ -51,7 +51,7 @@ She previously studied Computer Science at Bryn Mawr College
     </div>
 </div>
 
-
+<br><br>
 <h2>
     Talk:
     <a id="CV9CUV">Recursion for Beginners: A Beginner's Guide to Recursion</a>
@@ -71,7 +71,7 @@ She previously studied Computer Science at Bryn Mawr College
     </div>
 </div>
 
-
+<br><br>
 <h2>
     Talk:
     <a id="F7HAMC">Using Python for Digital Investigations</a>
@@ -91,7 +91,7 @@ She previously studied Computer Science at Bryn Mawr College
     </div>
 </div>
 
-
+<br><br>
 <h2>
     Talk:
     <a id="HXXUYK">Trust Fall: Hidden Gems in MLFlow that Improve Model Credibility</a>
@@ -111,7 +111,7 @@ She previously studied Computer Science at Bryn Mawr College
     </div>
 </div>
 
-
+<br><br>
 <h2>
     Talk:
     <a id="JASMQM">Unlocking the Power of Health Data: An Introduction to FHIR and Python</a>
@@ -131,7 +131,7 @@ She previously studied Computer Science at Bryn Mawr College
     </div>
 </div>
 
-
+<br><br>
 <h2>
     Talk:
     <a id="KQYC8Z">Duck Typing, Metaclasses, & Recursion: Building a Generalized Deep Collection Type</a>
@@ -151,7 +151,7 @@ She previously studied Computer Science at Bryn Mawr College
     </div>
 </div>
 
-
+<br><br>
 <h2>
     Talk:
     <a id="MGKFTY">Automating your Cloud Cost Analysis</a>
@@ -178,7 +178,7 @@ Using Python, a SQL database, and FaaS, we can build a pipeline that automatical
     </div>
 </div>
 
-
+<br><br>
 <h2>
     Talk:
     <a id="MNXLDQ">How to Build and Ship More Secure Python Apps with Sigstore</a>
@@ -202,7 +202,7 @@ The audience will walk away with an understanding of how they can navigate softw
     </div>
 </div>
 
-
+<br><br>
 <h2>
     Talk:
     <a id="MTLBLT">A BuildEngineer in a buildless lang</a>
@@ -228,7 +228,7 @@ I'm a Build Engineer at IBM Watson Orders, and a maintainer of the Pantsbuild pr
     </div>
 </div>
 
-
+<br><br>
 <h2>
     Talk:
     <a id="NDWZGE">Real-time Event Streaming with Python</a>
@@ -248,7 +248,7 @@ I'm a Build Engineer at IBM Watson Orders, and a maintainer of the Pantsbuild pr
     </div>
 </div>
 
-
+<br><br>
 <h2>
     Talk:
     <a id="NT7ZVM">A Tale of Two Typings</a>
@@ -268,7 +268,7 @@ I'm a Build Engineer at IBM Watson Orders, and a maintainer of the Pantsbuild pr
     </div>
 </div>
 
-
+<br><br>
 <h2>
     Talk:
     <a id="PCNK9D">Having fun with application design</a>
@@ -290,7 +290,7 @@ In this talk, I will explore a journey from supporting disjointed components and
     </div>
 </div>
 
-
+<br><br>
 <h2>
     Talk:
     <a id="TQVW83">Practical Decorators</a>
@@ -310,7 +310,7 @@ In this talk, I will explore a journey from supporting disjointed components and
     </div>
 </div>
 
-
+<br><br>
 <h2>
     Talk:
     <a id="TSREV8">Building a Deep Learning Framework from scratch with Python and NumPy</a>
@@ -330,7 +330,7 @@ In this talk, I will explore a journey from supporting disjointed components and
     </div>
 </div>
 
-
+<br><br>
 <h2>
     Talk:
     <a id="U9QBCR">HoloViz: Visualization and Interactive Dashboards in Python</a>
@@ -350,7 +350,7 @@ In this talk, I will explore a journey from supporting disjointed components and
     </div>
 </div>
 
-
+<br><br>
 <h2>
     Talk:
     <a id="USAA9W">Improving code without losing your mind</a>
@@ -378,7 +378,7 @@ With his infectious zest for life and Python, Chris is excited to help you becom
     </div>
 </div>
 
-
+<br><br>
 <h2>
     Talk:
     <a id="VHQ8SD">Exploring Socio-technical Security Concerns in Critical Open-source Python Repositories</a>
