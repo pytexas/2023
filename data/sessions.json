@@ -3,7 +3,6 @@
     "ID": "7X79PK",
     "Proposal title": "Build your own ChatGPT",
     "Proposal state": "confirmed",
-    "Pending proposal state": null,
     "Session type": {
       "en": "Talk"
     },
@@ -13,7 +12,6 @@
     "Abstract": "Interested in machine learning and chatbots? This talk is for you! We'll go over the OpenAI API and use cases, particularly how you can build your own ChatGPT over text message using Python.",
     "Description": "ChatGPT and OpenAI are taking us by storm. This talk will dive into OpenAI's API and its many models, methods, and use cases, particularly how you can build your own ChatGPT over text message using Python and Twilio.",
     "Notes": "",
-    "Internal notes": null,
     "Duration": 25,
     "Slot Count": 1,
     "Language": "en",
@@ -24,17 +22,17 @@
     "Speaker names": [
       "Lizzie Siegle"
     ],
-    "Room": null,
-    "Start": null,
-    "End": null,
-    "Resources": [],
-    "Category": "Data Science,  Data Processing/Visualization, Machine Learning"
+    "Room": {
+      "en": "Event Room"
+    },
+    "Start": "2023-04-01T19:45:00+00:00",
+    "End": "2023-04-01T15:10:00-05:00",
+    "Resources": []
   },
   {
     "ID": "C3PBVR",
     "Proposal title": "Put your Pants on and lint all your Python code!",
     "Proposal state": "confirmed",
-    "Pending proposal state": null,
     "Session type": {
       "en": "Talk"
     },
@@ -44,7 +42,6 @@
     "Abstract": "Are you struggling to enforce custom code conventions in large codebases? Learn how to automate this process while maintaining a consistent CI time using Pylint and Pants Build. Attendees will be able to apply the stack in their own codebases right away.",
     "Description": "Have you ever been discouraged while trying to enforce code conventions in large codebases?\r\n\r\nWhile growing good and long-lasting projects means getting more features, more contributors, and more sub-projects, as a company or community, experience tells one they need rules and code conventions.\r\nIt gets particularly true with mono-repositories and large frameworks. Enforcing these rules becomes more and more complex and time-consuming as the code base gets larger and the community grows. We will illustrate how to automate such rules enforcement and ease the contributors' life.\r\n\r\nIt turns out Pylint brings the ability to have custom linter rules, and Pants Build helps us manage multi-project repositories, let's merge these two worlds and build an industry-grade project.\r\nThis talk aims to illustrate the power of this setup and how it can help developers work with large repositories while enforcing specific and strict rules.\r\n\r\nTakeaways for attendees, that can be put into action right away:\r\n* Be able to apply stricter rules to their code while it grows\r\n* Keep a constant CI time while scaling, even with more linting rules\r\n* Keep tools isolated, portable and safe\r\n\r\nBase code, config, and extra documentation will be available for attendees to build their setup.",
     "Notes": "",
-    "Internal notes": null,
     "Duration": 25,
     "Slot Count": 1,
     "Language": "en",
@@ -55,17 +52,17 @@
     "Speaker names": [
       "Aurelien Didier"
     ],
-    "Room": null,
-    "Start": null,
-    "End": null,
-    "Resources": [],
-    "Category": "Developer Tools (Environments, Notebooks, etc.)"
+    "Room": {
+      "en": "Event Room"
+    },
+    "Start": "2023-04-02T20:30:00+00:00",
+    "End": "2023-04-02T15:55:00-05:00",
+    "Resources": []
   },
   {
     "ID": "CV9CUV",
     "Proposal title": "Recursion for Beginners: A Beginner's Guide to Recursion",
     "Proposal state": "confirmed",
-    "Pending proposal state": null,
     "Session type": {
       "en": "Talk"
     },
@@ -75,7 +72,6 @@
     "Abstract": "An introduction to recursion and the Python-specific functionality for recursion. Recursion is not just for computer science wizards, and this talk breaks it down into smaller (and smaller!) concepts.",
     "Description": "Recursion has an intimidating reputation for being the advanced skill of coding sorcerers. But in this tutorial we look behind the curtain of this formidable technique to discover the simple ideas under it.\r\n\r\nThrough live coding demos in the interactive shell, we'll answer the following questions:\r\n\r\n* What is recursion, and when is it a good idea and bad idea to use it?\r\n\r\n* What's a stack, the call stack, and a stack overflow?\r\n* What are all the confusing ways that recursion is commonly taught?\r\n* Do some problems require recursion? Can recursion do anything a loop can't?\r\n* What is memoization, and how does functools.lru_cache work?\r\n* How do I draw that cool-looking recursive fractal artwork with Python's turtle module?\r\n\r\nBeginners will be able to follow this talk. All that is required is a willingness to learn, and a willingness to have the willingness to learn, and... so on.",
     "Notes": "n/a",
-    "Internal notes": null,
     "Duration": 25,
     "Slot Count": 1,
     "Language": "en",
@@ -86,17 +82,17 @@
     "Speaker names": [
       "Al Sweigart"
     ],
-    "Room": null,
-    "Start": null,
-    "End": null,
-    "Resources": [],
-    "Category": "Python Language & Features"
+    "Room": {
+      "en": "Event Room"
+    },
+    "Start": "2023-04-01T19:15:00+00:00",
+    "End": "2023-04-01T14:40:00-05:00",
+    "Resources": []
   },
   {
     "ID": "F7HAMC",
     "Proposal title": "Using Python for Digital Investigations",
     "Proposal state": "confirmed",
-    "Pending proposal state": null,
     "Session type": {
       "en": "Talk"
     },
@@ -106,7 +102,6 @@
     "Abstract": "With the vast amount of publicly available data unleashed by the internet's rise, anyone can now document war crimes, track extremist movements, and investigate environmental abuses. This talk will cover how Python tools and developers can accelerate and improve the accessibility of such digital investigations, and hold power to account.",
     "Description": "The rise of the internet has driven an explosion in the amount of publicly available data. For those who know where to look, this data can be used to discover things that previously only the intelligence agencies of powerful governments could: today, anyone with an internet connection can document war crimes, track extremist movements, or investigate environmental abuses. These kinds of digital investigations can be both accelerated and made more accessible through the development of open-source software tools. Though the fields of open-source research and open-source software have different origins, they are increasingly converging, and share a common ethos of transparency, reproducibility, and collaboration.\r\n\r\nThis talk will cover some of the ways Bellingcat and other researchers have used Python in their investigations, the intersection of open-source software and open-source research, and how developers can get involved in open-source research.",
     "Notes": "",
-    "Internal notes": null,
     "Duration": 25,
     "Slot Count": 1,
     "Language": "en",
@@ -117,17 +112,17 @@
     "Speaker names": [
       "Tristan Lee"
     ],
-    "Room": null,
-    "Start": null,
-    "End": null,
-    "Resources": [],
-    "Category": "Other"
+    "Room": {
+      "en": "Event Room"
+    },
+    "Start": "2023-04-02T21:30:00+00:00",
+    "End": "2023-04-02T16:55:00-05:00",
+    "Resources": []
   },
   {
     "ID": "HXXUYK",
     "Proposal title": "Trust Fall: Hidden Gems in MLFlow that Improve Model Credibility",
     "Proposal state": "confirmed",
-    "Pending proposal state": null,
     "Session type": {
       "en": "Talk"
     },
@@ -137,7 +132,6 @@
     "Abstract": "When it comes to machine learning projects, verifying and trusting model performance results is a particularly grueling challenge. This talk will explore both how we can use Python to instill confidence in model metrics and the best way to keep models versioned to increase transparency and accessibility across the team. The tactics demonstrated will help developers save precious development time and increase transparency by incorporating metric tracking early on.",
     "Description": "Machine learning projects are challenging, but verifying and trusting model performance results is a particularly grueling challenge. The problem becomes more complex with more team members and larger scope. Engineers need to integrate model performance tracking throughout the project lifecycle to ensure that their model results are reliable, reproducible and transparent. This talk will explore both how we can use Python to instill confidence in model metrics and the best way to keep models versioned to increase transparency and accessibility across the team.\r\n\r\nIn this talk, I'll present the following three MLFlow features that can improve transparency and credibility in the model results. If engineers aren\u2019t applying these techniques, they could risk presenting false or irreproducible model results and waste precious development time retracing their steps to find the best model version.\r\n\r\n*MLFlow Autologging: This feature requires minimal code and stores all relevant configurations, parameters and metrics, reducing the likelihood that some aspect of the model has not been captured. It makes it easy to compare the results of experiments and determine the final model.\r\n*MLFlow System Tags: A small but mighty feature, these reserved tags store important metadata. They capture the state of the codebase at the time of the run, such as git branch, commit hash and developer name. It helps solve a familiar issue to machine learning engineers - how to rerun the exact training pipeline code that was used to generate the best metrics in an experiment by another developer.\r\n*MLFlow Model Registry: As the project gets closer to finish, it can be daunting to sift through experiments and runs. Leveraging some of MLFlow's Python API, we'll show how engineers can version their best models and transition models to different stages. This makes it easy to share model performance and encourage other engineers to reproduce the results before pushing the model to production.\r\n\r\nBy the end of this talk, Python developers will know how to leverage some powerful techniques to increase model performance credibility, integrate tracking to enhance collaboration over the project lifecycle and version models to always be ready for production.",
     "Notes": "",
-    "Internal notes": null,
     "Duration": 25,
     "Slot Count": 1,
     "Language": "en",
@@ -148,17 +142,17 @@
     "Speaker names": [
       "Krishi Sharma"
     ],
-    "Room": null,
-    "Start": null,
-    "End": null,
-    "Resources": [],
-    "Category": "Data Science,  Data Processing/Visualization, Machine Learning"
+    "Room": {
+      "en": "Event Room"
+    },
+    "Start": "2023-04-01T15:45:00+00:00",
+    "End": "2023-04-01T11:10:00-05:00",
+    "Resources": []
   },
   {
     "ID": "JASMQM",
     "Proposal title": "Unlocking the Power of Health Data: An Introduction to FHIR and Python",
     "Proposal state": "confirmed",
-    "Pending proposal state": null,
     "Session type": {
       "en": "Talk"
     },
@@ -168,7 +162,6 @@
     "Abstract": "Healthcare organizations generate and store vast amounts of data, but accessing and utilizing this data can be a challenge. One solution to this problem is FHIR (Fast Healthcare Interoperability Resources), a standard for exchanging electronic health information. In this talk, we will explore the basics of FHIR and its data model, as well as how to use Python to interact with FHIR servers and manipulate FHIR data. We will also discuss real-world examples of how FHIR and Python are being used in the healthcare industry to improve patient care and drive innovation. Attendees will come away with a solid understanding of FHIR and Python, and be equipped to start using these technologies to unlock the power of their own health data.",
     "Description": "n/a",
     "Notes": "",
-    "Internal notes": null,
     "Duration": 25,
     "Slot Count": 1,
     "Language": "en",
@@ -179,17 +172,17 @@
     "Speaker names": [
       "Aly Sivji"
     ],
-    "Room": null,
-    "Start": null,
-    "End": null,
-    "Resources": [],
-    "Category": "Other"
+    "Room": {
+      "en": "Event Room"
+    },
+    "Start": "2023-04-02T15:45:00+00:00",
+    "End": "2023-04-02T11:10:00-05:00",
+    "Resources": []
   },
   {
     "ID": "KQYC8Z",
     "Proposal title": "Duck Typing, Metaclasses, & Recursion: Building a Generalized Deep Collection Type",
     "Proposal state": "confirmed",
-    "Pending proposal state": null,
     "Session type": {
       "en": "Talk"
     },
@@ -199,7 +192,6 @@
     "Abstract": "Quickly groking and working with deeply nested collections like combinations of  dicts and lists (and sometimes other types too) is a common problem, whether it's trying to understand a data set, an API response, or detailed instructions or results from infrastructure as code. Let's talk about current solutions to the problem, their limitations, and how to make that all even easier. Let's talk about making a DeepCollection that can handle anything.",
     "Description": "This talk will cover the motivation for a new library, Deep Collections, and some interesting and fun parts of its construction. There are several prior art libraries available, from dpath and Dotty-Dict, to the more recent python-benedict. Motivation for Deep Collections will include a brief discussion of the evolution of the prior art as well as their current limitations. Then we'll discuss how those limitations can be overcome generally, and how to implement some of the more fun and foundational portions of the Deep Collections code to do it.",
     "Notes": "The new library mentioned: https://github.com/terminal-labs/deep_collections",
-    "Internal notes": null,
     "Duration": 25,
     "Slot Count": 1,
     "Language": "en",
@@ -210,17 +202,17 @@
     "Speaker names": [
       "Joseph Nix"
     ],
-    "Room": null,
-    "Start": null,
-    "End": null,
-    "Resources": [],
-    "Category": "Other"
+    "Room": {
+      "en": "Event Room"
+    },
+    "Start": "2023-04-02T16:45:00+00:00",
+    "End": "2023-04-02T12:10:00-05:00",
+    "Resources": []
   },
   {
     "ID": "MGKFTY",
     "Proposal title": "Automating your Cloud Cost Analysis",
     "Proposal state": "confirmed",
-    "Pending proposal state": null,
     "Session type": {
       "en": "Talk"
     },
@@ -230,7 +222,6 @@
     "Abstract": "Public Cloud is often touted as a cheaper option, but the bills we get in the mail can be long and convoluted. For better or worse, any dollar spent in the cloud is a result of an architecture decision. This talk will give attendees a firm understanding of the relationship between the architecture and the invoice and the key metrics to keep an eye on.\r\n\r\nWe will cover:\r\n* What is FinOps and why is it important\r\n* Key metrics for measuring Cloud spend\r\n* Automating Cloud Invoices\r\n\r\nUsing Python, a SQL database, and FaaS, we can build a pipeline that automatically retrieves our invoice, and populates a searchable table to derive insights such as our top 5 most used services and biggest growing services. Attendees with small developers account to large multi-account deployments will better understand the impact of their architecture on their wallet.",
     "Description": "Cloud Economics or FinOps focuses on the efficiency of cloud architecture in performance per cost. It's a key topic for start-ups as they position themselves for growth and fundraising.\r\n\r\nIt's important for engineers to understand how much thier resources actually cost, even as a solo developer. Engineering Team Leads and Architects will get the most out of this talk as we will go over how to derive key metrics that can provide context to Finance Teams.\r\n\r\nWe will use functions-as-a-service and a python runtime to fetch a cloud invoice, import that data into a SQL database, and use that to get Month-over-Month and Year-over-Year reporting.",
     "Notes": "",
-    "Internal notes": null,
     "Duration": 25,
     "Slot Count": 1,
     "Language": "en",
@@ -241,17 +232,17 @@
     "Speaker names": [
       "Amy Arambulo Negrette"
     ],
-    "Room": null,
-    "Start": null,
-    "End": null,
-    "Resources": [],
-    "Category": "Other"
+    "Room": {
+      "en": "Event Room"
+    },
+    "Start": "2023-04-01T20:30:00+00:00",
+    "End": "2023-04-01T15:55:00-05:00",
+    "Resources": []
   },
   {
     "ID": "MNXLDQ",
     "Proposal title": "How to Build and Ship More Secure Python Apps with Sigstore",
     "Proposal state": "confirmed",
-    "Pending proposal state": null,
     "Session type": {
       "en": "Talk"
     },
@@ -261,7 +252,6 @@
     "Abstract": "Software supply chain security is increasingly important to the open source ecosystem, but the learning curve can be steep. Certificate authorities, transparency logs, keys, signing\u2026 and even keyless signing! What do these terms all mean and how can a Python developer incorporate tools that make their projects more secure?\r\n\r\nThis talk will provide a high-level overview of the developer-first open source project, Sigstore, within the Python context. We\u2019ll go through each component of Sigstore, including how to sign a software artifact with Cosign, how Fulcio issues certificates, and finally how developers and end users alike can verify claims made on the Rekor public ledger. We\u2019ll discuss how PyPI is leveraging Sigstore to help with verifying and trusting dependencies we all rely on. Finally, we\u2019ll go through a demonstration of creating, publishing, and signing a containerized Python app. \r\n\r\nThe audience will walk away with an understanding of how they can navigate software security more effectively and be better citizens of open source through implementing recommended security practices.",
     "Description": "This will be a hands on talk, with an introduction to the Sigstore project, a walk through, and a sample repo for demonstration.",
     "Notes": "",
-    "Internal notes": null,
     "Duration": 25,
     "Slot Count": 1,
     "Language": "en",
@@ -272,17 +262,17 @@
     "Speaker names": [
       "Lisa Tagliaferri"
     ],
-    "Room": null,
-    "Start": null,
-    "End": null,
-    "Resources": [],
-    "Category": "Security"
+    "Room": {
+      "en": "Event Room"
+    },
+    "Start": "2023-04-02T19:15:00+00:00",
+    "End": "2023-04-02T14:40:00-05:00",
+    "Resources": []
   },
   {
     "ID": "MTLBLT",
     "Proposal title": "A BuildEngineer in a buildless lang",
     "Proposal state": "confirmed",
-    "Pending proposal state": null,
     "Session type": {
       "en": "Talk"
     },
@@ -292,7 +282,6 @@
     "Abstract": "There\u2019s more to Python than the language. And there\u2019s more to Build Engineering than building code.\r\n\r\nAn entire ecosystem of amazing tools sit just beyond the atmosphere of Python\u2019s interpreter. It\u2019s a Build Engineer\u2019s job to ensure you\u2019re using the right ones, configured the right way, and that they run cohesively. As IBM Watson Orders' Build Engineer I am the guardian of the developer experience of almost 100 engineers and data scientists in a Python monorepo. In the past year pre-submit time plummeted, the ease-of-use of local development tools skyrocketed, and I became a maintainer of an Open Source Build System. I am restlessly passionate about their developer experience as well as yours. You should be too.\r\n\r\nCome find out why Build Engineering is important to you and your org, through one person\u2019s constant struggle to expect better, how to find and foster Build Engineering, and how you can build better Python for yourself and others.",
     "Description": "Build Engineering is a labor of love whose benefits can outstretch beyond one project or organization. Allow me to share with you what Build Engineering is, why it is important to you, and how we all stand on the shoulders of giants.\r\n\r\n#### What is Build Engineering?\r\n\r\nBuild Engineering encompasses more than the instructions we give computers to assemble and deploy our code. It is the incorporation of all the processes/workflows that the humans use to build software. In that sense, Build Engineering is responsible for the team's Developer Experience: the experience of the interaction between the human and the software.\r\n\r\nBuild Engineering doesn't have to come from a Build Engineer either. Although sufficiently large organizations hire dedicated Build Engineers, Build Egnineering can come from anyone motivated enough to care.\r\n\r\n#### Why should I care about Build Engineer/Developer Experience?\r\n\r\nThe truth is every developer is having an experience with their tools (or more accurately multiple experiences, but let's simplify). Some have it better than others. Good tooling can lead to fast turnaround times, higher code confidence, and happy devs. Bad tooling can result in slow, unhappy devs working in a difficult codebase.\r\n\r\n#### Standing on the Shoulders of Giants\r\n\r\nWant to jumpstart your own team's Build Engineering? Come find out the mix of tools I've blended for the developers at IBM Watson Orders, with a focus on speed, cohesion, and simplicity. What else exists in the Python-verse and how they could boost your team? And finally, where we as an ecosystem have room for improvement.",
     "Notes": "",
-    "Internal notes": null,
     "Duration": 25,
     "Slot Count": 1,
     "Language": "en",
@@ -303,17 +292,17 @@
     "Speaker names": [
       "Joshua Cannon"
     ],
-    "Room": null,
-    "Start": null,
-    "End": null,
-    "Resources": [],
-    "Category": "Software Engineering"
+    "Room": {
+      "en": "Event Room"
+    },
+    "Start": "2023-04-01T16:45:00+00:00",
+    "End": "2023-04-01T12:10:00-05:00",
+    "Resources": []
   },
   {
     "ID": "NDWZGE",
     "Proposal title": "Real-time Event Streaming with Python",
     "Proposal state": "confirmed",
-    "Pending proposal state": null,
     "Session type": {
       "en": "Talk"
     },
@@ -323,7 +312,6 @@
     "Abstract": "As real-time event streaming has become a necessity in many organizations, a plethora of libraries, frameworks, and applications have arisen to help meet that need. These different tools each have their own strengths and weaknesses, and you may end up deciding to use one or more of them, but many problems can be solved with a simpler approach.",
     "Description": "In this session, we will look at several techniques that we can use to build real-time applications with just Apache Kafka and the confluent-kafka Python package. You may be surprised at how far we can go with these simple tools, but we will also discuss the challenges you might face and the signs that you may need to pull a more powerful tool out of your toolbox. \r\n\r\nTo avoid being too abstract, we\u2019ll put some of our new knowledge to work by building an application that processes real-time social media data to see who is doing the most talking about #PyTexas. Attendees will be able to join in the conversation and maybe see their names on the leaderboard!",
     "Notes": "I really enjoyed speaking at and attending PyTexas last year. I hope I can join you all again!",
-    "Internal notes": null,
     "Duration": 25,
     "Slot Count": 1,
     "Language": "en",
@@ -334,17 +322,17 @@
     "Speaker names": [
       "Dave Klein"
     ],
-    "Room": null,
-    "Start": null,
-    "End": null,
-    "Resources": [],
-    "Category": "Software Engineering"
+    "Room": {
+      "en": "Event Room"
+    },
+    "Start": "2023-04-01T21:00:00+00:00",
+    "End": "2023-04-01T16:25:00-05:00",
+    "Resources": []
   },
   {
     "ID": "NT7ZVM",
     "Proposal title": "A Tale of Two Typings",
     "Proposal state": "confirmed",
-    "Pending proposal state": null,
     "Session type": {
       "en": "Talk"
     },
@@ -354,7 +342,6 @@
     "Abstract": "We discuss two different methodologies we have used to add type annotations to our Python services: gradually adding type annotations, or incrementally re-writing the code with type annotations. We'll discuss the benefits and challenges of each, when either may be appropriate, and our real-world experiences doing both.",
     "Description": "Do you have a large Python code-base that you think would benefit from type annotations and a static type checker? Are you wondering how to go about adding those type annotations? Do you think you should just chuck it all and start over? We've been there, and we can help!\r\n\r\nAfter a period of rapid product development, we found ourselves with two decently sized code bases that were becoming increasingly difficult to maintain; having some experience with static type checking, we felt confident that it would help improve the developer experience, but we weren't sure how to go about it. \r\n\r\nIn the end, we chose two different approaches for the two projects: the first, we started incrementally re-writing the application code with type annotations from the beginning, and the second, we started slowly adding type annotations to the existing code. Both techniques have their pros and cons, and, in the end, we felt like each was the right decision for that particular project.\r\n\r\nThis talk will discuss the characteristics of each project which led us to chose one method over the other, and the techniques we used to accomplish the task. We'll also discuss how we broke down the work, maintained the type checker configurations and the overall success of the efforts, so far.",
     "Notes": "",
-    "Internal notes": null,
     "Duration": 25,
     "Slot Count": 1,
     "Language": "en",
@@ -365,17 +352,17 @@
     "Speaker names": [
       "Thomas Stephens"
     ],
-    "Room": null,
-    "Start": null,
-    "End": null,
-    "Resources": [],
-    "Category": "Python Language & Features"
+    "Room": {
+      "en": "Event Room"
+    },
+    "Start": "2023-04-01T15:15:00+00:00",
+    "End": "2023-04-01T10:40:00-05:00",
+    "Resources": []
   },
   {
     "ID": "PCNK9D",
     "Proposal title": "Having fun with application design",
     "Proposal state": "confirmed",
-    "Pending proposal state": null,
     "Session type": {
       "en": "Talk"
     },
@@ -385,7 +372,6 @@
     "Abstract": "Do you ever look at your software systems and workflows holistically? Do you ever wonder what could be achieved through smarter designs and dedicated effort? When you design your applications, do you consider developer efficiency and satisfaction as much as end-user experience? Python offers the simplicity and flexibility to achieve both.\r\n\r\nIn this talk, I will explore a journey from supporting disjointed components and addressing ad hoc business requests to developing a technical vision and creating an elegant solution that both serves business needs and offers developers a pleasant support experience. I will also highlight the design thinking approach, software architecture \u201c-ilities\u201d concepts, and the decision process that took place during this project.",
     "Description": "As software developers, it is not uncommon having to address unexpected changes, be it emergency requests, changing requirements, or a newly discovered bug. Often, there will be a quick and straightforward solution that seems simple enough to warrant a quick change. The path of least resistance might be tempting, especially when we are pressed on time. But, is it always the best long-term solution? Will it result in duplicate code or introduce hidden hard-coded values?\r\n\r\nAs we gain experience and domain knowledge, we may foresee similar situations arising repeatedly in the future. But, the shortcomings of such an approach are not hard to miss: a growing code base that must be supported, a newly-found bug that will have to be addressed everywhere, retesting and redeployment. The same goes for new enhancements that must be introduced everywhere, while maintaining the same overhead.\r\n\r\nAnd what about developer satisfaction and efficiency? How happy are we to maintain this code and how likely are we to introduce new bugs as the requirements grow and the code expands? As importantly, how long will it take us to accommodate a new requirement? At one point during the pandemic, I was faced with similar dilemmas.\r\n\r\nI work in the field of regulatory technologies. Screening for sanctions, financial violations, money laundering, etc., is one of the most critical activities in this domain. With the tightening regulatory space and expanding business, we knew we would time and time again need to add new screening actions. So, how did we address our users\u2019 needs in a timely manner, while, at the same time, saving our own time and effort?\r\n\r\nThis was a start of an exciting journey, which led me from these questions through the design process to the implementation of the system, which keeps proving itself as an efficient and extensible solution for the regulatory needs we face.\r\n\r\nAfter this talk, my audience will gain an understanding of design thinking principles, software \u201c-ilities\u201d and, hopefully, develop their own ideas for improving application design.",
     "Notes": "",
-    "Internal notes": null,
     "Duration": 25,
     "Slot Count": 1,
     "Language": "en",
@@ -396,17 +382,17 @@
     "Speaker names": [
       "Natalya Buga"
     ],
-    "Room": null,
-    "Start": null,
-    "End": null,
-    "Resources": [],
-    "Category": "Software Engineering"
+    "Room": {
+      "en": "Event Room"
+    },
+    "Start": "2023-04-02T16:15:00+00:00",
+    "End": "2023-04-02T11:40:00-05:00",
+    "Resources": []
   },
   {
     "ID": "TQVW83",
     "Proposal title": "Practical Decorators",
     "Proposal state": "confirmed",
-    "Pending proposal state": null,
     "Session type": {
       "en": "Talk"
     },
@@ -416,7 +402,6 @@
     "Abstract": "Show some examples of useful decorators and talk about the pros and cons of the decorator protocol.",
     "Description": "Decorators are a fascinating piece of syntactic sugar in the Python language. These powerful bits of code can be used to reduce boilerplate code and make it easier to move around features. Let\u2019s explore a few simple examples of decorators and talk about the pros and cons of decorators as a feature.",
     "Notes": "",
-    "Internal notes": null,
     "Duration": 25,
     "Slot Count": 1,
     "Language": "en",
@@ -427,17 +412,17 @@
     "Speaker names": [
       "Josh Schneider"
     ],
-    "Room": null,
-    "Start": null,
-    "End": null,
-    "Resources": [],
-    "Category": "Python Language & Features"
+    "Room": {
+      "en": "Event Room"
+    },
+    "Start": "2023-04-02T15:15:00+00:00",
+    "End": "2023-04-02T10:40:00-05:00",
+    "Resources": []
   },
   {
     "ID": "TSREV8",
     "Proposal title": "Building a Deep Learning Framework from scratch with Python and NumPy",
     "Proposal state": "confirmed",
-    "Pending proposal state": null,
     "Session type": {
       "en": "Talk"
     },
@@ -447,7 +432,6 @@
     "Abstract": "There are many popular deep learning libraries like PyTorch, TensorFlow that provide users with a powerful interface to train deep learning algorithms with just a few lines of code with all the dirty stuff abstracted away from the user. If something goes wrong in the model, if the user is not well versed with how things work behind the scenes in these frameworks, then it would be nearly impossible to debug effectively. Hence in order to understand how these deep learning libraries work, we create them from scratch in order to better understand the mechanism behind the deep learning frameworks.",
     "Description": "Deep Learning libraries like PyTorch and TensorFlow are all the rage today. Just add a couple of layers, feed in the inputs, call the backward function to calculate the gradients and then update the parameters. A lot of functions that happen within it are abstracted away from the user. This gives the user a false impression of how easy it is to train neural nets, but it is vital that the user knows about what occurs under the hood in these libraries, that automatic differentiation isn't some magic but is a beautiful real world application of derivatives and the chain rule. I was this user who wanted to unravel the inner workings of these frameworks and understand them from the ground up. But when I checked the codebase of PyTorch, it was large and messy with a lot of code written in C++ for efficiency me being only fluent in Python, wasn't able to understand what was happening within it. In the spirit of Richard Feynman's \"What I cannot create, I do not understand\" I started to delve deep into the theory of automatic differentiation for back propagation in neural networks, the matrix calculus that is involved and how everything weaves together to create a framework that is highly customizable. Finally after a couple of months, I created one, with just NumPy for array operations! This talk will be focussed on the mathematical and programming fundamentals required for automatic differentiation, how you can build a deep learning framework on your own with custom operations, layers, optimisers and loss functions that will be deeply fulfilling and gives you a thorough understanding of the basics so that you feel confident and get a greater sense of appreciation for the popular deep learning frameworks.",
     "Notes": "",
-    "Internal notes": null,
     "Duration": 25,
     "Slot Count": 1,
     "Language": "en",
@@ -458,17 +442,17 @@
     "Speaker names": [
       "Pranav Sastry"
     ],
-    "Room": null,
-    "Start": null,
-    "End": null,
-    "Resources": [],
-    "Category": "Data Science,  Data Processing/Visualization, Machine Learning"
+    "Room": {
+      "en": "Event Room"
+    },
+    "Start": "2023-04-02T21:00:00+00:00",
+    "End": "2023-04-02T16:25:00-05:00",
+    "Resources": []
   },
   {
     "ID": "U9QBCR",
     "Proposal title": "HoloViz: Visualization and Interactive Dashboards in Python",
     "Proposal state": "confirmed",
-    "Pending proposal state": null,
     "Session type": {
       "en": "Talk"
     },
@@ -478,7 +462,6 @@
     "Abstract": "Do you use data visualization to understand data and tell stories? Do you need to visualize big data? Are you interested in leveling up your visualization skills and creating dashboards with HoloViz? This talk is for you!",
     "Description": "HoloViz is an open-source high-level Python visualization ecosystem that gives you the superpower to satisfy all your data visualization needs. In this talk, you will learn how to build visualizations easily even for big and multidimensional data, how to turn nearly any notebook into a deployable dashboard, and how to build interactive drill-down exploratory tools for your data and models without having to run a web-technology software development project. You will also learn how to turn your dashboard into WebAssembly and run your dashboard entirely in the browser with the magic of Pyodide and PyScript.",
     "Notes": "",
-    "Internal notes": null,
     "Duration": 25,
     "Slot Count": 1,
     "Language": "en",
@@ -489,17 +472,17 @@
     "Speaker names": [
       "Sophia Yang"
     ],
-    "Room": null,
-    "Start": null,
-    "End": null,
-    "Resources": [],
-    "Category": "Data Science,  Data Processing/Visualization, Machine Learning"
+    "Room": {
+      "en": "Event Room"
+    },
+    "Start": "2023-04-02T19:45:00+00:00",
+    "End": "2023-04-02T15:10:00-05:00",
+    "Resources": []
   },
   {
     "ID": "USAA9W",
     "Proposal title": "Improving code without losing your mind",
     "Proposal state": "confirmed",
-    "Pending proposal state": null,
     "Session type": {
       "en": "Talk"
     },
@@ -509,7 +492,6 @@
     "Abstract": "Do you find it harder to work with parts of your project? Do you shy away from working with aspects of your code? When showing people what you're working on, do you feel the need to explain why it got that way?\r\n\r\nAs our projects grow, they usually become harder to maintain. This happens when we focus too much on adding new features. As a result, our code becomes hard to change or understand.\r\n\r\nThis talk will give you a tool you can use to unwind that code, making it easier to change and understand, not to mention giving you more satisfaction.",
     "Description": "\"By continuously improving the design of code, we make it easier and easier to work with.\r\nThis is in sharp contrast to what typically happens: little refactoring and a great deal of attention paid to expediently adding new features.\r\nIf you get into the hygienic habit of refactoring continuously, you'll find that it is easier to extend and maintain code.\"\r\n\u2014\u2009Joshua Kerievsky, Refactoring to Patterns\r\n\r\nRefactoring is a vital skill for keeping projects healthy and growing. Without it, implementing new features and maintaining your project becomes painful. But most developers don\u2019t refactor their code. Moreover, many aren\u2019t even sure what it means to refactor.\r\n\r\nEven worse yet, following traditional refactoring advice can make your Python code worse.\r\n\r\nThankfully, a better way has emerged in the last few years.\r\n\r\nThis talk will walk you through how to refactor any piece of code.",
     "Notes": "",
-    "Internal notes": null,
     "Duration": 25,
     "Slot Count": 1,
     "Language": "en",
@@ -520,17 +502,17 @@
     "Speaker names": [
       "Chris May"
     ],
-    "Room": null,
-    "Start": null,
-    "End": null,
-    "Resources": [],
-    "Category": "Software Engineering"
+    "Room": {
+      "en": "Event Room"
+    },
+    "Start": "2023-04-01T21:30:00+00:00",
+    "End": "2023-04-01T16:55:00-05:00",
+    "Resources": []
   },
   {
     "ID": "VHQ8SD",
     "Proposal title": "Exploring Socio-technical Security Concerns in Critical Open-source Python Repositories",
     "Proposal state": "accepted",
-    "Pending proposal state": null,
     "Session type": {
       "en": "Talk"
     },
@@ -540,7 +522,6 @@
     "Abstract": "Looking at open-source security concerns from a socio-technical perspective is currently underexplored. In this talk, we will learn about analyzing such risks by looking at governance structures, pull requests, and GitHub configurations in open-source 3D printer projects and the overall top Python repositories.",
     "Description": "3D printers are a critical component in the industry supply chain, so it is important to secure 3D printer software and firmware. However, there are many open-source repositories that are related to 3D printing, meaning that anyone can contribute to a given project; in fact, even some proprietary software was forked from open-source repositories. In this session, we'll talk briefly about security risks of open-source development in the context of 3D printing; in addition, we'll look at findings from the overall top Python repositories on GitHub.",
     "Notes": "",
-    "Internal notes": null,
     "Duration": 25,
     "Slot Count": 1,
     "Language": "en",
@@ -554,7 +535,6 @@
     "Room": null,
     "Start": null,
     "End": null,
-    "Resources": [],
-    "Category": "Security"
+    "Resources": []
   }
 ]

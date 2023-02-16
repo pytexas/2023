@@ -123,9 +123,13 @@ MENUITEMS = {
         "Dropdown": True,
     },
     "Schedule": {
-        "Index": "/schedule/talks",
-        "Pages": {"Talks": "/schedule/talks"},
-        "Dropdown": False,
+        "Index": "/schedule",
+        "Pages": {
+            "Event Schedule": "/schedule",
+            "Talks": "/schedule/talks",
+            "Keynote Speakers": "/schedule/keynotes"
+        },
+        "Dropdown": True,
     },
 }
 
