@@ -5,7 +5,7 @@ date: 2023-01-03
 # Why Sponsor
 ---
 
-The PyTexas Conference is an annual gathering of Pythonistas put on by the PyTexas Foundation. We’re excited to announce that we will be returning on April 1 & 2, 2023 to the Austin Central Public Library in Austin, TX. This event is 100% community organized and is funded through the generosity of our sponsors. 
+The PyTexas Conference is an annual gathering of Pythonistas put on by the PyTexas Foundation. We’re excited to announce that we will be returning on April 1 and 2, 2023, to the Austin Central Public Library in Austin, TX. This event is 100% community organized and is funded through the generosity of our sponsors. 
 
 ## About the PyTexas Foundation and PyTexas Conference
 
@@ -40,12 +40,10 @@ You can view our full [Health and Safety Requirements](https://www.pytexas.org/a
 
 ## Addressing the Elephant in the Room
 
-All of our organizers are Texas residents and are all too familiar with the Texas Legislature’s continued attacks on certain marginalized communities. PyTexas is dedicated to creating a safe and inclusive space for all attendees. We have adopted a new [Code of Conduct](https://www.pytexas.org/about/code-of-conduct) this year to allow us to better protect our attendees and ensure the safety of everyone who attends. 
+All of our organizers are Texas residents and are all too familiar with the Texas Legislature's continued attacks on certain marginalized communities. PyTexas is dedicated to creating a safe and inclusive space for all attendees. We have adopted a new [Code of Conduct](https://www.pytexas.org/about/code-of-conduct) this year to allow us to better protect our attendees and ensure the safety of everyone who attends. 
 
 ---
 
-Thank you considering sponsoring PyTexas.
+Thank you for considering to sponsor PyTexas.
 
-If you’re interested in sponsoring PyTexas, please reach out to [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org).  We’ve had a renewed level of interest in PyTexas this year, nearly tripling the amount of organizers and have already surpassed prior years Early Bird ticket sales. We look forward to continue to serve the Python community in Texas for years to come, and we’d be honored if you were to help us achieve this goal.
-
-
+If you’re interested in sponsoring PyTexas, please reach out to [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org). We’ve had a renewed level of interest in PyTexas this year, nearly tripling the amount of organizers and have already surpassed prior years Early Bird ticket sales. We look forward to continue to serve the Python community in Texas for years to come, and we’d be honored if you were to help us achieve this goal.
