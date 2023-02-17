@@ -52,7 +52,8 @@ MARKDOWN = {
     "extensions": [
         TableExtension(),
         AttrListExtension(),
-        MarkdownInHtmlExtension()
+        MarkdownInHtmlExtension(),
+        TocExtension()
     ]
 }
 
