@@ -4,7 +4,7 @@ date: 2023-02-16
 
 # Talk Schedule
 
-_This schedule may change at any time between now and the start of the conference._
+_This schedule may change at any time between now and the start of the conference. Please keep watch for updates._
 
 <table class="table">
   <thead class="thead-dark">
@@ -22,13 +22,13 @@ _This schedule may change at any time between now and the start of the conferenc
     <th scope="row">09:15 AM</th>
     <td>
     <p style="text-align:center;">
-        <a href="schedule/keynotes/">Keynote</a>
+        <a href="schedule/keynotes">Keynote</a>
     </p>
     <p style="text-align:center;font-size:16px;">Brandon Rhodes</p>
 </td>
     <td>
     <p style="text-align:center;">
-        <a href="schedule/keynotes/">Keynote</a>
+        <a href="schedule/keynotes">Keynote</a>
     </p>
     <p style="text-align:center;font-size:16px;">Andy Knight</p>
 </td>
