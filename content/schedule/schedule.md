@@ -4,7 +4,7 @@ date: 2023-02-16
 
 # Talk Schedule
 
-_This schedule may change at any time between now and the start of the conference._
+_This schedule may change at any time between now and the start of the conference. Please keep watch for updates._
 
 <table class="table">
   <thead class="thead-dark">
@@ -22,13 +22,13 @@ _This schedule may change at any time between now and the start of the conferenc
     <th scope="row">09:15 AM</th>
     <td>
     <p style="text-align:center;">
-        <a href="schedule/keynotes/">Keynote</a>
+        <a href="schedule/keynotes#brandon-rhodes">Keynote</a>
     </p>
     <p style="text-align:center;font-size:16px;">Brandon Rhodes</p>
 </td>
     <td>
     <p style="text-align:center;">
-        <a href="schedule/keynotes/">Keynote</a>
+        <a href="schedule/keynotes#andrew-pandy-knight">Keynote</a>
     </p>
     <p style="text-align:center;font-size:16px;">Andy Knight</p>
 </td>
@@ -42,13 +42,13 @@ _This schedule may change at any time between now and the start of the conferenc
     <th scope="row">10:15 AM</th>
     <td>
     <p style="text-align:center;">
-        <a href="schedule/talks#NT7ZVM">A Tale of Two Typings</a>
+        <a href="schedule/talks#a-tale-of-two-typings">A Tale of Two Typings</a>
     </p>
     <p style="text-align:center;font-size:16px;">Thomas Stephens</p>
 </td>
     <td>
     <p style="text-align:center;">
-        <a href="schedule/talks#TQVW83">Practical Decorators</a>
+        <a href="schedule/talks#practical-decorators">Practical Decorators</a>
     </p>
     <p style="text-align:center;font-size:16px;">Josh Schneider</p>
 </td>
@@ -57,13 +57,13 @@ _This schedule may change at any time between now and the start of the conferenc
     <th scope="row">10:45 AM</th>
     <td>
     <p style="text-align:center;">
-        <a href="schedule/talks#HXXUYK">Trust Fall: Hidden Gems in MLFlow that Improve Model Credibility</a>
+        <a href="schedule/talks#trust-fall-hidden-gems-in-mlflow-that-improve-model-credibility">Trust Fall: Hidden Gems in MLFlow that Improve Model Credibility</a>
     </p>
     <p style="text-align:center;font-size:16px;">Krishi Sharma</p>
 </td>
     <td>
     <p style="text-align:center;">
-        <a href="schedule/talks#JASMQM">Unlocking the Power of Health Data: An Introduction to FHIR and Python</a>
+        <a href="schedule/talks#unlocking-the-power-of-health-data-an-introduction-to-fhir-and-python">Unlocking the Power of Health Data: An Introduction to FHIR and Python</a>
     </p>
     <p style="text-align:center;font-size:16px;">Aly Sivji</p>
 </td>
@@ -73,7 +73,7 @@ _This schedule may change at any time between now and the start of the conferenc
     <td style="text-align:center">TBA</td>
     <td>
     <p style="text-align:center;">
-        <a href="schedule/talks#PCNK9D">Having fun with application design</a>
+        <a href="schedule/talks#having-fun-with-application-design">Having fun with application design</a>
     </p>
     <p style="text-align:center;font-size:16px;">Natalya Buga</p>
 </td>
@@ -82,13 +82,13 @@ _This schedule may change at any time between now and the start of the conferenc
     <th scope="row">11:45 AM</th>
     <td>
     <p style="text-align:center;">
-        <a href="schedule/talks#MTLBLT">A BuildEngineer in a buildless lang</a>
+        <a href="schedule/talks#a-buildengineer-in-a-buildless-lang">A BuildEngineer in a buildless lang</a>
     </p>
     <p style="text-align:center;font-size:16px;">Joshua Cannon</p>
 </td>
     <td>
     <p style="text-align:center;">
-        <a href="schedule/talks#KQYC8Z">Duck Typing, Metaclasses, & Recursion: Building a Generalized Deep Collection Type</a>
+        <a href="schedule/talks#duck-typing-metaclasses-recursion-building-a-generalized-deep-collection-type">Duck Typing, Metaclasses, & Recursion: Building a Generalized Deep Collection Type</a>
     </p>
     <p style="text-align:center;font-size:16px;">Joseph Nix</p>
 </td>
@@ -102,13 +102,13 @@ _This schedule may change at any time between now and the start of the conferenc
     <th scope="row">02:15 PM</th>
     <td>
     <p style="text-align:center;">
-        <a href="schedule/talks#CV9CUV">Recursion for Beginners: A Beginner's Guide to Recursion</a>
+        <a href="schedule/talks#recursion-for-beginners-a-beginners-guide-to-recursion">Recursion for Beginners: A Beginner's Guide to Recursion</a>
     </p>
     <p style="text-align:center;font-size:16px;">Al Sweigart</p>
 </td>
     <td>
     <p style="text-align:center;">
-        <a href="schedule/talks#MNXLDQ">How to Build and Ship More Secure Python Apps with Sigstore</a>
+        <a href="schedule/talks#how-to-build-and-ship-more-secure-python-apps-with-sigstore">How to Build and Ship More Secure Python Apps with Sigstore</a>
     </p>
     <p style="text-align:center;font-size:16px;">Lisa Tagliaferri</p>
 </td>
@@ -117,13 +117,13 @@ _This schedule may change at any time between now and the start of the conferenc
     <th scope="row">02:45 PM</th>
     <td>
     <p style="text-align:center;">
-        <a href="schedule/talks#7X79PK">Build your own ChatGPT</a>
+        <a href="schedule/talks#build-your-own-chatgpt">Build your own ChatGPT</a>
     </p>
     <p style="text-align:center;font-size:16px;">Lizzie Siegle</p>
 </td>
     <td>
     <p style="text-align:center;">
-        <a href="schedule/talks#U9QBCR">HoloViz: Visualization and Interactive Dashboards in Python</a>
+        <a href="schedule/talks#holoviz-visualization-and-interactive-dashboards-in-python">HoloViz: Visualization and Interactive Dashboards in Python</a>
     </p>
     <p style="text-align:center;font-size:16px;">Sophia Yang</p>
 </td>
@@ -137,13 +137,13 @@ _This schedule may change at any time between now and the start of the conferenc
     <th scope="row">03:30 PM</th>
     <td>
     <p style="text-align:center;">
-        <a href="schedule/talks#MGKFTY">Automating your Cloud Cost Analysis</a>
+        <a href="schedule/talks#automating-your-cloud-cost-analysis">Automating your Cloud Cost Analysis</a>
     </p>
     <p style="text-align:center;font-size:16px;">Amy Arambulo Negrette</p>
 </td>
     <td>
     <p style="text-align:center;">
-        <a href="schedule/talks#C3PBVR">Put your Pants on and lint all your Python code!</a>
+        <a href="schedule/talks#put-your-pants-on-and-lint-all-your-python-code">Put your Pants on and lint all your Python code!</a>
     </p>
     <p style="text-align:center;font-size:16px;">Aurelien Didier</p>
 </td>
@@ -152,13 +152,13 @@ _This schedule may change at any time between now and the start of the conferenc
     <th scope="row">04:00 PM</th>
     <td>
     <p style="text-align:center;">
-        <a href="schedule/talks#NDWZGE">Real-time Event Streaming with Python</a>
+        <a href="schedule/talks#real-time-event-streaming-with-python">Real-time Event Streaming with Python</a>
     </p>
     <p style="text-align:center;font-size:16px;">Dave Klein</p>
 </td>
     <td>
     <p style="text-align:center;">
-        <a href="schedule/talks#TSREV8">Building a Deep Learning Framework from scratch with Python and NumPy</a>
+        <a href="schedule/talks#building-a-deep-learning-framework-from-scratch-with-python-and-numpy">Building a Deep Learning Framework from scratch with Python and NumPy</a>
     </p>
     <p style="text-align:center;font-size:16px;">Pranav Sastry</p>
 </td>
@@ -167,13 +167,13 @@ _This schedule may change at any time between now and the start of the conferenc
     <th scope="row">04:30 PM</th>
     <td>
     <p style="text-align:center;">
-        <a href="schedule/talks#USAA9W">Improving code without losing your mind</a>
+        <a href="schedule/talks#improving-code-without-losing-your-mind">Improving code without losing your mind</a>
     </p>
     <p style="text-align:center;font-size:16px;">Chris May</p>
 </td>
     <td>
     <p style="text-align:center;">
-        <a href="schedule/talks#F7HAMC">Using Python for Digital Investigations</a>
+        <a href="schedule/talks#using-python-for-digital-investigations">Using Python for Digital Investigations</a>
     </p>
     <p style="text-align:center;font-size:16px;">Tristan Lee</p>
 </td>
