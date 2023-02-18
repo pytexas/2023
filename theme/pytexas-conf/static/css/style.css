@@ -768,6 +768,18 @@ mark {
     height: auto
 }
 
+.speakers {
+    align-self: flex-start !important;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: .3125rem;
+    height: auto;
+    margin-right: 1.5rem !important;
+    max-height: 250px;
+    max-width: fit-content;
+    padding: .25rem;
+}
+
 .figure {
     display: inline-block
 }
