@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>PyTexas 2023 - speaking</title><link href="https://www.pytexas.org/" rel="alternate"></link><link href="https://www.pytexas.org/feeds/speaking.atom.xml" rel="self"></link><id>https://www.pytexas.org/</id><updated>2023-01-03T00:00:00-06:00</updated><subtitle>Home of Python in Texas</subtitle><entry><title>Keynote Speakers</title><link href="https://www.pytexas.org/speaking/keynotes.html" rel="alternate"></link><published>2023-01-03T00:00:00-06:00</published><updated>2023-01-03T00:00:00-06:00</updated><author><name>PyTexas Devs</name></author><id>tag:www.pytexas.org,2023-01-03:/speaking/keynotes.html</id><summary type="html">&lt;h1&gt;Keynote Speakers&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyTexas 2023 - speaking</title><link href="https://www.pytexas.org/" rel="alternate"></link><link href="https://www.pytexas.org/feeds/speaking.atom.xml" rel="self"></link><id>https://www.pytexas.org/</id><updated>2023-01-03T00:00:00-06:00</updated><subtitle>Home of Python in Texas</subtitle><entry><title>Keynote Speakers</title><link href="https://www.pytexas.org/speaking/keynotes.html" rel="alternate"></link><published>2023-01-03T00:00:00-06:00</published><updated>2023-01-03T00:00:00-06:00</updated><author><name>PyTexas Devs</name></author><id>tag:www.pytexas.org,2023-01-03:/speaking/keynotes.html</id><summary type="html">&lt;h1 id="keynote-speakers"&gt;Keynote Speakers&lt;/h1&gt;
 &lt;hr /&gt;
-&lt;h2&gt;Andrew (Pandy) Knight&lt;/h2&gt;
+&lt;h2 id="andrew-pandy-knight"&gt;Andrew (Pandy) Knight&lt;/h2&gt;
 &lt;div class="row mb-4"&gt;
 &lt;div class="col-3"&gt;
 &lt;p&gt;&lt;img alt="Pandy Knight" src="/theme/img/andy-knight.png" /&gt;
@@ -10,9 +10,9 @@
 &lt;p&gt;Andrew Knight, also known as “Pandy,” is the Automation Panda.
 He’s a software quality champion who loves to help people build better quality software.
 In the past, he’s built large-scale test automation projects that run continuously and reliably.
-Currently, as a Developer Advocate …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;h1&gt;Keynote Speakers&lt;/h1&gt;
+Currently, as a Developer Advocate …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;h1 id="keynote-speakers"&gt;Keynote Speakers&lt;/h1&gt;
 &lt;hr /&gt;
-&lt;h2&gt;Andrew (Pandy) Knight&lt;/h2&gt;
+&lt;h2 id="andrew-pandy-knight"&gt;Andrew (Pandy) Knight&lt;/h2&gt;
 &lt;div class="row mb-4"&gt;
 &lt;div class="col-3"&gt;
 &lt;p&gt;&lt;img alt="Pandy Knight" src="/theme/img/andy-knight.png" /&gt;
@@ -31,7 +31,7 @@ On the side, he is writing a book on software testing with Manning Publications.
 Check out his tech blog at &lt;a href="https://automationpanda.com"&gt;AutomationPanda.com&lt;/a&gt;,
 and follow him on Twitter at &lt;a href="https://twitter.com/automationpanda"&gt;@AutomationPanda&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
-&lt;h2&gt;Brandon Rhodes&lt;/h2&gt;
+&lt;h2 id="brandon-rhodes"&gt;Brandon Rhodes&lt;/h2&gt;
 &lt;div class="row mb-4"&gt;
 &lt;div class="col-3 d-flex justify-content-center"&gt;
 &lt;p&gt;&lt;img alt="Brandon Rhodes" src="/theme/img/brandon-rhodes.jpeg" /&gt;&lt;/p&gt;
@@ -47,30 +47,30 @@ along with smaller projects like the elegant little &lt;a href="https://pypi.org
 module that’s compatible with every Python back to Python 2.3.
 He is a Fellow of the Python Software Foundation,
 on whose behalf he served as the volunteer chair of PyCon 2016–2017 in Portland.&lt;/p&gt;
-&lt;/div&gt;</content><category term="speaking"></category></entry><entry><title>Give A Talk</title><link href="https://www.pytexas.org/speaking/talks.html" rel="alternate"></link><published>2022-10-23T00:00:00-05:00</published><updated>2022-10-23T00:00:00-05:00</updated><author><name>PyTexas Devs</name></author><id>tag:www.pytexas.org,2022-10-23:/speaking/talks.html</id><summary type="html">&lt;h1&gt;Speaking at PyTexas&lt;/h1&gt;
+&lt;/div&gt;</content><category term="speaking"></category></entry><entry><title>Give A Talk</title><link href="https://www.pytexas.org/speaking/talks.html" rel="alternate"></link><published>2022-10-23T00:00:00-05:00</published><updated>2022-10-23T00:00:00-05:00</updated><author><name>PyTexas Devs</name></author><id>tag:www.pytexas.org,2022-10-23:/speaking/talks.html</id><summary type="html">&lt;h1 id="speaking-at-pytexas"&gt;Speaking at PyTexas&lt;/h1&gt;
 &lt;hr /&gt;
-&lt;h2&gt;Conference format&lt;/h2&gt;
+&lt;h2 id="conference-format"&gt;Conference format&lt;/h2&gt;
 &lt;p&gt;PyTexas is a single-track conference with a total attendence of ~250 people.&lt;/p&gt;
-&lt;h2&gt;Call for proposals&lt;/h2&gt;
+&lt;h2 id="call-for-proposals"&gt;Call for proposals&lt;/h2&gt;
 &lt;p&gt;The PyTexas call for proposals is open. &lt;a href="https://pretalx.com/pytexas-2023/"&gt;Submit your talk now&lt;/a&gt;:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The Call For Proposals (CFP) opens November 15th, 2022&lt;/li&gt;
-&lt;li&gt;The Call For Proposals (CFP) closes on January 15th, 2023 …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;Speaking at PyTexas&lt;/h1&gt;
+&lt;li&gt;The Call For Proposals (CFP) closes on January 15th, 2023 …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h1 id="speaking-at-pytexas"&gt;Speaking at PyTexas&lt;/h1&gt;
 &lt;hr /&gt;
-&lt;h2&gt;Conference format&lt;/h2&gt;
+&lt;h2 id="conference-format"&gt;Conference format&lt;/h2&gt;
 &lt;p&gt;PyTexas is a single-track conference with a total attendence of ~250 people.&lt;/p&gt;
-&lt;h2&gt;Call for proposals&lt;/h2&gt;
+&lt;h2 id="call-for-proposals"&gt;Call for proposals&lt;/h2&gt;
 &lt;p&gt;The PyTexas call for proposals is open. &lt;a href="https://pretalx.com/pytexas-2023/"&gt;Submit your talk now&lt;/a&gt;:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The Call For Proposals (CFP) opens November 15th, 2022&lt;/li&gt;
 &lt;li&gt;The Call For Proposals (CFP) closes on January 15th, 2023, 23:59 CST.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Talks&lt;/h2&gt;
+&lt;h2 id="talks"&gt;Talks&lt;/h2&gt;
 &lt;p&gt;Talks must be 25 minutes long, including any optional Q&amp;amp;A.&lt;/p&gt;
 &lt;p&gt;If you have an idea for a presentation that doesn’t fit the above guidelines, please submit it anyway. If it’s interesting enough, we’ll arrange our program around it.&lt;/p&gt;
-&lt;h2&gt;Who should submit a proposal?&lt;/h2&gt;
+&lt;h2 id="who-should-submit-a-proposal"&gt;Who should submit a proposal?&lt;/h2&gt;
 &lt;p&gt;Everyone! We want all kinds of proposals from people of all experience levels. Whether you’ve never given a talk at a conference, or have given dozens. Whether you just discovered Python, or are an old hand. Whether you’re a programmer, designer, scientist, or music theorist (or whatever). We want to hear what you have to share!&lt;/p&gt;
-&lt;h2&gt;What should I give a talk on?&lt;/h2&gt;
+&lt;h2 id="what-should-i-give-a-talk-on"&gt;What should I give a talk on?&lt;/h2&gt;
 &lt;p&gt;Your talk can be about anything related to the Python programming language or of interest to the Python community. Some specific areas that people have expressed interest in for talks this year include:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;General Python programming&lt;/li&gt;
@@ -93,5 +93,5 @@ on whose behalf he served as the volunteer chair of PyCon 2016–2017 in Portlan
 &lt;li&gt;Development tools for Python (or written in Python)&lt;/li&gt;
 &lt;li&gt;etc.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Does PyTexas offer any financial support for speakers?&lt;/h2&gt;
+&lt;h2 id="does-pytexas-offer-any-financial-support-for-speakers"&gt;Does PyTexas offer any financial support for speakers?&lt;/h2&gt;
 &lt;p&gt;PyTexas is a community driven, volunteer-supported, not-for-profit conference with an “everybody pays” policy. This means that we ask everyone to purchase a ticket, and &lt;a href="/attend/grants"&gt;offer financial support&lt;/a&gt; to anyone that needs it, regardless of whether they are a speaker or not. If you have a talk accepted, and do not need financial aid in order to attend, you will need to purchase a ticket and provide your own accommodations.&lt;/p&gt;</content><category term="speaking"></category></entry></feed>
