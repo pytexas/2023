@@ -6,182 +6,20 @@ date: 2023-02-16
 
 _This schedule may change at any time between now and the start of the conference. Please keep watch for updates both here and on social media._
 
-<table class="table">
-  <thead class="thead-dark">
-    <th width="20%" scope="col">Time</th>
-    <th style="text-align:center;" scope="col">Saturday</th>
-    <th style="text-align:center;" scope="col">Sunday</th>
-  </thead>
-  <tbody>
-  <tr>
-    <th scope="row">09:00 AM</th>
-    <td style="text-align:center">Day 1 Opening Remarks</td>
-    <td style="text-align:center">Day 2 Opening Remarks</td>
-</tr>
-<tr>
-    <th scope="row">09:15 AM</th>
-    <td>
-    <p style="text-align:center;">
-        <a href="schedule/keynotes#brandon-rhodes">Keynote</a>
-    </p>
-    <p style="text-align:center;font-size:16px;">Brandon Rhodes</p>
-</td>
-    <td>
-    <p style="text-align:center;">
-        <a href="schedule/keynotes#andrew-pandy-knight">Keynote</a>
-    </p>
-    <p style="text-align:center;font-size:16px;">Andy Knight</p>
-</td>
-</tr>
-<tr>
-    <th scope="row">10:00 AM</th>
-    <td style="text-align:center">15 Minute Break</td>
-    <td style="text-align:center">15 Minute Break</td>
-</tr>
-<tr>
-    <th scope="row">10:15 AM</th>
-    <td>
-    <p style="text-align:center;">
-        <a href="schedule/talks#a-tale-of-two-typings">A Tale of Two Typings</a>
-    </p>
-    <p style="text-align:center;font-size:16px;">Thomas Stephens</p>
-</td>
-    <td>
-    <p style="text-align:center;">
-        <a href="schedule/talks#practical-decorators">Practical Decorators</a>
-    </p>
-    <p style="text-align:center;font-size:16px;">Josh Schneider</p>
-</td>
-</tr>
-<tr>
-    <th scope="row">10:45 AM</th>
-    <td>
-    <p style="text-align:center;">
-        <a href="schedule/talks#trust-fall-hidden-gems-in-mlflow-that-improve-model-credibility">Trust Fall: Hidden Gems in MLFlow that Improve Model Credibility</a>
-    </p>
-    <p style="text-align:center;font-size:16px;">Krishi Sharma</p>
-</td>
-    <td>
-    <p style="text-align:center;">
-        <a href="schedule/talks#unlocking-the-power-of-health-data-an-introduction-to-fhir-and-python">Unlocking the Power of Health Data: An Introduction to FHIR and Python</a>
-    </p>
-    <p style="text-align:center;font-size:16px;">Aly Sivji</p>
-</td>
-</tr>
-<tr>
-    <th scope="row">11:15 AM</th>
-    <td style="text-align:center">TBA</td>
-    <td>
-    <p style="text-align:center;">
-        <a href="schedule/talks#having-fun-with-application-design">Having fun with application design</a>
-    </p>
-    <p style="text-align:center;font-size:16px;">Natalya Buga</p>
-</td>
-</tr>
-<tr>
-    <th scope="row">11:45 AM</th>
-    <td>
-    <p style="text-align:center;">
-        <a href="schedule/talks#a-buildengineer-in-a-buildless-lang">A BuildEngineer in a buildless lang</a>
-    </p>
-    <p style="text-align:center;font-size:16px;">Joshua Cannon</p>
-</td>
-    <td>
-    <p style="text-align:center;">
-        <a href="schedule/talks#duck-typing-metaclasses-recursion-building-a-generalized-deep-collection-type">Duck Typing, Metaclasses, & Recursion: Building a Generalized Deep Collection Type</a>
-    </p>
-    <p style="text-align:center;font-size:16px;">Joseph Nix</p>
-</td>
-</tr>
-<tr>
-    <th scope="row">12:15 PM</th>
-    <td style="text-align:center">Lunch</td>
-    <td style="text-align:center">Lunch</td>
-</tr>
-<tr>
-    <th scope="row">02:15 PM</th>
-    <td>
-    <p style="text-align:center;">
-        <a href="schedule/talks#recursion-for-beginners-a-beginners-guide-to-recursion">Recursion for Beginners: A Beginner's Guide to Recursion</a>
-    </p>
-    <p style="text-align:center;font-size:16px;">Al Sweigart</p>
-</td>
-    <td>
-    <p style="text-align:center;">
-        <a href="schedule/talks#how-to-build-and-ship-more-secure-python-apps-with-sigstore">How to Build and Ship More Secure Python Apps with Sigstore</a>
-    </p>
-    <p style="text-align:center;font-size:16px;">Lisa Tagliaferri</p>
-</td>
-</tr>
-<tr>
-    <th scope="row">02:45 PM</th>
-    <td>
-    <p style="text-align:center;">
-        <a href="schedule/talks#build-your-own-chatgpt">Build your own ChatGPT</a>
-    </p>
-    <p style="text-align:center;font-size:16px;">Lizzie Siegle</p>
-</td>
-    <td>
-    <p style="text-align:center;">
-        <a href="schedule/talks#holoviz-visualization-and-interactive-dashboards-in-python">HoloViz: Visualization and Interactive Dashboards in Python</a>
-    </p>
-    <p style="text-align:center;font-size:16px;">Sophia Yang</p>
-</td>
-</tr>
-<tr>
-    <th scope="row">03:15 PM</th>
-    <td style="text-align:center">15 Minute Break</td>
-    <td style="text-align:center">15 Minute Break</td>
-</tr>
-<tr>
-    <th scope="row">03:30 PM</th>
-    <td>
-    <p style="text-align:center;">
-        <a href="schedule/talks#automating-your-cloud-cost-analysis">Automating your Cloud Cost Analysis</a>
-    </p>
-    <p style="text-align:center;font-size:16px;">Amy Arambulo Negrette</p>
-</td>
-    <td>
-    <p style="text-align:center;">
-        <a href="schedule/talks#put-your-pants-on-and-lint-all-your-python-code">Put your Pants on and lint all your Python code!</a>
-    </p>
-    <p style="text-align:center;font-size:16px;">Aurelien Didier</p>
-</td>
-</tr>
-<tr>
-    <th scope="row">04:00 PM</th>
-    <td>
-    <p style="text-align:center;">
-        <a href="schedule/talks#real-time-event-streaming-with-python">Real-time Event Streaming with Python</a>
-    </p>
-    <p style="text-align:center;font-size:16px;">Dave Klein</p>
-</td>
-    <td>
-    <p style="text-align:center;">
-        <a href="schedule/talks#building-a-deep-learning-framework-from-scratch-with-python-and-numpy">Building a Deep Learning Framework from scratch with Python and NumPy</a>
-    </p>
-    <p style="text-align:center;font-size:16px;">Pranav Sastry</p>
-</td>
-</tr>
-<tr>
-    <th scope="row">04:30 PM</th>
-    <td>
-    <p style="text-align:center;">
-        <a href="schedule/talks#improving-code-without-losing-your-mind">Improving code without losing your mind</a>
-    </p>
-    <p style="text-align:center;font-size:16px;">Chris May</p>
-</td>
-    <td>
-    <p style="text-align:center;">
-        <a href="schedule/talks#using-python-for-digital-investigations">Using Python for Digital Investigations</a>
-    </p>
-    <p style="text-align:center;font-size:16px;">Tristan Lee</p>
-</td>
-</tr>
-<tr>
-    <th scope="row">05:00 PM</th>
-    <td style="text-align:center">Lighnting Talks</td>
-    <td style="text-align:center">Lighnting Talks</td>
-</tr>
-  </tbody>
-</table>
+| Time {: ^ .table } |                                                                               Saturday                                                                               |                                                                                              Sunday                                                                                               |
+|:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 09:00&nbsp;AM      |                                                                        Day 1 Opening Remarks                                                                         |                                                                                       Day 2 Opening Remarks                                                                                       |
+| 09:15&nbsp;AM      |                                                    [Keynote](schedule/keynotes#brandon-rhodes)<br/>Brandon Rhodes                                                    |                                                                 [Keynote](schedule/keynotes#andrew-pandy-knight)<br/>Andy Knight                                                                  |
+| 10:00&nbsp;AM      |                                                                           15 Minute Break                                                                            |                                                                                          15 Minute Break                                                                                          |
+| 10:15&nbsp;AM      |                                          [A Tale of Two Typings](schedule/talks#a-tale-of-two-typings)<br/>Thomas Stephens                                           |                                                          [Practical Decorators](schedule/talks#practical-decorators)<br/>Josh Schneider                                                           |
+| 10:45&nbsp;AM      | [Trust Fall: Hidden Gems in MLFlow that Improve Model Credibility](schedule/talks#trust-fall-hidden-gems-in-mlflow-that-improve-model-credibility)<br/>Krishi Sharma |           [Unlocking the Power of Health Data: An Introduction to FHIR and Python](schedule/talks#unlocking-the-power-of-health-data-an-introduction-to-fhir-and-python)<br/>Aly Sivji            |
+| 11:15&nbsp;AM      |                                                                                 TBA                                                                                  |                                             [Having fun with application design](schedule/talks#having-fun-with-application-design)<br/>Natalya Buga                                              |
+| 11:45&nbsp;AM      |                             [A BuildEngineer in a buildless lang](schedule/talks#a-buildengineer-in-a-buildless-lang)<br/>Joshua Cannon                              | [Duck Typing, Metaclasses, & Recursion: Building a Generalized Deep Collection Type](schedule/talks#duck-typing-metaclasses-recursion-building-a-generalized-deep-collection-type)<br/>Joseph Nix |
+| 12:15&nbsp;PM      |                                                                                Lunch                                                                                 |                                                                                               Lunch                                                                                               | 
+| 02:15&nbsp;PM      |          [Recursion for Beginners: A Beginner's Guide to Recursion](schedule/talks#recursion-for-beginners-a-beginners-guide-to-recursion)<br/>Al Sweigart           |                  [How to Build and Ship More Secure Python Apps with Sigstore](schedule/talks#how-to-build-and-ship-more-secure-python-apps-with-sigstore)<br/>Lisa Tagliaferri                   |
+| 02:45&nbsp;PM      |                                          [Build your own ChatGPT](schedule/talks#build-your-own-chatgpt)<br/>Lizzie Siegle                                           |                     [HoloViz: Visualization and Interactive Dashboards in Python](schedule/talks#holoviz-visualization-and-interactive-dashboards-in-python)<br/>Sophia Yang                      |
+| 03:15&nbsp;PM      |                                                                           15-Minute Break                                                                            |                                                                                          15-Minute Break                                                                                          |
+| 03:30&nbsp;PM      |                         [Automating your Cloud Cost Analysis](schedule/talks#automating-your-cloud-cost-analysis)<br/>Amy Arambulo Negrette                          |                              [Put your Pants on and lint all your Python code!](schedule/talks#put-your-pants-on-and-lint-all-your-python-code)<br/>Aurelien Didier                               |
+| 04:00&nbsp;PM      |                             [Real-time Event Streaming with Python](schedule/talks#real-time-event-streaming-with-python)<br/>Dave Klein                             |          [Building a Deep Learning Framework from scratch with Python and NumPy](schedule/talks#building-a-deep-learning-framework-from-scratch-with-python-and-numpy)<br/>Pranav Sastry          |
+| 04:30&nbsp;PM      |                           [Improving code without losing your mind](schedule/talks#improving-code-without-losing-your-mind)<br/>Chris May                            |                                         [Using Python for Digital Investigations](schedule/talks#using-python-for-digital-investigations)<br/>Tristan Lee                                         |
+| 05:00&nbsp;PM      |                                                                           Lightning Talks                                                                            |                                                                                          Lightning Talks                                                                                          |
