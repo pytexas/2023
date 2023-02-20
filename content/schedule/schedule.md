@@ -4,7 +4,7 @@ date: 2023-02-16
 
 # Talk Schedule
 
-_This schedule may change at any time between now and the start of the conference. Please keep watch for updates._
+_This schedule may change at any time between now and the start of the conference. Please keep watch for updates both here and on social media._
 
 <table class="table">
   <thead class="thead-dark">
