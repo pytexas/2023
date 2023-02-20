@@ -34,10 +34,10 @@ jobs:
       with:
         branch: main
         folder: output
-        clean: true
-        clean-exclude: |
-            - output/.nojekyll
-            - output/CNAME
+        clean: false
+#         clean-exclude: |
+#             - output/.nojekyll
+#             - output/CNAME
       if: success()
       env:
         ACCESS_TOKEN: ${{ secrets.GH_PAT }}
