@@ -295,6 +295,12 @@ table .row-head {
     padding-bottom: 0.5rem;
 }
 
+table .speaker-line {
+    border-top: 1px solid #dee2e6;
+    padding: 1rem;
+    vertical-align: top;
+}
+
 table tr {
     border-bottom: var(--black) 1px solid;
 }
