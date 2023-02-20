@@ -87,7 +87,7 @@
                         {% if items.Dropdown %}
                             <div class="dropdown">
                                 <div class="dropdown-text">{{ title }}</div>
-                                <input type="checkbox">
+                                <input type="radio" name="menu_dropdowns">
                                 <div class="dropdown-container">
                                     {% for pgtitle, link in items.Pages.items() %}
                                         <a href="{{ link }}">{{ pgtitle }}</a>

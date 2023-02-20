@@ -9,6 +9,7 @@ from markdown.extensions.tables import TableExtension
 from markdown.extensions.md_in_html import MarkdownInHtmlExtension
 from markdown.extensions.attr_list import AttrListExtension
 from markdown.extensions.toc import TocExtension
+from utils.ext_table_class import PMAttrListExtension
 
 
 AUTHOR = "PyTexas Devs"
@@ -51,9 +52,10 @@ THEME = "theme/pytexas-conf"
 MARKDOWN = {
     "extensions": [
         TableExtension(),
-        AttrListExtension(),
+        # AttrListExtension(),
         MarkdownInHtmlExtension(),
-        TocExtension()
+        TocExtension(),
+        PMAttrListExtension()
     ]
 }
 
@@ -115,14 +117,14 @@ MENUITEMS = {
         },
         "Dropdown": True,
     },
-    "Speaking": {
-        "Index": "/speaking",
-        "Pages": {
-            "Keynote Speakers": "/speaking/keynotes",
-            "Give A Talk": "/speaking/talks",
-        },
-        "Dropdown": True,
-    },
+    # "Speaking": {
+    #     "Index": "/speaking",
+    #     "Pages": {
+    #         "Keynote Speakers": "/speaking/keynotes",
+    #         "Give A Talk": "/speaking/talks",
+    #     },
+    #     "Dropdown": True,
+    # },
     "Schedule": {
         "Index": "/schedule",
         "Pages": {
