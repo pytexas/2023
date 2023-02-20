@@ -26,6 +26,9 @@ jobs:
     - name: Add nojekyll
       run: |
         touch ./output/.nojekyll
+    - name: Add CNAME
+      run: |
+        echo "www.pytexas.org" > ./output/CNAME
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@v4.4.1
       with:
@@ -33,8 +36,8 @@ jobs:
         folder: output
         clean: true
         clean-exclude: |
-            - .nojekyll
-            - CNAME
+            - output/.nojekyll
+            - output/CNAME
       if: success()
       env:
         ACCESS_TOKEN: ${{ secrets.GH_PAT }}
