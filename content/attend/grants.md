@@ -15,4 +15,4 @@ Currently we have a limited budget and are evaluating what we can provide. Ticke
 
 If you are facing a financial hardship, or would not be able to attend without assistance, please fill out the application below. Applications will be approved by Feb. 20<sup>th</sup> 2023.
 
-**[Grant Application](https://goo.gl/forms/WXcF0xFzBfOHPLU43)**
+**[Grant Application](https://forms.gle/ByHsVjwUmqnrAJUa6)**
