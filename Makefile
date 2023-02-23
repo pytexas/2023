@@ -48,7 +48,6 @@ help:
 	@echo '                                                                          '
 
 html:
-	python utils/talk_builder.py
 	"$(PELICAN)" "$(INPUTDIR)" -o "$(OUTPUTDIR)" -s "$(CONFFILE)" $(PELICANOPTS)
 
 clean:
