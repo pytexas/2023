@@ -28,6 +28,12 @@ We thank all of the following sponsors for making this year's PyTexas possible:
 [![Manning Publications Logo](/theme/img/sponsors/manning.png)](https://www.manning.com/)
 
 </div>
+<div class="col-3" markdown="1">
+
+[![Jetbrains Logo](/theme/img/sponsors/jetbrains.png)](https://www.jetbrains.com/)
+
+</div>
+
 </div>
 
 #### Community & Media Sponsors
