@@ -6,6 +6,16 @@ date: 2022-10-23
 # Our Sponsors
 We thank all of the following sponsors for making this year's PyTexas possible:
 
+## Community Grants
+<div class="row mb-6 align-items-center" markdown="1">
+<div class="col-6" markdown="1">
+
+[![PSF logo](/theme/img/sponsors/psf.png)](https://http://www.python.org/psf)
+
+</div>
+</div>
+
+
 ## Silver Sponsors
 <div class="row mb-4 align-items-center" markdown="1">
 <div class="col-4" markdown="1">
