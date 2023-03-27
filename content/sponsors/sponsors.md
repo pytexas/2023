@@ -10,7 +10,7 @@ We thank all of the following sponsors for making this year's PyTexas possible:
 <div class="row mb-6 align-items-center" markdown="1">
 <div class="col-6" markdown="1">
 
-[![PSF logo](/theme/img/sponsors/psf.png)](https://http://www.python.org/psf)
+[![PSF logo](/theme/img/sponsors/psf.png)](https://www.python.org/psf)
 
 </div>
 </div>

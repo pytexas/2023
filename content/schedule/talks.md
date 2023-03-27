@@ -271,24 +271,6 @@ Test Automation architect at Dell Technologies. Geeky dad with 1+ years in Impro
 
 ---
 
-## Building a Deep Learning Framework from scratch with Python and NumPy
-
-_Talk_{:role=doc-subheading}
-
-There are many popular deep learning libraries like PyTorch, TensorFlow that provide users with a powerful interface to train deep learning algorithms with just a few lines of code with all the dirty stuff abstracted away from the user. If something goes wrong in the model, if the user is not well versed with how things work behind the scenes in these frameworks, then it would be nearly impossible to debug effectively. Hence in order to understand how these deep learning libraries work, we create them from scratch in order to better understand the mechanism behind the deep learning frameworks.
-
-### Speaker: Pranav Sastry
-
-<div markdown="1" class="media text-small">
-
-![](https://pretalx.com/media/avatars/Photo_ZG4Ar0K.jpg){:.speakers}
-
-Deep learner
-
-</div>
-
----
-
 ## HoloViz: Visualization and Interactive Dashboards in Python
 
 _Talk_{:role=doc-subheading}
