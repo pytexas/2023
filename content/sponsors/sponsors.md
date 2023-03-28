@@ -23,6 +23,13 @@ We thank all of the following sponsors for making this year's PyTexas possible:
 [![Terminal Labs logo](/theme/img/sponsors/terminal-labs.svg)](https://www.terminallabs.com/)
 
 </div>
+
+<div class="col-4" markdown="1">
+
+[![Indeed logo](/theme/img/sponsors/indeed.png)](https://www.indeed.com/)
+
+</div>
+
 </div>
 
 #### Door Prize Sponsors
