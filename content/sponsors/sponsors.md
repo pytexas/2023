@@ -13,6 +13,11 @@ We thank all of the following sponsors for making this year's PyTexas possible:
 [![PSF logo](/theme/img/sponsors/psf.png)](https://www.python.org/psf)
 
 </div>
+<div class="col-6" markdown="1">
+
+[![HEB logo](/theme/img/sponsors/heb.png)](https://heb.com)
+
+</div>
 </div>
 
 
@@ -47,7 +52,7 @@ We thank all of the following sponsors for making this year's PyTexas possible:
 </div>
 <div class="col-3" markdown="1">
 
-[![Jetbrains Logo](/theme/img/sponsors/jetbrains.png)](https://www.jetbrains.com/)
+[![Texas Instruments Logo](/theme/img/sponsors/texas-instruments.png)](https://www.ti.com/)
 
 </div>
 
