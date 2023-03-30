@@ -98,6 +98,7 @@ MENUITEMS = {
     "Attend": {
         "Index": "/attend",
         "Pages": {
+            "Registration Intake Form": "https://forms.gle/i2cvgQzkSm85kFH47",
             "Buy Tickets": "https://ti.to/pytexas/2023",
             "Health and Safety Guidelines": "/attend/health",
             "Venue": "/attend/venue",
@@ -130,10 +131,18 @@ MENUITEMS = {
         "Pages": {
             "Event Schedule": "/schedule",
             "Talks": "/schedule/talks",
-            "Keynote Speakers": "/schedule/keynotes"
+            "Keynote Speakers": "/schedule/keynotes",
+            "Propose a Lightning Talk": "https://forms.gle/GWiEri4XZPguc1LX7",
         },
         "Dropdown": True,
     },
+    "Job Board": {
+        "Index": "/",
+        "Pages": {
+            "Resume Upload": "https://forms.gle/sAKu4gnvUX8oQH5t5"
+        },
+        "Dropdown": True,
+    }
 }
 
 JINJA_FILTERS = {
