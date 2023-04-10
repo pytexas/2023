@@ -11,16 +11,25 @@ from markdown.extensions.attr_list import AttrListExtension
 from markdown.extensions.toc import TocExtension
 from utils.ext_table_class import PMAttrListExtension
 
+ARCHIVE = False
+ARCHIVE_URL = "2023"
 
 AUTHOR = "PyTexas Devs"
 SITETITLE = "PyTexas 2023"
 SITENAME = "PyTexas 2023"
 SITESUBTITLE = "Home of Python in Texas"
 SITEDESCRIPTION = "The PyTexas Foundation is a non-profit dedicated to educating engineers about Python in the state of Texas"
-SITEURL = "http://localhost:8000"
+
+if ARCHIVE is False:
+    SITEURL = "http://localhost:8000"
+else:
+    SITEURL = f"https://archive.pytexas.org/{ARCHIVE_URL}/"
+
 SITESRC = "https://github.com/pytexas/conference.pytexas.org"
+ 
 SITELOGO = SITEURL + "/static/favicon.png"
 FAVICON = SITEURL + "/static/favicon.ico"
+
 
 CONFERENCE_YEAR = 2023
 CONFERENCE_DATES = "April 1 & 2, 2023"
@@ -41,8 +50,12 @@ AUTHOR_FEED_RSS = None
 # URL settings
 # ARTICLE_URL = "{date:%Y}/{date:%m}/{date:%d}/{slug}/"
 # ARTICLE_SAVE_AS = "{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html"
+
+
 PAGE_URL = "{slug}/"
 PAGE_SAVE_AS = "{slug}/index.html"
+
+
 HOME_BUTTON_TEXT = "PyTexas 2023 Recordings"
 HOME_BUTTON_URL = "https://www.youtube.com/playlist?list=PL0MRiRrXAvRhiru4h8fVF987v5tdLlr1X"
 # DRAFT_URL = '{slug}.html'
@@ -100,8 +113,8 @@ MENUITEMS = {
     "Attend": {
         "Index": "/attend",
         "Pages": {
-            "Registration Intake Form": "https://forms.gle/i2cvgQzkSm85kFH47",
-            "Buy Tickets": "https://ti.to/pytexas/2023",
+            #"Registration Intake Form": "https://forms.gle/i2cvgQzkSm85kFH47",
+           #"Buy Tickets": "https://ti.to/pytexas/2023",
             "Health and Safety Guidelines": "/attend/health",
             "Venue": "/attend/venue",
             "Parking": "/attend/parking",
@@ -134,7 +147,7 @@ MENUITEMS = {
             "Event Schedule": "/schedule",
             "Talks": "/schedule/talks",
             "Keynote Speakers": "/schedule/keynotes",
-            "Propose a Lightning Talk": "https://forms.gle/GWiEri4XZPguc1LX7",
+            #"Propose a Lightning Talk": "https://forms.gle/GWiEri4XZPguc1LX7",
         },
         "Dropdown": True,
     },
