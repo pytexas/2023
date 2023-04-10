@@ -23,7 +23,7 @@ SITEDESCRIPTION = "The PyTexas Foundation is a non-profit dedicated to educating
 if ARCHIVE is False:
     SITEURL = "http://localhost:8000"
 else:
-    SITEURL = f"http://archive.pytexas.org/{ARCHIVE_URL}/"
+    SITEURL = f"https://archive.pytexas.org/{ARCHIVE_URL}/"
 
 SITESRC = "https://github.com/pytexas/conference.pytexas.org"
  
