@@ -43,6 +43,8 @@ AUTHOR_FEED_RSS = None
 # ARTICLE_SAVE_AS = "{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html"
 PAGE_URL = "{slug}/"
 PAGE_SAVE_AS = "{slug}/index.html"
+HOME_BUTTON_TEXT = "PyTexas 2023 Recordings"
+HOME_BUTTON_URL = "https://www.youtube.com/playlist?list=PL0MRiRrXAvRhiru4h8fVF987v5tdLlr1X"
 # DRAFT_URL = '{slug}.html'
 # DRAFT_SAVE_AS = 'drafts/{slug}.html'
 
@@ -136,13 +138,6 @@ MENUITEMS = {
         },
         "Dropdown": True,
     },
-    "Job Board": {
-        "Index": "/",
-        "Pages": {
-            "Resume Upload": "https://forms.gle/sAKu4gnvUX8oQH5t5"
-        },
-        "Dropdown": True,
-    }
 }
 
 JINJA_FILTERS = {

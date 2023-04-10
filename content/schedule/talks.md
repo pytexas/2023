@@ -12,6 +12,8 @@ _Talk_{:role=doc-subheading}
 
 Interested in machine learning and chatbots? This talk is for you! We'll go over the OpenAI API and use cases, particularly how you can build your own ChatGPT over text message using Python.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RuA8bLSBX7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Speaker: Lizzie Siegle
 
 <div markdown="1" class="media text-small">
@@ -29,6 +31,8 @@ Lizzie is an international speaker, engineer, and Twilio developer evangelist kn
 _Talk_{:role=doc-subheading}
 
 Are you struggling to enforce custom code conventions in large codebases? Learn how to automate this process while maintaining a consistent CI time using Pylint and Pants Build. Attendees will be able to apply the stack in their own codebases right away.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pi604jPzAy0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Speaker: Aurelien Didier
 
@@ -48,6 +52,8 @@ _Talk_{:role=doc-subheading}
 
 An introduction to recursion and the Python-specific functionality for recursion. Recursion is not just for computer science wizards, and this talk breaks it down into smaller (and smaller!) concepts.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tAKfA3Lfvi0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Speaker: Al Sweigart
 
 <div markdown="1" class="media text-small">
@@ -65,6 +71,8 @@ Al Sweigart is a software developer, fellow of the Python Software Foundation, a
 _Talk_{:role=doc-subheading}
 
 With the vast amount of publicly available data unleashed by the internet's rise, anyone can now document war crimes, track extremist movements, and investigate environmental abuses. This talk will cover how Python tools and developers can accelerate and improve the accessibility of such digital investigations, and hold power to account.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JfLSx6BDGvE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Speaker: Tristan Lee
 
@@ -84,6 +92,8 @@ _Talk_{:role=doc-subheading}
 
 When it comes to machine learning projects, verifying and trusting model performance results is a particularly grueling challenge. This talk will explore both how we can use Python to instill confidence in model metrics and the best way to keep models versioned to increase transparency and accessibility across the team. The tactics demonstrated will help developers save precious development time and increase transparency by incorporating metric tracking early on.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mkDYySbT1xU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Speaker: Krishi Sharmai
 
 <div markdown="1" class="media text-small">
@@ -100,6 +110,8 @@ Krishi is a software developer at KUNGFU.AI and has been developing with Python 
 _Talk_{:role=doc-subheading}
 
 Healthcare organizations generate and store vast amounts of data, but accessing and utilizing this data can be a challenge. One solution to this problem is FHIR (Fast Healthcare Interoperability Resources), a standard for exchanging electronic health information. In this talk, we will explore the basics of FHIR and its data model, as well as how to use Python to interact with FHIR servers and manipulate FHIR data. We will also discuss real-world examples of how FHIR and Python are being used in the healthcare industry to improve patient care and drive innovation. Attendees will come away with a solid understanding of FHIR and Python, and be equipped to start using these technologies to unlock the power of their own health data.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/atWzjajDzBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Speaker: Aly Sivji
 
@@ -118,6 +130,8 @@ Aly Sivji is a Canadian ex-pat living in Chicago. By day, he works as a Team Lea
 _Talk_{:role=doc-subheading}
 
 Quickly groking and working with deeply nested collections like combinations of  dicts and lists (and sometimes other types too) is a common problem, whether it's trying to understand a data set, an API response, or detailed instructions or results from infrastructure as code. Let's talk about current solutions to the problem, their limitations, and how to make that all even easier. Let's talk about making a DeepCollection that can handle anything.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YuO-VRB4w8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Speaker: Joseph Nix
 
@@ -144,6 +158,8 @@ We will cover:
 
 Using Python, a SQL database, and FaaS, we can build a pipeline that automatically retrieves our invoice, and populates a searchable table to derive insights such as our top 5 most used services and biggest growing services. Attendees with small developers account to large multi-account deployments will better understand the impact of their architecture on their wallet.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mkjj0TSjx9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Speaker: Amy Arambulo Negrette
 
 <div markdown="1" class="media text-small">
@@ -164,6 +180,8 @@ Software supply chain security is increasingly important to the open source ecos
 This talk will provide a high-level overview of the developer-first open source project, Sigstore, within the Python context. We’ll go through each component of Sigstore, including how to sign a software artifact with Cosign, how Fulcio issues certificates, and finally how developers and end users alike can verify claims made on the Rekor public ledger. We’ll discuss how PyPI is leveraging Sigstore to help with verifying and trusting dependencies we all rely on. Finally, we’ll go through a demonstration of creating, publishing, and signing a containerized Python app. 
 
 The audience will walk away with an understanding of how they can navigate software security more effectively and be better citizens of open source through implementing recommended security practices.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZdBUl4FKZcg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Speaker: Lisa Tagliaferri
 
@@ -187,6 +205,8 @@ An entire ecosystem of amazing tools sit just beyond the atmosphere of Python’
 
 Come find out why Build Engineering is important to you and your org, through one person’s constant struggle to expect better, how to find and foster Build Engineering, and how you can build better Python for yourself and others.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OENthsW-bMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Speaker: Joshua Cannon
 
 <div markdown="1" class="media text-small">
@@ -204,6 +224,8 @@ Howdy!<br/><br/>I'm a Build Engineer at IBM Watson Orders, and a maintainer of t
 _Talk_{:role=doc-subheading}
 
 As real-time event streaming has become a necessity in many organizations, a plethora of libraries, frameworks, and applications have arisen to help meet that need. These different tools each have their own strengths and weaknesses, and you may end up deciding to use one or more of them, but many problems can be solved with a simpler approach.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ggt4g8zzlPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Speaker: Dave Klein
 
@@ -223,6 +245,8 @@ _Talk_{:role=doc-subheading}
 
 We discuss two different methodologies we have used to add type annotations to our Python services: gradually adding type annotations, or incrementally re-writing the code with type annotations. We'll discuss the benefits and challenges of each, when either may be appropriate, and our real-world experiences doing both.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aif9RUoP1fY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Speaker: Thomas Stephens
 
 <div markdown="1" class="media text-small">
@@ -240,6 +264,8 @@ _Talk_{:role=doc-subheading}
 Do you ever look at your software systems and workflows holistically? Do you ever wonder what could be achieved through smarter designs and dedicated effort? When you design your applications, do you consider developer efficiency and satisfaction as much as end-user experience? Python offers the simplicity and flexibility to achieve both.
 
 In this talk, I will explore a journey from supporting disjointed components and addressing ad hoc business requests to developing a technical vision and creating an elegant solution that both serves business needs and offers developers a pleasant support experience. I will also highlight the design thinking approach, software architecture “-ilities” concepts, and the decision process that took place during this project.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_p_YtyaGlTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Speaker: Natalya Buga
 
@@ -259,6 +285,8 @@ _Talk_{:role=doc-subheading}
 
 Show some examples of useful decorators and talk about the pros and cons of the decorator protocol.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/anbFw5p-w1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Speaker: Josh Schneider
 
 <div markdown="1" class="media text-small">
@@ -276,6 +304,8 @@ Test Automation architect at Dell Technologies. Geeky dad with 1+ years in Impro
 _Talk_{:role=doc-subheading}
 
 Do you use data visualization to understand data and tell stories? Do you need to visualize big data? Are you interested in leveling up your visualization skills and creating dashboards with HoloViz? This talk is for you!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8du4NNoOtII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Speaker: Sophia Yang
 
@@ -298,6 +328,8 @@ As our projects grow, they usually become harder to maintain. This happens when 
 
 This talk will give you a tool you can use to unwind that code, making it easier to change and understand, not to mention giving you more satisfaction.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P1QFCx2aFBY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Speaker: Chris May
 
 <div markdown="1" class="media text-small">
@@ -316,6 +348,8 @@ _Talk_{:role=doc-subheading}
 
 Looking at open-source security concerns from a socio-technical perspective is currently underexplored. In this talk, we will learn about analyzing such risks by looking at governance structures, pull requests, and GitHub configurations in open-source 3D printer projects and the overall top Python repositories.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ixz9BmhdCuk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Speaker: Jessy Ayala
 
 <div markdown="1" class="media text-small">
@@ -323,3 +357,39 @@ Looking at open-source security concerns from a socio-technical perspective is c
 ![](/theme/img/2023-logo.png){:.speakers}
 
 </div>
+
+## Lightning Talks Day 1
+
+_Talk_{:role=doc-subheading}
+
+Rapid fire 5 minute talks
+
+Speakers: 
+
+* Paul McGuire 
+* Josh Schneider
+* Al Sweigart
+* Shreya Batra
+* Joshua Cannon
+* Leon Vanstone 
+* Eric Adams
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y_lfGon4iiE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Lightning Talks Day 2
+
+_Talk_{:role=doc-subheading}
+
+Rapid fire 5 minute talks
+
+Speakers: 
+
+* Andrew Knight
+* Ilan Schnell
+* Mara Manskie
+* Josh Schneider
+* Adam Allevato
+* Brandon Rhodes
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BLD6hPnlS1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
