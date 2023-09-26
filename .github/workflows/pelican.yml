@@ -26,9 +26,6 @@ jobs:
     - name: Add nojekyll
       run: |
         touch ./output/.nojekyll
-    - name: Add CNAME
-      run: |
-        echo "www.pytexas.org" > ./output/CNAME
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@v4.4.1
       with:
@@ -43,5 +40,4 @@ jobs:
         ACCESS_TOKEN: ${{ secrets.GH_PAT }}
         BASE_BRANCH: build # The branch the action should deploy from.
         BRANCH: main # The branch the action should deploy to.
-        CNAME: www.pytexas.org
         FOLDER: output # The folder the action should deploy.
