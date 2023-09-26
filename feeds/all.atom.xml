@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>PyTexas 2023</title><link href="https://www.pytexas.org/" rel="alternate"></link><link href="https://www.pytexas.org/feeds/all.atom.xml" rel="self"></link><id>https://www.pytexas.org/</id><updated>2023-02-16T00:00:00-06:00</updated><subtitle>Home of Python in Texas</subtitle><entry><title>Full Schedule</title><link href="https://www.pytexas.org/schedule.html" rel="alternate"></link><published>2023-02-16T00:00:00-06:00</published><updated>2023-02-16T00:00:00-06:00</updated><author><name>PyTexas Devs</name></author><id>tag:www.pytexas.org,2023-02-16:/schedule.html</id><summary type="html">&lt;h1 id="talk-schedule"&gt;Talk Schedule&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;This schedule may change at any time between now and the start of the conference. Please keep watch for updates both here and on social media.&lt;/em&gt;&lt;/p&gt;
 &lt;table class="table"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -18,8 +17,21 @@
 &lt;tr&gt;
 &lt;td style="text-align: left;"&gt;09:00&amp;nbsp;AM&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;Day 1 Opening Remarks&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;Day 2 Opening …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;h1 id="talk-schedule"&gt;Talk Schedule&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;This schedule may change at any time between now and the start of the conference. Please keep watch for updates both here and on social media.&lt;/em&gt;&lt;/p&gt;
+&lt;td style="text-align: center;"&gt;Day 2 Opening Remarks&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;09:15&amp;nbsp;AM&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="schedule/keynotes#brandon-rhodes"&gt;Keynote&lt;/a&gt;&lt;br/&gt;Brandon Rhodes&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="schedule/keynotes#andrew-pandy-knight"&gt;Keynote&lt;/a&gt;&lt;br/&gt;Andy Knight&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;10:00&amp;nbsp;AM&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;15 Minute Break&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;15 Minute Break&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;10:15&amp;nbsp;AM&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="schedule/talks#a-tale-of-two-typings"&gt;A Tale of Two …&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;h1 id="talk-schedule"&gt;Talk Schedule&lt;/h1&gt;
 &lt;table class="table"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
