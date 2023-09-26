@@ -4,8 +4,6 @@ date: 2023-02-16
 
 # Talk Schedule
 
-_This schedule may change at any time between now and the start of the conference. Please keep watch for updates both here and on social media._
-
 | Time {: ^ .table } |                                                                               Saturday                                                                               |                                                                                              Sunday                                                                                               |
 |:-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | 08:00&nbsp;AM      |                                                                        Registration Opens & Breakfast                                                                         |                                                                                       Registration Opens & Breakfast                                                                                        |
