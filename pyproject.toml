@@ -2,13 +2,14 @@
 name = "pytexas-conference-site"
 version = "0.1.0"
 description = ""
-authors = ["Mason Egger <mason@pytexas.org>", "Laura Santamaria <laura@nimbinatus.com>"]
-packages = [
-    { include = "utils" }
+authors = [
+    "Mason Egger <mason@pytexas.org>",
+    "Laura Santamaria <laura@nimbinatus.com>",
 ]
+packages = [{ include = "utils" }]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.12"
 pelican = "^4.8.0"
 pelican-neighbors = "^1.2.0"
 markdown = "^3.4.1"
