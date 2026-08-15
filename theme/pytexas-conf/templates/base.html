@@ -63,7 +63,7 @@
                         </a>
                         <ul id="submenu">
                             {% for pgtitle, link in items.Pages.items() %}
-                                <a href="{{ link }}">
+                                <a href="{% if ARCHIVE %}/{{ARCHIVE_URL}}{% endif %}{{ link }}{% if ARCHIVE %}.html{% endif %}">
                                     <li>{{ pgtitle }}</li>
                                 </a>
                             {% endfor %}
@@ -90,7 +90,7 @@
                                 <input type="radio" name="menu_dropdowns">
                                 <div class="dropdown-container">
                                     {% for pgtitle, link in items.Pages.items() %}
-                                        <a href="{{ link }}">{{ pgtitle }}</a>
+                                        <a href="{% if ARCHIVE %}/{{ARCHIVE_URL}}{% endif %}{{ link }}{% if ARCHIVE %}.html{% endif %}">{{ pgtitle }}</a>
                                     {% endfor %}
                                 </div>
                             </div>
